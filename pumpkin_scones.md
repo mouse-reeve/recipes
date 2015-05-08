@@ -1,16 +1,17 @@
 Pumpkin Scones
+==============
 
-2 cups all purpose flour
-1/3 cup light or dark brown sugar
-1/2 tsp ground ginger
-1/2 tsp ground cinnamon
-1 tsp baking powder
-1/2 tsp baking soda
-1/4 tsp salt
-1/2 cup cold unsalted butter, cut into pieces
-1/3 - 1/2 cup buttermil
-1/2 cup canned pure pumpkin
-1 teaspoon pure vanilla extract
+- 2 cups all purpose flour
+- 1/3 cup light or dark brown sugar
+- 1/2 tsp ground ginger
+- 1/2 tsp ground cinnamon
+- 1 tsp baking powder
+- 1/2 tsp baking soda
+- 1/4 tsp salt
+- 1/2 cup cold unsalted butter, cut into pieces
+- 1/3 - 1/2 cup buttermil
+- 1/2 cup canned pure pumpkin
+- 1 teaspoon pure vanilla extract
 
 Preheat oven to 400 degrees F and place rack in the center of the oven.
 
@@ -23,4 +24,4 @@ Transfer to a lightly floured surface and knead dough gently four or five times 
 Place the baking sheet inside another baking sheet to prevent the bottoms of the scones from over browning. Bake for about 20 minutes or until golden brown and a toothpick inserted in the middle comes out clean. Transfer to a wire rack to cool.
 
 
-Source: http://www.joyofbaking.com/PumpkinScones.html
+> Source: http://www.joyofbaking.com/PumpkinScones.html

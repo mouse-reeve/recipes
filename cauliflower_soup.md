@@ -1,12 +1,13 @@
 Cauliflower Soup
+===============
 
-1 head cauliflower
-2 tbsp extra-virgin olive oil
-1 small onion, chopped
-2 cloves garlic, minced
-1 quart veggie broth
-1/2 cup finely grated Parmesan
-Salt and freshly ground black pepper
+- 1 head cauliflower
+- 2 tbsp extra-virgin olive oil
+- 1 small onion, chopped
+- 2 cloves garlic, minced
+- 1 quart veggie broth
+- 1/2 cup finely grated Parmesan
+- Salt and freshly ground black pepper
 
 Remove the leaves and thick core from the cauliflower, coarsely chop, and reserve.
 
@@ -21,4 +22,4 @@ Add the Parmesan and stir until smooth.
 Season, to taste, with salt and black pepper. Keep warm until ready to serve.
 
 
-Source: http://smittenkitchen.com/blog/2006/09/the-fragile-cooking-ego/
+> Source: http://smittenkitchen.com/blog/2006/09/the-fragile-cooking-ego/
