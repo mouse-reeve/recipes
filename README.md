@@ -1,2 +1,2 @@
 # recipes
-I like food ¯\_(ツ)_/¯
+I like food ¯\\_(ツ)_/¯
