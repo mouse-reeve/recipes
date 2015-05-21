@@ -6,9 +6,9 @@ Cream Scones
 - 2 tsp baking powder
 - 1/4 tsp salt
 - 1/3 cup cold unsalted butter, cut into pieces
+- 1/2 cup milk, half-and-half, or heavy cream
 - 1 large egg, lightly beaten
 - 1 teaspoon pure vanilla extract
-- 1/2 cup milk, half-and-half, or heavy cream
 
 Preheat oven to 375 degrees F and place the rack in the middle of the oven. Line a baking sheet with parchment paper.
 
