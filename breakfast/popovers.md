@@ -1,16 +1,16 @@
 Popovers
 ========
 
-- 1 1/2 tablespoons unsalted butter, melted, plus softened butter for greasing pans
-- 1 1/2 cups flour
-- 3/4 teaspoon kosher salt
+- 2 tablespoons unsalted butter, melted, plus softened butter for greasing pans
+- 1/2 cups flour
+- 1/2 teaspoon kosher salt
 - 3 extra-large eggs, at room temperature
-- 1 1/2 cups milk, at room temperature
+- 1 cup milk, at room temperature
 
-Preheat the oven to 425 degrees F.
+Preheat the oven to 450 degrees F.
 
-Generously grease muffin tin with softened butter. You'll need enough pans to make 12 popovers. Place the pans in the oven for exactly 2 minutes to preheat.
+Generously grease muffin tin with softened butter. You'll need enough pans to make 12 popovers.
 
-Meanwhile, whisk together the flour, salt, eggs, milk, and melted butter until smooth. The batter will be thin. Fill the popover pans less than half full and bake for exactly 30 minutes. Do not peek.
+Whisk together the flour, salt, eggs, milk, and melted butter until smooth. Let the batter rest for 10 minutes. 
 
-> Source: http://www.foodnetwork.com/recipes/ina-garten/popovers-recipe.html
+Heat the muffin tin in the oven for 5 minutes. Divide the batter into the cups. Bake for 15 minutes, then reduce the temperature to 350 degrees F. for another 20 minutes.
