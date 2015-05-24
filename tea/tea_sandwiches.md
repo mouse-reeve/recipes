@@ -1,7 +1,7 @@
 Tea Sandwiches
 ==============
 
-Use soft white bread. Tea sandwiches should be simple, savory, and light. Cut them into triangles or don't bother. 
+Use soft white bread. Tea sandwiches should be simple, savory, and light. Cut them into triangles or don't bother making them at all. 
 
 Vegetarian
 ----------
