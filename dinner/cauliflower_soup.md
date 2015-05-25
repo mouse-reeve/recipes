@@ -1,5 +1,6 @@
 Cauliflower Soup
 ===============
+It's vegan if you leave off the cheese.
 
 - 1 head cauliflower
 - 2 tbsp extra-virgin olive oil
