@@ -3,7 +3,7 @@ Olive Oil Pie Crust
 
 - 2 1/2 cups flour
 - 3/4 tsp salt
-- 2/3 cup olive oil, partially frozen (see above note)
+- 2/3 cup olive oil, partially frozen
 - 4 to 8 tbsps ice water
 - 1 tbsp apple cider vinegar
 
