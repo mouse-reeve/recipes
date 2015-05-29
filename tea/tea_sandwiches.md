@@ -6,7 +6,9 @@ Use soft white bread. Tea sandwiches should be simple, savory, and light. Cut th
 Vegetarian
 ----------
 - Cream cheese and cucumber
-- Pesto and mozzarella 
+- Pesto and mozzarella
+- Egg salad
+- Cheese and chutney
 
 Vegan
 -----
