@@ -1,5 +1,5 @@
-Rosemary Shortbread
-===================
+Rosemary Shortbread Cookies
+===========================
 
 - 1 1/2 cups unsalted butter
 - 2/3 cup white sugar
