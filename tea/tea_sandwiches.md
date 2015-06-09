@@ -9,7 +9,8 @@ Vegetarian
 - Pesto and mozzarella
 - Egg salad
 - Cheese and chutney
+- Pear and brie
 
 Vegan
 -----
-- Hummus and cucumber 
+- Hummus and cucumber
