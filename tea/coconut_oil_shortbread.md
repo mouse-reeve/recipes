@@ -5,7 +5,7 @@ Coconut Oil Shortbread Cookies
 - 1/4 cup sugar
 - 2 tsp vanilla extract
 - 2 tbsp water
-- 1 1/4 cups water
+- 1 1/4 cups flour
 
 Cream oil, sugar, vanilla extract, and water with an electric mixer until smooth and combined. 
 
