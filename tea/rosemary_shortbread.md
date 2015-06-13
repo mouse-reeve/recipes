@@ -9,7 +9,7 @@ Rosemary Shortbread Cookies
 
 In a medium bowl, cream together the butter and 2/3 cup of sugar until light and fluffy. Stir in the flour, salt, and rosemary until well blended. The dough will be somewhat soft.
 
-Roll the dough into a long log (or two), wrap in celophane, and refrigerate for 1 hour.
+Roll the dough into a long log (or two), wrap in cellophane, and refrigerate for 1 hour.
 
 Preheat the oven to 375 degrees F. Line cookie sheets with parchment paper.
 
