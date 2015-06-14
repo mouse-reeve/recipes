@@ -1,6 +1,5 @@
 Lemon Curd
 ==========
-
 This is the only lemon curd recipe, all others pale in comparison.
 
 - 1/2 cup fresh lemon juice (probably 2-3 lemons)

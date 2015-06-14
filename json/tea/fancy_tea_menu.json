@@ -1,0 +1,20 @@
+{
+    "title": "Fancy Tea",
+    "Items": [
+        "Cup cauliflower soup",
+        {"Tea sandwiches (two of each)": [
+                "Cucumber and cream cheese",
+                "Pear and brie",
+                "Egg salad"
+        ]},
+        "Cut fruit and vanilla whipped cream",
+        "Toasted crumpet",
+        "Pumpkin scones",
+        "Rosemary shortbread"
+    ],
+    "Spreads": [
+        "Lemon curd",
+        "Devon cream",
+        "Raspberry jam"
+    ]
+}
