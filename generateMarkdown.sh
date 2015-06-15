@@ -1,14 +1,10 @@
 #!/bin/bash
 
-rm -rf markdown/
-mkdir markdown
+file=$1
+echo $file
+dir=$( echo $file | sed -e 's/^json.\([a-z_]*\)\/.*.json/\1/' )
+md_file=$( echo $file | sed -e 's/json\/.*\/\(.*\).json/\1.md/' )
 
-files=$( ls json/*/* )
-for file in $files; do
-    dir=$( echo $file | sed -e 's/^json.\([a-z_]*\)\/.*.json/\1/' )
-    mkdir markdown/$dir
-    md_file=$( echo $file | sed -e 's/json\/.*\/\(.*\).json/\1.md/' )
+mkdir markdown/$dir
+python formatMarkdown.py "`cat $file`" > markdown/$dir/$md_file
 
-    echo $file
-    python formatMarkdown.py "`cat $file`" > markdown/$dir/$md_file
-done
