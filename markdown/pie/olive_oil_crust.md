@@ -1,5 +1,6 @@
 Olive Oil Pie Crust
 ===================
+This produces a savory, soft crust.
 
 - 2 1/2 cups flour
 - 3/4 tsp salt

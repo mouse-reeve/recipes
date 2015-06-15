@@ -1,5 +1,6 @@
 Coconut Oil Shortbread Cookies
 ==============================
+With unrefined coconut oil, this will have a strong coconut flavor. If that's not that you're looking for, use refined coconut oil and consider adding a teaspoon more of the extract of your choice (like almond).
 
 - 1/2 cup coconut oil, room temperature (solid)
 - 1/4 cup sugar
@@ -18,4 +19,3 @@ Cut the log into 1/3 inch discs, arrange on a baking sheet, and bake for 15-18 m
 
 Cool completely on a wire rack before serving.
 
-> Source: http://www.wingitvegan.com/2014/01/coconut-oil-shortbread.html

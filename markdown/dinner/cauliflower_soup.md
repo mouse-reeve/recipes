@@ -1,5 +1,5 @@
 Cauliflower Soup
-===============
+================
 It's vegan if you leave off the cheese.
 
 - 1 head cauliflower
@@ -21,6 +21,5 @@ Remove from heat and, using a hand held immersion blender, puree the soup, or pu
 Add the Parmesan and stir until smooth.
 
 Season, to taste, with salt and black pepper. Keep warm until ready to serve.
-
 
 > Source: http://smittenkitchen.com/blog/2006/09/the-fragile-cooking-ego/
