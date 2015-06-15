@@ -3,6 +3,9 @@ import sys
 
 def format_markdown(recipe_json):
     recipe_json = json.loads(recipe_json)
+    if not 'ingredients' in recipe_json:
+        return
+
     print '%s' % recipe_json['title']
     print '=' * len(recipe_json['title'])
 

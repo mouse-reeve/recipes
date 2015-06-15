@@ -1,6 +1,7 @@
 {
     "title": "Fancy Tea",
-    "Items": [
+    "type": "list",
+    "items": [
         "Cup cauliflower soup",
         {"Tea sandwiches (two of each)": [
                 "Cucumber and cream cheese",
@@ -12,7 +13,7 @@
         "Pumpkin scones",
         "Rosemary shortbread"
     ],
-    "Spreads": [
+    "spreads": [
         "Lemon curd",
         "Devon cream",
         "Raspberry jam"
