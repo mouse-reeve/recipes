@@ -6,7 +6,7 @@ It's vegan if you leave off the cheese.
 - 2 tbsp extra-virgin olive oil
 - 1 small onion, chopped
 - 2 cloves garlic, minced
-- 1 quart veggie broth
+- 4 cups veggie broth
 - 1/2 cup finely grated Parmesan
 - Salt and freshly ground black pepper
 
