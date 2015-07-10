@@ -11,11 +11,9 @@ Cream oil, sugar, and vanilla extract until smooth and combined.
 
 Add flour and combine with a rubber spatula or wooden spoon until just combined. Do not overmix. The dough should be soft and workable, but not wet.
 
-On a sheet of parchment paper or wax paper, shape the dough into a log and roll up in the paper. Close off the ends and refridgerate for at least half an hour, until the dough is firm.
+Roll the dough about 1/3 inch thick, and cut out cookies with a cookie cutter. Arrange on a cookie sheet, and freeze for at least an hour.
 
-Preheat the oven to 350 degrees F.
-
-Cut the log into 1/3 inch discs, arrange on a baking sheet, and bake for 15-18 minutes.
+Preheat the oven to 350 degrees F. Bake for 15-18 minutes.
 
 Cool completely on a wire rack before serving.
 
