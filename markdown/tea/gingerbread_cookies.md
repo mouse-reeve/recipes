@@ -1,5 +1,6 @@
 Gingerbread Cookies
 ===================
+These are excellent cookies, at just the right sweetness level, which is to say, not particularly sweet. I recommend icing them.
 
 - 2 cups flour
 - 2 tsps ground ginger
