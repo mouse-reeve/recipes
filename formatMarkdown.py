@@ -1,7 +1,9 @@
+''' Creates a recipe markdown file '''
 import json
 import sys
 
 def format_markdown(recipe_json):
+    ''' Produces a mardown file for a recipe '''
     recipe_json = json.loads(recipe_json)
     if not 'ingredients' in recipe_json:
         return
