@@ -2,10 +2,10 @@
     "title": "Coconut Oil Shortbread Cookies",
     "notes": "With unrefined coconut oil, this will have a strong coconut flavor. If that's not that you're looking for, use refined coconut oil and consider adding a teaspoon more of the extract of your choice (like almond).",
     "ingredients": [
-        "1/2 cup coconut oil, room temperature (solid)",
-        "1/4 cup sugar",
-        "1 tsp vanilla extract",
-        "1 cup flour"
+        "1/2 cup {coconut oil}, room temperature (solid)",
+        "1/4 cup {sugar}",
+        "1 tsp {vanilla extract}",
+        "1 cup {flour}"
     ],
     "steps": [
         "Cream oil, sugar, and vanilla extract until smooth and combined.",
@@ -14,5 +14,5 @@
         "Preheat the oven to 350 degrees F. Bake for 15-18 minutes.",
         "Cool completely on a wire rack before serving."
     ],
-    "tags": ["vegan", "cookies"]
+    "tags": ["vegan", "cookies", "shortbread"]
 }

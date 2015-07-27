@@ -1,14 +1,14 @@
 {
     "title": "Sweet Potato Sage Soup",
     "ingredients": [
-        "1 tbsp olive oil",
-        "1 onion, diced",
-        "2 cloves garlic, minced",
-        "1 leek, sliced",
-        "1 carrot, chopped",
-        "2 sweet potatoes, chopped",
-        "1 tablespoon fresh sage, minced",
-        "4 cups vegetable stock"
+        "1 tbsp {olive oil}",
+        "1 onion, {diced}",
+        "2 cloves {garlic}, minced",
+        "1 {leek}, sliced",
+        "1 {carrot}, chopped",
+        "2 {sweet potatoes}, chopped",
+        "1 tablespoon fresh {sage}, minced",
+        "4 cups vegetable {broth}"
     ],
     "steps": [
         "Saute onion, garlic, leek, and sage in olive oil until golden.",

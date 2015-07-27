@@ -2,11 +2,11 @@
     "title": "Popovers",
     "notes": "This is an imperfect recipe. It's tasty, but it lacks true rise and lightness.",
     "ingredients": [
-        "2 tablespoons unsalted butter, melted, plus softened butter for greasing pans",
-        "1 cup flour",
-        "1/2 teaspoon kosher salt",
-        "3 extra-large eggs, at room temperature",
-        "1 cup milk, at room temperature"
+        "2 tablespoons unsalted {butter}, melted, plus softened butter for greasing pans",
+        "1 cup {flour}",
+        "1/2 teaspoon kosher {salt}",
+        "3 extra-large {eggs}, at room temperature",
+        "1 cup {milk}, at room temperature"
     ],
     "steps": [
         "Preheat the oven to 425 degrees F.",

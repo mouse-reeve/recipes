@@ -1,11 +1,11 @@
 {
     "title": "Ricotta Gnocchi",
     "ingredients": [
-        "2 cups whole-milk ricotta (1 pound)",
-        "2 eggs",
-        "1 1/2 cups grated parmesan",
-        "1/4 tsp nutmeg",
-        "1 1/4 cups flour"
+        "2 cups whole-milk {ricotta{ (1 pound)",
+        "2 {eggs}",
+        "1 1/2 cups grated {parmesan}",
+        "1/4 tsp {nutmeg}",
+        "1 1/4 cups {flour}"
     ],
     "steps": [
         "Stir together ricotta, eggs, cheese, nutmeg, and 1/4 teaspoon each of salt and pepper. Add flour, stirring to form a soft, wet dough.",
