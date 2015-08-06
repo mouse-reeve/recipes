@@ -1,6 +1,5 @@
 Oat Scones
 ==========
-For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and buttermilk for almond milk.
 
 - 1 3/4 cups all purpose flour
 - 1/2 cup sugar
