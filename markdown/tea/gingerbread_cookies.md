@@ -10,7 +10,7 @@ These are excellent cookies, at just the right sweetness level, which is to say,
 - 1/4 tsp baking soda
 - 1/2 cup unsalted butter, room temperature
 - 1/3 cup packed brown sugar
-- 1/3 unsulfured molasses
+- 1/3 cup unsulfured molasses
 - 1 large egg
 
 Mix flour, spices, baking soda, and salt. Set aside.
