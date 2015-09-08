@@ -1,5 +1,6 @@
 Popovers
 ========
+This is an imperfect recipe. It's tasty, but it lacks true rise and lightness.
 
 - 2 tablespoons unsalted butter, melted, plus softened butter for greasing pans
 - 1 cup flour
