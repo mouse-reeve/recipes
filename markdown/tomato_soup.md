@@ -15,7 +15,7 @@ Heat oil in a medium saucepan over medium heat. Add onion, and saute for 5 minut
 
 Stir in tomato paste, garlic, and sugar, and cook for 1 minutes, or until the tomato paste darkens.
 
-Stir in diced tomatoes, bullion, balsamic vinegar, and thyme, and 3 cups of water.
+Stir in diced tomatoes, bullion, balsamic vinegar, and thyme, and 2 cups of water.
 
 Cover pan, bring soup to a boil, and summer, covered over medium heat for 15 minutes.
 
