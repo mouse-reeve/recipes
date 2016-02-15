@@ -2,12 +2,12 @@ Fancy Tea
 =========
 
 #### Food
-In overlapping courses
 - Cup [cauliflower soup](https://github.com/mouse-reeve/recipes/blob/master/dinner/cauliflower_soup.md)
-- Tea sandwiches
-  - Cucumber and cream cheese
+- Tea sandwiches (3)
+  - Cucumber and cream cheese with dill
   - Green apple and dubliner
   - Egg salad
+  - Manchego and fig spread
 - Cut fruit and vanilla whipped cream
 - Toasted crumpet
 - [Pumpkin](https://github.com/mouse-reeve/recipes/blob/master/tea/pumpkin_scones.md) and [lemon](lemon_ginger_scones.md) scones

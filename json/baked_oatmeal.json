@@ -1,14 +1,14 @@
 {
     "title": "Baked Oatmeal",
     "ingredients": [
-        "3 cups old fashioned oats",
-        "1/2 cup brown sugar",
-        "2 tsp baking powder",
-        "1 tsp salt",
-        "1 tsp ground cinnamon",
-        "2 eggs",
-        "1 cup milk",
-        "1/2 cup melted unsalted butter"
+        "3 cups old fashioned {oats}",
+        "1/2 cup {brown sugar}",
+        "2 tsp {baking powder}",
+        "1 tsp {salt}",
+        "1 tsp {ground cinnamon}",
+        "2 {eggs}",
+        "1 cup {milk}",
+        "1/2 cup melted unsalted {butter}"
     ],
     "steps": [
         "Preheat oven to 350 degrees F.",
