@@ -1,3 +1,13 @@
-# recipes
+Recipes
+=========
 
-Vegetarian and vegan fare, with an emphasis on fancy tea. Everything in here is found, modified, tested and frequently made by me. 
+Things for making and eating.
+
+Tags:
+- 16 "vegan"
+- 5 "toppings"
+- 5 "scones"
+- 4 "soup"
+- 4 "basics"
+
+
