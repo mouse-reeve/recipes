@@ -13,6 +13,8 @@ Add flour and combine with a rubber spatula or wooden spoon until just combined.
 
 Roll the dough about 1/3 inch thick, and cut out cookies with a cookie cutter. Arrange on a cookie sheet, and freeze for at least an hour.
 
+For a shortbread mold, double the recipe, pack in the dough, and roll flat with a glass. Freeze for an hour and bake a little longer than advertized here.
+
 Preheat the oven to 350 degrees F. Bake for 15-18 minutes.
 
 Cool completely on a wire rack before serving.

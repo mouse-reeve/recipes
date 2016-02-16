@@ -1,15 +1,15 @@
 {
     "title": "Tomato Soup",
     "ingredients": [
-        "2 tbsp olive oil",
-        "1 medium onion",
-        "1 tbsp tomato paste",
-        "2 cloves garlic, minced",
-        "1 tsp sugar",
-        "1 15-oz can diced tomatoes",
-        "1 tsp vegetarian bullion",
-        "1 tsp balsamic vinegar",
-        "1/2 tsp dried thyme"
+        "2 tbsp {olive oil}",
+        "1 medium {onion}",
+        "1 tbsp {tomato paste}",
+        "2 cloves {garlic}, minced",
+        "1 tsp {sugar}",
+        "1 15-oz can {diced tomatoes}",
+        "1 tsp vegetarian {bullion}",
+        "1 tsp {balsamic vinegar}",
+        "1/2 tsp dried {thyme}"
     ],
     "steps": [
         "Heat oil in a medium saucepan over medium heat. Add onion, and saute for 5 minutes until soft and translucent.",

@@ -3,7 +3,7 @@ Brown Irish Soda Bread
 This is a rich, moist bread that is good fresh and toasts well the next day.
 
 - 2 cups all-purpose flour
-- 1 1/2 cups whole-wheat flour
+- 1 1/2 cups wheat flour
 - 1/2 cup toasted wheat germ
 - 3 tbsp sugar
 - 1 1/2 tsp salt

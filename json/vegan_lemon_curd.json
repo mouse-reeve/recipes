@@ -3,12 +3,12 @@
     "notes": "Don't cut corners soaking the cashews, or the texture will suffer. It might be worth experimenting with more lemon juice and less water.",
     "ingredients": [
         "1 cup water",
-        "1 cup cashews, soaked for 3-8 hours, drained, and rinsed",
-        "1 cup sugar",
-        "3/4 cup lemon juice",
-        "Zest of 5 lemons (about 2 tbsp)",
-        "1/2 cup unsalted vegan butter",
-        "Pinch tumeric"
+        "1 cup {cashews}, soaked for 3-8 hours, drained, and rinsed",
+        "1 cup {sugar}",
+        "3/4 cup {lemon juice}",
+        "Zest of 5 {lemons} (about 2 tbsp)",
+        "1/2 cup unsalted {vegan butter}",
+        "Pinch {tumeric}"
     ],
     "steps": [
         "In a blender, combine the water and cashews until very smooth.",

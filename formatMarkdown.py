@@ -16,6 +16,7 @@ def format_markdown(recipe_json):
     print ''
 
     for item in recipe_json['ingredients']:
+        item = item.replace(r'{', '').replace(r'}', '')
         print '- %s' % item
     print ''
 

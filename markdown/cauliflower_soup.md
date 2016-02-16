@@ -7,7 +7,7 @@ It's vegan if you leave off the cheese.
 - 1 small onion, chopped
 - 2 cloves garlic, minced
 - 4 cups veggie broth
-- 1/2 cup finely grated Parmesan
+- 1/2 cup finely grated parmesan
 - Salt and freshly ground black pepper
 
 Remove the leaves and thick core from the cauliflower, coarsely chop, and reserve.

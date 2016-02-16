@@ -8,7 +8,7 @@ Sweet Potato Sage Soup
 - 1 carrot, chopped
 - 2 sweet potatoes, chopped
 - 1 tablespoon fresh sage, minced
-- 4 cups vegetable stock
+- 4 cups vegetable broth
 
 Saute onion, garlic, leek, and sage in olive oil until golden.
 

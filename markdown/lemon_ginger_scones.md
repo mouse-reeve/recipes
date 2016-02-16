@@ -9,7 +9,7 @@ For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and but
 - 1/4 tsp salt
 - 1/2 cup cold unsalted butter, cut into pieces
 - 1/2 cup crystallized ginger, chopped into small pieces
-- Zest of 1 large lemon
+- 1 lemon's worth of lemon zest
 - 2/3 cup buttermilk
 
 Preheat oven to 400 degrees F and place rack in the center of the oven.
