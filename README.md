@@ -4,21 +4,21 @@ Recipes
 Things for making and eating.
 
 Tags:
-- 16 "vegan"
+- 19 "vegan"
 - 5 "toppings"
+- 5 "soup"
 - 5 "scones"
-- 4 "soup"
-- 4 "basics"
+- 4 "sweets"
 
 Common ingredients:
-- 14 flour
-- 12 salt
+- 16 flour
+- 14 salt
+- 12 sugar
 - 12 butter
-- 11 sugar
-- 7 baking powder
-- 6 olive oil
+- 8 baking powder
+- 7 olive oil
+- 6 garlic
 - 6 baking soda
-- 5 garlic
 - 5 buttermilk
-- 4 thyme
+- 5 brown sugar
 
