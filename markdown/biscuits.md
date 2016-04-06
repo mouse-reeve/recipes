@@ -1,5 +1,6 @@
 Biscuits
 ========
+I recommend folding some chunks of Miyoko's Creamery "Rustic Alpine" vegan cheese into the dough at the turning stage, and grind a little black pepper over the top of the biscuits before baking.
 
 - 1 cup almond milk
 - 1 tbsp apple cider vinegar
