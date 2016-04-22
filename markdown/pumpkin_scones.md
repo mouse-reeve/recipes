@@ -1,6 +1,6 @@
 Pumpkin Scones
 ==============
-For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and buttermilk for almond milk.
+For vegan scones, 1:1 substitute chilled refined coconut oil or vegan butter for dairy butter, and curdled almond milk for buttermilk.
 
 ### Ingredients
 - 2 cups all purpose flour
