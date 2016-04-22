@@ -2,6 +2,7 @@ Gingerbread Cookies
 ===================
 These are excellent cookies, at just the right sweetness level, which is to say, not particularly sweet. I recommend icing them.
 
+### Ingredients
 - 2 cups flour
 - 2 tsps ground ginger
 - 1 tsp ground cinnamon
@@ -13,6 +14,7 @@ These are excellent cookies, at just the right sweetness level, which is to say,
 - 1/3 cup unsulfured molasses
 - 1 large egg
 
+### Steps
 Mix flour, spices, baking soda, and salt. Set aside.
 
 Cream butter and sugar, then beat in molasses and egg.

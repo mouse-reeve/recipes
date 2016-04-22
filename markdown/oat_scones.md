@@ -1,6 +1,7 @@
 Oat Scones
 ==========
 
+### Ingredients
 - 1 3/4 cups all purpose flour
 - 1/2 cup sugar
 - 1/2 tsp salt
@@ -12,6 +13,7 @@ Oat Scones
 - 1/2 cup dried currents, or chocolate chips
 - 2/3 - 3/4 cup buttermilk
 
+### Steps
 Preheat oven to 375 degrees F.
 
 In a large mixing bowl, combine flour, sugar, salt, baking soda, baking powder, and cinnamon.

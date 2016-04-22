@@ -1,6 +1,7 @@
 Vegan Butter
 ============
 
+### Ingredients
 - 1/2 cup melted refined coconut oil
 - 1/2 cup almond milk
 - 1/4 cup canola oil
@@ -8,6 +9,7 @@ Vegan Butter
 - 1/2 tsp sea salt
 - 2 tsp lecithin
 
+### Steps
 Blend ingredients until smooth and lecithin granules have dissolved.
 
 Refrigerate until set.

@@ -2,6 +2,7 @@ Pumpkin Scones
 ==============
 For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and buttermilk for almond milk.
 
+### Ingredients
 - 2 cups all purpose flour
 - 1/3 cup light or dark brown sugar
 - 1/2 tsp ground ginger
@@ -14,6 +15,7 @@ For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and but
 - 1/2 cup canned pure pumpkin
 - 1 teaspoon pure vanilla extract
 
+### Steps
 Preheat oven to 400 degrees F and place rack in the center of the oven.
 
 In a large bowl, whisk together the flour, sugar, spices, baking powder, baking soda and salt. Cut the butter into small pieces and blend into the flour mixture with a pastry blender or two knives. The mixture should look like coarse crumbs.

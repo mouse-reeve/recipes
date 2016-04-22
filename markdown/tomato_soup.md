@@ -1,6 +1,7 @@
 Tomato Soup
 ===========
 
+### Ingredients
 - 2 tbsp olive oil
 - 1 medium onion
 - 1 tbsp tomato paste
@@ -11,6 +12,7 @@ Tomato Soup
 - 1 tsp balsamic vinegar
 - 1/2 tsp dried thyme
 
+### Steps
 Heat oil in a medium saucepan over medium heat. Add onion, and saute for 5 minutes until soft and translucent.
 
 Stir in tomato paste, garlic, and sugar, and cook for 1 minutes, or until the tomato paste darkens.

@@ -1,6 +1,7 @@
 Rosemary Soup Dumplings
 =======================
 
+### Ingredients
 - 1 1/2 cups flours
 - 2 tsp baking powder
 - 1 tbsp dried rosemary
@@ -8,6 +9,7 @@ Rosemary Soup Dumplings
 - 3/4 cup almond milk
 - 2 tbsp olive oil
 
+### Steps
 Mix dry ingredients in a large bowl.
 
 Make a well in the center and add almond milk and oil. Use a wooden spoon to mix until a wet dough forms.

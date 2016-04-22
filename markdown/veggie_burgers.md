@@ -2,6 +2,7 @@ Veggie Burgers
 ==============
 This recipe is experimentally halved, I haven't tried it yet.
 
+### Ingredients
 - 1 pound cremini mushrooms, minced
 - 1 onion, diced
 - 2 cups cooked brown rice
@@ -15,6 +16,7 @@ This recipe is experimentally halved, I haven't tried it yet.
 - 1/8 tsp allspice
 - 1.5 cups wheat gluten
 
+### Steps
 Combine all the ingredients except the gluten, until well incoroporated.
 
 Add the wheat gluten, and mix well.

@@ -1,6 +1,7 @@
 Baked Oatmeal
 =============
 
+### Ingredients
 - 3 cups old fashioned oats
 - 1/2 cup brown sugar
 - 2 tsp baking powder
@@ -10,6 +11,7 @@ Baked Oatmeal
 - 1 cup milk
 - 1/2 cup melted unsalted butter
 
+### Steps
 Preheat oven to 350 degrees F.
 
 In a large bowl, combine oats, brown sugar, baking powder, salt and cinnamon.

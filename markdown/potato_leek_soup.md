@@ -1,6 +1,7 @@
 Potato Leek Soup
 ================
 
+### Ingredients
 - 3 russet potatoes, cubed
 - 3 leeks, thinly sliced
 - 2 tbsp olive oil
@@ -10,6 +11,7 @@ Potato Leek Soup
 - 1/4 tsp ground pepper
 - Fresh or dried dill, to top
 
+### Steps
 Heat the oil in a large soup pot, and saute the leeks until soft, about 5 minutes.
 
 Add the potatoes and garlic, and stir to combine.

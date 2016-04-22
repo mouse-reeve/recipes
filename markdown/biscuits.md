@@ -2,6 +2,7 @@ Biscuits
 ========
 I recommend folding some chunks of Miyoko's Creamery "Rustic Alpine" vegan cheese into the dough at the turning stage, and grinding a little black pepper over the top of the biscuits before baking.
 
+### Ingredients
 - 1 cup almond milk
 - 1 tbsp apple cider vinegar
 - 2 cups flour
@@ -10,6 +11,7 @@ I recommend folding some chunks of Miyoko's Creamery "Rustic Alpine" vegan chees
 - 3/4 tsp sea salt
 - 1/4 cup vegan butter
 
+### Steps
 Preheat oven to 450 degrees.
 
 Mix vinegar and almond milk in a measuring cup and leave to curdle.

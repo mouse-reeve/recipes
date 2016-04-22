@@ -1,6 +1,7 @@
 Sweet Potato Sage Soup
 ======================
 
+### Ingredients
 - 1 tbsp olive oil
 - 1 onion, diced
 - 2 cloves garlic, minced
@@ -10,6 +11,7 @@ Sweet Potato Sage Soup
 - 1 tablespoon fresh sage, minced
 - 4 cups vegetable broth
 
+### Steps
 Saute onion, garlic, leek, and sage in olive oil until golden.
 
 Add carrot and sweet potato, and saute for a couple minutes.

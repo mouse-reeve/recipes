@@ -2,6 +2,7 @@ Gingerbread Scones
 ==================
 For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and buttermilk for almond milk.
 
+### Ingredients
 - 1 3/4 cups all purpose flour
 - 3/4 cup old fashioned rolled oats
 - 1/3 cup light brown sugar
@@ -15,6 +16,7 @@ For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and but
 - 1/2 cup buttermilk
 - 2 1/2 tablespoons unsulphured molasses
 
+### Steps
 Preheat oven to 400 degrees F and place rack in the center of the oven.
 
 In a large bowl, whisk together the flour, sugar, baking powder, baking soda and salt. Cut the butter into small pieces and blend into the flour mixture with a pastry blender or two knives. The mixture should look like coarse crumbs.

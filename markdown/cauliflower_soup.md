@@ -2,6 +2,7 @@ Cauliflower Soup
 ================
 It's vegan if you leave off the cheese.
 
+### Ingredients
 - 1 head cauliflower
 - 2 tbsp extra-virgin olive oil
 - 1 small onion, chopped
@@ -10,6 +11,7 @@ It's vegan if you leave off the cheese.
 - 1/2 cup finely grated parmesan
 - Salt and freshly ground black pepper
 
+### Steps
 Remove the leaves and thick core from the cauliflower, coarsely chop, and reserve.
 
 Heat the olive oil in a large saucepan or soup pot over medium heat and add the onion and garlic. Cook until softened, but not browned, about 5 minutes.

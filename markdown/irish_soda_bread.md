@@ -2,6 +2,7 @@ Brown Irish Soda Bread
 ======================
 This is a rich, moist bread that is good fresh and toasts well the next day.
 
+### Ingredients
 - 2 cups all-purpose flour
 - 1 1/2 cups wheat flour
 - 1/2 cup toasted wheat germ
@@ -15,6 +16,7 @@ This is a rich, moist bread that is good fresh and toasts well the next day.
 - 2 tbsp unsalted butter, melted
 - 1 tbsp salted butter, melted
 
+### Steps
 Adjust oven rack to lower-middle position and heat oven to 400 degrees F.
 
 Whisk all-purpose flours, wheat germ, sugar, salt, baking powder, baking soda, and seeds together in large bowl.

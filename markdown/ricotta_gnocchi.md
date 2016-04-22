@@ -1,12 +1,14 @@
 Ricotta Gnocchi
 ===============
 
+### Ingredients
 - 2 cups whole-milk ricotta (1 pound)
 - 2 eggs
 - 1 1/2 cups grated parmesan
 - 1/4 tsp nutmeg
 - 1 1/4 cups flour
 
+### Steps
 Stir together ricotta, eggs, cheese, nutmeg, and 1/4 teaspoon each of salt and pepper. Add flour, stirring to form a soft, wet dough.
 
 Shape dough on a well-floured surface with lightly floured hands into 2 (1-inch-thick) ropes. Cut crosswise into 1-inch pieces with a lightly floured knife. Put in 1 layer on a lightly floured parchment-lined baking sheet.

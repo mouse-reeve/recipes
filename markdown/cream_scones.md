@@ -1,6 +1,7 @@
 Cream Scones
 ============
 
+### Ingredients
 - 2 cups all-purpose flour
 - 1/4 cup granulated white sugar
 - 2 tsp baking powder
@@ -10,6 +11,7 @@ Cream Scones
 - 1 large egg, lightly beaten
 - 1 teaspoon pure vanilla extract
 
+### Steps
 Preheat oven to 375 degrees F and place the rack in the middle of the oven. Line a baking sheet with parchment paper.
 
 In a large bowl, whisk or sift together the flour, sugar, baking powder and salt. Cut the butter into small pieces and blend into the flour mixture with a pastry blender, two knives, or with your fingertips. (The mixture should look like coarse crumbs.)
