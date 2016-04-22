@@ -16,17 +16,31 @@ def format_markdown(recipe_json):
     print ''
 
     for item in recipe_json['ingredients']:
-        item = item.replace(r'{', '').replace(r'}', '')
-        print '- %s' % item
+        if isinstance(item, dict):
+            title = item.keys()[0]
+            print '- %s:' % title
+            for i in item[title]:
+                print '    - %s' % format_ingredient(i)
+        else:
+            print '- %s' % format_ingredient(item)
     print ''
 
     for item in recipe_json['steps']:
-        print item
+        if isinstance(item, dict):
+            title = item.keys()[0]
+            print '%s:' % title
+            for i in item[title]:
+                print '- %s' % i
+        else:
+            print item
         print ''
 
     if 'source' in recipe_json:
         print '> Source: %s' % recipe_json['source']
 
+def format_ingredient(ingredient):
+    ''' clean up the ingredient highlighting syntax '''
+    return ingredient.replace(r'{', '').replace(r'}', '')
 
 if __name__ == '__main__':
     format_markdown(sys.argv[1])
