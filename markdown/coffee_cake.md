@@ -12,8 +12,8 @@ Rasberry Jam Swirl Coffee Cake
     - 2 tsp baking powder
     - 1/2 tsp salt
     - 2/4 cup raspberry jam
-    - 1 cup all purpose flour
 - Topping:
+    - 1 cup all purpose flour
     - 1/3 cup brown sugar
     - 1 tsp ground cinnamon
     - 1/4 tsp ground nutmeg
