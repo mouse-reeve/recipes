@@ -1,3 +1,12 @@
-.DS_Store
 *.swp
-*.swo
+*.pyc
+.DS_Store
+.Python
+pip-selfcheck.json
+
+# virtualenv
+bin/
+include/
+lib/
+
+export.*
