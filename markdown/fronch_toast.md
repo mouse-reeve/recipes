@@ -7,7 +7,7 @@ Fronch Toast
 - 2 tbsp cornstarch
 - 1/4 cup chickpea flour
 - 1 1/2 tbsp nutritional yeast
-- Refined coconut oil
+- refined coconut oil
 
 ### Steps
 Whisk together the almond milk and cornstarch in a shallow bowl.

@@ -9,7 +9,7 @@ Veganomicon Mac and Cheeze
 - cheeze:
     - 4 cups vegetable broth
     - 1/2 cup flour
-    - 2 tbsp olive olive
+    - 2 tbsp olive oil
     - 6 cloves garlic, minced
     - Large pinch dry thyme, crumbled
     - 1/4 tsp salt

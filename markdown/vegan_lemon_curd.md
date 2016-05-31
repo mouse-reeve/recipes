@@ -7,9 +7,9 @@ Don't cut corners soaking the cashews, or the texture will suffer. It might be w
 - 1 cup cashews, soaked for 3-8 hours, drained, and rinsed
 - 1 cup sugar
 - 3/4 cup lemon juice
-- Zest of 5 lemons (about 2 tbsp)
+- Zest of 5 lemons (about 2 tbsp lemon zest)
 - 1/2 cup unsalted vegan butter
-- Pinch tumeric
+- Pinch turmeric
 
 ### Steps
 In a blender, combine the water and cashews until very smooth.
@@ -20,7 +20,7 @@ When thick, add the sugar, lemon juice, and zest. and cook for a few minutes unt
 
 Remove from heat.
 
-Whisk in butter and tumeric
+Whisk in butter and turmeric
 
 Pour into a jar and refrigerate. It will thicken in the fridge.
 

@@ -8,7 +8,7 @@ This is great on fruit, but has a present nutty flavor that has to be accounted 
 - 1/4 cup cashews
 - 1/4 cup sugar
 - 1 tsp lecithin
-- 1 tsp vanilla
+- 1 tsp vanilla extract
 
 ### Steps
 Blend all the ingedients until smooth.

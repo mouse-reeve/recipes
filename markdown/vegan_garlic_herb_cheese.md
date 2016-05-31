@@ -6,8 +6,8 @@ This is more of a fancy hummus, but it's reaaaaally good.
 - 2 cups raw cashews
 - 2 cloves garlic, minced
 - 1/2 tsp garlic powder, plus more to taste
-- 1 lemon, zested
-- 2 lemons, juiced (about 1/4 cup)
+- 1 lemon worth of lemon zest
+- 2 lemons, juiced (about 1/4 cup lemon juice)
 - 3/4 water
 - 2 tbsp nutritional yeast
 - 1/2 tsp sea salt

@@ -10,7 +10,7 @@ Oat Scones
 - 1/4 tsp ground cinnamon
 - 1/2 cup cold unsalted butter, cut into pieces
 - 3/4 cup old-fashioned rolled oats
-- 1/2 cup dried currents, or chocolate chips
+- 1/2 cup dried currants, or chocolate chips
 - 2/3 - 3/4 cup buttermilk
 
 ### Steps

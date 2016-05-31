@@ -5,7 +5,7 @@ Ricotta Gnocchi
 - 2 cups whole-milk ricotta (1 pound)
 - 2 eggs
 - 1 1/2 cups grated parmesan
-- 1/4 tsp nutmeg
+- 1/4 tsp ground nutmeg
 - 1 1/4 cups flour
 
 ### Steps

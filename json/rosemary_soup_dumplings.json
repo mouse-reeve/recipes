@@ -1,12 +1,12 @@
 {
     "title": "Rosemary Soup Dumplings",
     "ingredients": [
-        "1 1/2 cups flours",
-        "2 tsp baking powder",
-        "1 tbsp dried rosemary",
-        "1/2 tsp salt",
-        "3/4 cup almond milk",
-        "2 tbsp olive oil"
+        "1 1/2 cups {flour}",
+        "2 tsp {baking powder}",
+        "1 tbsp dried {rosemary}",
+        "1/2 tsp {salt}",
+        "3/4 cup {almond milk}",
+        "2 tbsp {olive oil}"
     ],
     "steps": [
         "Mix dry ingredients in a large bowl.",
