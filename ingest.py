@@ -16,7 +16,7 @@ def add_items(json_file_path):
         data = json.load(data_file)
         recipe_node = {
             'identifier': data['title'],
-            'json': json.dumps(data)
+            'content': json.dumps(data)
         }
 
         ingredients = [i for i in data['ingredients'] if '{' in i]
