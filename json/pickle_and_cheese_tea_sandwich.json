@@ -1,0 +1,16 @@
+{
+    "title": "Pickle and Cheese Tea Sandwich",
+    "notes": "This sounds gross but it's actually weirdly good",
+    "ingredients": [
+        "Whatever kind of {pickle} you prefer",
+        "Miyoko's {rustic alpine cheese}",
+        "Seeded or plain {sourdough bread}"
+    ],
+    "steps": [
+        "Lightly toast the bread and cut into desired shapes, removing crusts.",
+        "Spread the cheese on bread, and lay out the pickles.",
+        "Trim the pickles to fit the bread, and close the sandwich."
+    ],
+    "source": "http://www.all-about-afternoon-tea.com/cheese-and-pickle-sandwich.html",
+    "tags": ["vegan", "finger sandwiches"]
+}
