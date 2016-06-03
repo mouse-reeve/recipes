@@ -5342,3 +5342,766 @@ Storage files: (filename : modification date - size)
 2016-06-03 20:09:47.987+0000 INFO  [o.n.k.NeoStoreDataSource] NeoStores closed
 2016-06-03 20:09:47.988+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics START ---
 2016-06-03 20:09:47.988+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics END ---
+2016-06-03 20:12:32.234+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] No locking implementation specified, defaulting to 'community'
+2016-06-03 20:12:32.239+0000 INFO  [o.n.k.AvailabilityGuard] Requirement makes database unavailable: Database available
+2016-06-03 20:12:32.239+0000 INFO  [o.n.k.i.DiagnosticsManager] --- INITIALIZED diagnostics START ---
+2016-06-03 20:12:32.239+0000 INFO  [o.n.k.i.DiagnosticsManager] Neo4j Kernel properties:
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.db.tuning.properties=/Users/mouse/Personal/recipes/graphdb/neo4j.properties
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.database.location=/Users/mouse/Personal/recipes/graphdb
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.webserver.port=7474
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.querylog.filename=data/log/queries.log
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.auth_store.location=/Users/mouse/Personal/recipes/graphdb/./dbms/auth
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.http.log.enabled=false
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.tls_certificate_file=/Users/mouse/Personal/recipes/graphdb/./dbms/ssl/snakeoil.cert
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.webserver.https.port=7473
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] remote_shell_enabled=true
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] edition=Community
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.tls_key_file=/Users/mouse/Personal/recipes/graphdb/./dbms/ssl/snakeoil.key
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.auth_enabled=true
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Diagnostics providers:
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.kernel.configuration.Config
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.kernel.info.DiagnosticsManager
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] SYSTEM_MEMORY
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] JAVA_MEMORY
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] OPERATING_SYSTEM
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] JAVA_VIRTUAL_MACHINE
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] CLASSPATH
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] LIBRARY_PATH
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] SYSTEM_PROPERTIES
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] NETWORK
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] System memory information:
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Total Physical memory: 8.00 GB
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Free Physical memory: 388.77 MB
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Committed virtual memory: 4.97 GB
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Total swap space: 2.00 GB
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Free swap space: 1.10 GB
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] JVM memory information:
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Free  memory: 437.96 MB
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Total memory: 633.00 MB
+2016-06-03 20:12:32.240+0000 INFO  [o.n.k.i.DiagnosticsManager] Max   memory: 1.78 GB
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Garbage Collector: PS Scavenge: [PS Eden Space, PS Survivor Space]
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Garbage Collector: PS MarkSweep: [PS Eden Space, PS Survivor Space, PS Old Gen, PS Perm Gen]
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: Code Cache (Non-heap memory): committed=14.50 MB, used=14.19 MB, max=48.00 MB, threshold=0.00 B
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Eden Space (Heap memory): committed=282.00 MB, used=119.54 MB, max=546.00 MB, threshold=?
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Survivor Space (Heap memory): committed=67.50 MB, used=29.19 MB, max=67.50 MB, threshold=?
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Old Gen (Heap memory): committed=283.50 MB, used=46.31 MB, max=1.33 GB, threshold=0.00 B
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Perm Gen (Non-heap memory): committed=70.00 MB, used=69.81 MB, max=82.00 MB, threshold=0.00 B
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Operating system information:
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Operating System: Mac OS X; version: 10.11.4; arch: x86_64; cpus: 4
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Max number of file descriptors: 10.00 kB
+2016-06-03 20:12:32.241+0000 INFO  [o.n.k.i.DiagnosticsManager] Number of open file descriptors: 47.00 B
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] Process id: 4706@Mouses-MacBook-Air.local
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] Byte order: LITTLE_ENDIAN
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] Local timezone: America/Los_Angeles
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] JVM information:
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Name: Java HotSpot(TM) 64-Bit Server VM
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Vendor: Oracle Corporation
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Version: 24.80-b11
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] JIT compiler: HotSpot 64-Bit Tiered Compilers
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Arguments: [-Dfile.encoding=UTF-8, -Dinstall4j.launcherId=24, -Dinstall4j.swt=false, -Dexe4j.moduleName=/Applications/Neo4j Community Edition.app, -Di4j.ownBundlePath=/Applications/Neo4j Community Edition.app, -Di4j.jreBundle=/Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle]
+2016-06-03 20:12:32.242+0000 INFO  [o.n.k.i.DiagnosticsManager] Java classpath:
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/localedata.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/sunrsasign.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/jce.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.0] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/app/.install4j/i4jruntime.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/rt.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [classpath] /Applications/Neo4j Community Edition.app/Contents/Resources/app/bin/neo4j-desktop-2.3.1.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/System/Library/Java/Extensions/MRJToolkit.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/sunjce_provider.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/dnsns.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/sunec.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.0] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/app/bin/neo4j-desktop-2.3.1.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/zipfs.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/sunpkcs11.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [classpath] /Applications/Neo4j Community Edition.app/Contents/Resources/app/.install4j/i4jruntime.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/classes
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/jsse.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/charsets.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/resources.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/jfr.jar
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] Library path:
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] /Users/mouse/Library/Java/Extensions
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] /Library/Java/Extensions
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] /Network/Library/Java/Extensions
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] /System/Library/Java/Extensions
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] /usr/lib/java
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] /Applications/Neo4j Community Edition.app/Contents/Resources/app/bin
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] System.properties:
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] exe4j.moduleName = /Applications/Neo4j Community Edition.app
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.boot.library.path = /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] i4j.jreBundle = /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] gopherProxySet = false
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] path.separator = :
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] file.encoding.pkg = sun.io
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] user.country = US
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.java.launcher = SUN_STANDARD
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.os.patch.level = unknown
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.exeDir = /Applications/
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] user.dir = /Applications/Neo4j Community Edition.app/Contents/Resources/app/bin
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] neo4j.ext.udc.source = desktop
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] i4j.ownBundlePath = /Applications/Neo4j Community Edition.app
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.jnu.encoding = UTF-8
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.awt.enableExtraMouseButtons = true
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.launcherId = 24
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.swt = false
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] apple.awt.fileDialogForDirectories = false
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] http.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] user.home = /Users/mouse
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] user.timezone = America/Los_Angeles
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] file.encoding = UTF-8
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] user.name = mouse
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.java.command = com.install4j.runtime.launcher.MacLauncher
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.arch.data.model = 64
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] user.language = en
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] awt.toolkit = sun.lwawt.macosx.LWCToolkit
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.appDir = /Applications/Neo4j Community Edition.app/Contents/Resources/app/
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] file.separator = /
+2016-06-03 20:12:32.243+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.font.fontmanager = sun.font.CFontManager
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.io.unicode.encoding = UnicodeBig
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.cpu.endian = little
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] socksNonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] ftp.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.cpu.isalist = 
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] Network information:
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] Interface awdl0:
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: fe80:0:0:0:dc77:e8ff:fe75:579c%6
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] Interface en0:
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: fe80:0:0:0:9ae0:d9ff:fe88:d65%4
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: 10.30.65.89
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] Interface lo0:
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: fe80:0:0:0:0:0:0:1%1
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: 0:0:0:0:0:0:0:1
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: 127.0.0.1
+2016-06-03 20:12:32.244+0000 INFO  [o.n.k.i.DiagnosticsManager] --- INITIALIZED diagnostics END ---
+2016-06-03 20:12:32.362+0000 INFO  [o.n.k.KernelHealth] Kernel health set to OK
+2016-06-03 20:12:32.373+0000 INFO  [o.n.k.AvailabilityGuard] Fulfilling of requirement makes database available: Database available
+2016-06-03 20:12:32.373+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] Database is now ready
+2016-06-03 20:12:32.373+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] Graph Database: Community StoreId{creationTime=1464729887918, randomId=-8794438270993501040, storeVersion=15250506225055238, upgradeTime=1464729887918, upgradeId=1}
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] Kernel version: 2.3.1
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] Store versions:
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] Store versions:
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] ArrayPropertyStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] NodeStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] PropertyIndexStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] ArrayPropertyStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] PropertyStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] RelationshipStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] RelationshipTypeStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] LabelTokenStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] SchemaStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] RelationshipGroupStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] NeoStore v0.A.6
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] Id usage:
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager] Id usage:
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   ArrayPropertyStore v0.A.6: used=1 high=0
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   NodeStore v0.A.6: used=152 high=151
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=6 high=5
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   PropertyIndexStore v0.A.6: used=5 high=4
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=282 high=474
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   ArrayPropertyStore v0.A.6: used=1 high=0
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   PropertyStore v0.A.6: used=162 high=161
+2016-06-03 20:12:32.374+0000 INFO  [o.n.k.i.DiagnosticsManager]   RelationshipStore v0.A.6: used=374 high=375
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=5 high=4
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager]   RelationshipTypeStore v0.A.6: used=4 high=3
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=7 high=6
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager]   LabelTokenStore v0.A.6: used=6 high=5
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager]   SchemaStore v0.A.6: used=1 high=0
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager]   RelationshipGroupStore v0.A.6: used=1 high=0
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager]   NeoStore v0.A.6: used=13 high=12
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_RECORDS START ---
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] Neostore records:
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] TIME (Creation time): 1464729887918
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] RANDOM_NUMBER (Random number for store id): -8794438270993501040
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] LOG_VERSION (Current log version): 0
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_TRANSACTION_ID (Last committed transaction): 336
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] STORE_VERSION (Store format version): 15250506225055238
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] FIRST_GRAPH_PROPERTY (First property record containing graph properties): -1
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_CONSTRAINT_TRANSACTION (Last committed transaction containing constraint changes): 0
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] UPGRADE_TRANSACTION_ID (Transaction id most recent upgrade was performed at): 1
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] UPGRADE_TIME (Time of last upgrade): 1464729887918
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_TRANSACTION_CHECKSUM (Checksum of last committed transaction): -158959729983
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] UPGRADE_TRANSACTION_CHECKSUM (Checksum of transaction id the most recent upgrade was performed at): 0
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_CLOSED_TRANSACTION_LOG_VERSION (Log version where the last transaction commit entry has been written into): 0
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_CLOSED_TRANSACTION_LOG_BYTE_OFFSET (Byte offset in the log file where the last transaction commit entry has been written into): 296500
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_RECORDS END ---
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for TRANSACTION_RANGE START ---
+2016-06-03 20:12:32.375+0000 INFO  [o.n.k.i.DiagnosticsManager] Transaction log:
+2016-06-03 20:12:32.376+0000 INFO  [o.n.k.i.DiagnosticsManager] Oldest transaction 2 found in log with version 0
+2016-06-03 20:12:32.376+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for TRANSACTION_RANGE END ---
+2016-06-03 20:12:32.376+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-06-03 20:12:32.376+0000 INFO  [o.n.k.i.DiagnosticsManager] Disk space on partition (Total / Free / Free %): 249795969024 / 197578121216 / 79
+Storage files: (filename : modification date - size)
+2016-06-03 20:12:32.377+0000 INFO  [o.n.k.i.DiagnosticsManager]   dbms:
+2016-06-03 20:12:32.377+0000 INFO  [o.n.k.i.DiagnosticsManager]     auth: 2016-05-31T14:25:48-0700 - 113.00 B
+2016-06-03 20:12:32.377+0000 INFO  [o.n.k.i.DiagnosticsManager]     ssl:
+2016-06-03 20:12:32.377+0000 INFO  [o.n.k.i.DiagnosticsManager]       snakeoil.cert: 2016-05-31T14:24:47-0700 - 630.00 B
+2016-06-03 20:12:32.377+0000 INFO  [o.n.k.i.DiagnosticsManager]       snakeoil.key: 2016-05-31T14:24:47-0700 - 910.00 B
+2016-06-03 20:12:32.377+0000 INFO  [o.n.k.i.DiagnosticsManager]     - Total: 2016-05-31T14:24:47-0700 - 1.50 kB
+2016-06-03 20:12:32.377+0000 INFO  [o.n.k.i.DiagnosticsManager]   - Total: 2016-05-31T14:25:48-0700 - 1.61 kB
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   index:
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   - Total: 2016-05-31T14:24:47-0700 - 0.00 B
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   messages.log: 2016-06-03T13:12:32-0700 - 891.16 kB
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neo4j.properties: 2016-05-31T14:24:47-0700 - 1.27 kB
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore: 2016-06-03T13:08:30-0700 - 8.00 kB
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.counts.db.a: 2016-06-03T12:08:07-0700 - 992.00 B
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.counts.db.b: 2016-06-03T13:08:30-0700 - 992.00 B
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db: 2016-05-31T15:43:47-0700 - 8.00 kB
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db.names: 2016-05-31T15:43:17-0700 - 8.00 kB
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db.names.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.378+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db: 2016-06-03T13:08:30-0700 - 8.00 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db.labels: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db.labels.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db: 2016-06-03T13:08:30-0700 - 7.97 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.arrays: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.arrays.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index: 2016-05-31T15:01:29-0700 - 8.00 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index.keys: 2016-05-31T15:01:29-0700 - 8.00 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index.keys.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.strings: 2016-06-03T13:08:30-0700 - 64.00 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.strings.id: 2016-06-03T13:12:32-0700 - 1.52 kB
+2016-06-03 20:12:32.379+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipgroupstore.db: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipgroupstore.db.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipstore.db: 2016-06-03T13:08:30-0700 - 15.94 kB
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipstore.db.id: 2016-06-03T13:12:32-0700 - 25.00 B
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db: 2016-05-31T15:42:47-0700 - 8.00 kB
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db.names: 2016-05-31T15:42:47-0700 - 8.00 kB
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db.names.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.schemastore.db: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.schemastore.db.id: 2016-06-03T13:12:32-0700 - 9.00 B
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.transaction.db.0: 2016-06-03T13:09:47-0700 - 289.59 kB
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]   schema:
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]     label:
+2016-06-03 20:12:32.380+0000 INFO  [o.n.k.i.DiagnosticsManager]       lucene:
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]         _87.cfs: 2016-06-03T13:08:26-0700 - 427.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]         segments.gen: 2016-06-03T13:08:30-0700 - 20.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]         segments_l: 2016-06-03T13:08:30-0700 - 259.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]         write.lock: 2016-06-03T13:12:32-0700 - 0.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]       - Total: 2016-06-03T13:12:32-0700 - 706.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]     - Total: 2016-05-31T14:24:47-0700 - 706.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]   - Total: 2016-05-31T14:24:47-0700 - 706.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager]   store_lock: 2016-05-31T14:24:47-0700 - 0.00 B
+2016-06-03 20:12:32.381+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-06-03 20:12:32.392+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED START ---
+2016-06-03 20:12:33.623+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED END ---
+2016-06-03 20:13:21.696+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:13:31.799+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:13:41.899+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:13:52.000+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:14:02.101+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:14:12.202+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:14:22.303+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:14:32.403+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:14:42.504+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:14:47.074+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4468ms.
+2016-06-03 20:14:57.175+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:15:07.276+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:15:17.377+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:15:27.478+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:15:37.579+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:15:47.680+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:15:48.480+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 699ms.
+2016-06-03 20:15:58.582+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10001ms.
+2016-06-03 20:16:08.683+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:16:18.784+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:16:28.885+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:16:38.986+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:16:39.618+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 531ms.
+2016-06-03 20:16:49.719+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:16:59.820+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:17:51.164+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8614ms.
+2016-06-03 20:17:54.004+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2635ms.
+2016-06-03 20:18:00.016+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5807ms.
+2016-06-03 20:18:47.640+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6005ms.
+2016-06-03 20:18:52.197+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4352ms.
+2016-06-03 20:19:02.401+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:19:05.753+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3251ms.
+2016-06-03 20:19:15.958+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:19:17.158+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1100ms.
+2016-06-03 20:19:27.362+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:19:31.427+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3964ms.
+2016-06-03 20:19:37.385+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5753ms.
+2016-06-03 20:19:45.869+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8272ms.
+2016-06-03 20:19:49.738+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3768ms.
+2016-06-03 20:19:52.523+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2580ms.
+2016-06-03 20:19:57.047+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4321ms.
+2016-06-03 20:20:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2763ms.
+2016-06-03 20:20:52.431+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:21:00.013+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7479ms.
+2016-06-03 20:22:52.335+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:23:02.436+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:23:12.537+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:23:19.043+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6406ms.
+2016-06-03 20:24:22.178+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:24:22.844+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 565ms.
+2016-06-03 20:24:25.984+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2828ms.
+2016-06-03 20:24:34.225+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8137ms.
+2016-06-03 20:24:37.521+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3092ms.
+2016-06-03 20:24:45.418+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7690ms.
+2016-06-03 20:24:51.622+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6074ms.
+2016-06-03 20:25:01.728+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:25:11.830+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:25:18.227+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6296ms.
+2016-06-03 20:25:24.404+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6077ms.
+2016-06-03 20:25:27.161+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2454ms.
+2016-06-03 20:25:30.166+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2803ms.
+2016-06-03 20:25:33.032+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2756ms.
+2016-06-03 20:25:43.238+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:25:45.125+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1786ms.
+2016-06-03 20:25:48.228+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2798ms.
+2016-06-03 20:25:58.432+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:26:02.436+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3903ms.
+2016-06-03 20:26:05.026+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2384ms.
+2016-06-03 20:26:14.656+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9424ms.
+2016-06-03 20:26:19.035+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4275ms.
+2016-06-03 20:27:48.507+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5906ms.
+2016-06-03 20:27:58.608+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:28:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1303ms.
+2016-06-03 20:28:52.518+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:28:59.449+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6495ms.
+2016-06-03 20:29:09.651+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:29:19.752+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:29:29.853+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:29:39.954+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:29:50.055+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:29:59.534+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9378ms.
+2016-06-03 20:30:03.794+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4059ms.
+2016-06-03 20:30:07.112+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3116ms.
+2016-06-03 20:30:17.314+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:30:24.681+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7266ms.
+2016-06-03 20:30:29.188+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4303ms.
+2016-06-03 20:30:39.390+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:30:49.491+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:30:59.592+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:31:00.013+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 320ms.
+2016-06-03 20:31:43.351+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 702ms.
+2016-06-03 20:31:46.240+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2480ms.
+2016-06-03 20:31:56.446+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:31:57.962+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1414ms.
+2016-06-03 20:32:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1842ms.
+2016-06-03 20:32:52.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:33:02.111+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:33:06.794+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4582ms.
+2016-06-03 20:33:09.673+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2665ms.
+2016-06-03 20:33:19.876+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:33:29.977+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:33:33.653+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3576ms.
+2016-06-03 20:33:37.320+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3463ms.
+2016-06-03 20:33:47.526+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:33:57.627+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:34:00.013+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2285ms.
+2016-06-03 20:34:42.905+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 248ms.
+2016-06-03 20:34:53.013+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:34:57.390+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4258ms.
+2016-06-03 20:35:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2521ms.
+2016-06-03 20:35:52.283+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:36:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7627ms.
+2016-06-03 20:36:52.241+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:37:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7670ms.
+2016-06-03 20:37:49.433+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6707ms.
+2016-06-03 20:37:59.861+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:38:51.657+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:39:01.758+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:39:11.859+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:39:21.960+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:39:32.061+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:39:42.162+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:39:52.263+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:40:02.364+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:40:10.536+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8072ms.
+2016-06-03 20:40:20.637+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:40:30.738+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:41:52.516+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:42:00.013+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7396ms.
+2016-06-03 20:42:52.716+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:43:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7194ms.
+2016-06-03 20:43:52.686+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:43:56.495+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3708ms.
+2016-06-03 20:44:06.596+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:44:16.697+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:44:26.798+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:44:36.898+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:44:46.999+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:44:57.100+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:45:07.203+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:45:17.304+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:45:27.405+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:45:37.506+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:45:38.648+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1042ms.
+2016-06-03 20:45:48.749+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:45:58.850+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:46:08.951+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:46:19.052+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:46:29.153+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:46:39.253+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:46:49.354+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:46:59.455+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:47:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 455ms.
+2016-06-03 20:47:47.781+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5239ms.
+2016-06-03 20:47:57.986+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:48:00.008+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1922ms.
+2016-06-03 20:49:22.473+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:49:22.831+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 254ms.
+2016-06-03 20:49:33.032+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:49:42.393+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [340]:  Starting check pointing...
+2016-06-03 20:49:42.393+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [340]:  Starting store flush...
+2016-06-03 20:49:42.405+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 340 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 20:49:42.408+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 340 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 20:49:42.413+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [340]:  Store flush completed
+2016-06-03 20:49:42.413+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [340]:  Starting appending check point entry into the tx log...
+2016-06-03 20:49:42.414+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [340]:  Appending check point entry into the tx log completed
+2016-06-03 20:49:42.414+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [340]:  Check pointing completed
+2016-06-03 20:49:42.414+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 20:49:42.414+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 20:49:43.133+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:49:45.128+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1894ms.
+2016-06-03 20:49:55.331+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:50:05.431+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:50:11.070+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5537ms.
+2016-06-03 20:50:12.671+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1398ms.
+2016-06-03 20:50:20.094+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7322ms.
+2016-06-03 20:50:30.196+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10001ms.
+2016-06-03 20:50:36.797+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6495ms.
+2016-06-03 20:50:40.966+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3965ms.
+2016-06-03 20:50:50.584+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9412ms.
+2016-06-03 20:50:55.452+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4662ms.
+2016-06-03 20:51:00.009+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4352ms.
+2016-06-03 20:52:44.682+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2080ms.
+2016-06-03 20:52:47.898+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3113ms.
+2016-06-03 20:52:48.624+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 626ms.
+2016-06-03 20:52:50.484+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1758ms.
+2016-06-03 20:53:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9326ms.
+2016-06-03 20:54:03.577+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:54:13.678+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:54:23.779+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:54:27.380+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3501ms.
+2016-06-03 20:54:29.171+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1590ms.
+2016-06-03 20:56:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6439ms.
+2016-06-03 20:56:53.063+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 421ms.
+2016-06-03 20:57:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6747ms.
+2016-06-03 20:58:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6376ms.
+2016-06-03 20:58:37.456+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [341]:  Starting check pointing...
+2016-06-03 20:58:37.462+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [341]:  Starting store flush...
+2016-06-03 20:58:37.466+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 341 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 20:58:37.469+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 341 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 20:58:37.483+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [341]:  Store flush completed
+2016-06-03 20:58:37.483+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [341]:  Starting appending check point entry into the tx log...
+2016-06-03 20:58:37.486+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [341]:  Appending check point entry into the tx log completed
+2016-06-03 20:58:37.486+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [341]:  Check pointing completed
+2016-06-03 20:58:37.486+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 20:58:37.489+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 20:58:59.603+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6951ms.
+2016-06-03 20:59:03.806+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4102ms.
+2016-06-03 20:59:08.102+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4195ms.
+2016-06-03 20:59:17.804+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9600ms.
+2016-06-03 20:59:19.323+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1418ms.
+2016-06-03 20:59:20.489+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1066ms.
+2016-06-03 20:59:30.590+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:59:40.693+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 20:59:50.325+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9531ms.
+2016-06-03 20:59:50.695+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 269ms.
+2016-06-03 20:59:53.943+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3148ms.
+2016-06-03 20:59:57.389+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3345ms.
+2016-06-03 21:00:07.490+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:00:17.591+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:00:20.509+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2817ms.
+2016-06-03 21:00:22.713+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2104ms.
+2016-06-03 21:00:32.814+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:00:36.894+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3979ms.
+2016-06-03 21:00:37.950+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 956ms.
+2016-06-03 21:00:48.051+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:00:53.175+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5023ms.
+2016-06-03 21:00:58.856+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5580ms.
+2016-06-03 21:00:59.197+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 240ms.
+2016-06-03 21:00:59.920+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 623ms.
+2016-06-03 21:01:58.129+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5268ms.
+2016-06-03 21:02:00.009+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1631ms.
+2016-06-03 21:02:54.236+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1047ms.
+2016-06-03 21:02:57.091+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2754ms.
+2016-06-03 21:02:57.820+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 628ms.
+2016-06-03 21:03:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2090ms.
+2016-06-03 21:03:43.215+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [349]:  Starting check pointing...
+2016-06-03 21:03:43.215+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [349]:  Starting store flush...
+2016-06-03 21:03:43.215+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 349 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:03:43.217+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 349 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:03:43.228+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [349]:  Store flush completed
+2016-06-03 21:03:43.228+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [349]:  Starting appending check point entry into the tx log...
+2016-06-03 21:03:43.230+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [349]:  Appending check point entry into the tx log completed
+2016-06-03 21:03:43.230+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [349]:  Check pointing completed
+2016-06-03 21:03:43.230+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:03:43.234+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:04:03.472+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:04:08.345+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4771ms.
+2016-06-03 21:04:09.227+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 781ms.
+2016-06-03 21:04:09.599+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 271ms.
+2016-06-03 21:04:12.302+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2602ms.
+2016-06-03 21:04:13.164+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 761ms.
+2016-06-03 21:04:16.161+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2897ms.
+2016-06-03 21:04:26.367+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:04:36.468+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:04:37.115+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 546ms.
+2016-06-03 21:05:33.943+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:05:44.045+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:05:54.146+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:05:54.979+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 732ms.
+2016-06-03 21:05:59.465+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4385ms.
+2016-06-03 21:06:01.159+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1593ms.
+2016-06-03 21:06:06.257+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4895ms.
+2016-06-03 21:06:12.076+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5617ms.
+2016-06-03 21:06:16.971+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4694ms.
+2016-06-03 21:06:27.176+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:06:37.277+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:06:47.378+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:06:57.478+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:07:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2432ms.
+2016-06-03 21:08:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7086ms.
+2016-06-03 21:08:52.372+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [352]:  Starting check pointing...
+2016-06-03 21:08:52.372+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [352]:  Starting store flush...
+2016-06-03 21:08:52.377+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 352 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 21:08:52.378+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 352 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 21:08:52.384+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [352]:  Store flush completed
+2016-06-03 21:08:52.384+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [352]:  Starting appending check point entry into the tx log...
+2016-06-03 21:08:52.386+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [352]:  Appending check point entry into the tx log completed
+2016-06-03 21:08:52.386+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [352]:  Check pointing completed
+2016-06-03 21:08:52.386+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:08:52.386+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:09:03.987+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:09:06.060+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1972ms.
+2016-06-03 21:09:06.474+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 313ms.
+2016-06-03 21:09:09.146+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2566ms.
+2016-06-03 21:09:16.370+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7020ms.
+2016-06-03 21:09:59.977+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6694ms.
+2016-06-03 21:11:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6702ms.
+2016-06-03 21:11:57.417+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3872ms.
+2016-06-03 21:12:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2489ms.
+2016-06-03 21:13:03.478+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:13:13.579+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:13:23.680+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:13:33.781+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:13:43.882+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:13:53.983+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:14:00.011+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [354]:  Starting check pointing...
+2016-06-03 21:14:00.011+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [354]:  Starting store flush...
+2016-06-03 21:14:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5928ms.
+2016-06-03 21:14:00.012+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 354 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:14:00.013+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 354 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:14:00.030+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [354]:  Store flush completed
+2016-06-03 21:14:00.030+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [354]:  Starting appending check point entry into the tx log...
+2016-06-03 21:14:00.032+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [354]:  Appending check point entry into the tx log completed
+2016-06-03 21:14:00.032+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [354]:  Check pointing completed
+2016-06-03 21:14:00.033+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:14:00.033+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:15:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5980ms.
+2016-06-03 21:16:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6951ms.
+2016-06-03 21:17:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5967ms.
+2016-06-03 21:18:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6586ms.
+2016-06-03 21:19:04.044+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:19:06.437+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2292ms.
+2016-06-03 21:19:15.196+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8658ms.
+2016-06-03 21:19:15.580+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 283ms.
+2016-06-03 21:19:17.658+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1978ms.
+2016-06-03 21:19:18.972+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1213ms.
+2016-06-03 21:19:19.784+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 711ms.
+2016-06-03 21:19:29.985+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:19:40.088+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:19:50.189+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:20:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9720ms.
+2016-06-03 21:21:55.091+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1537ms.
+2016-06-03 21:21:56.146+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 953ms.
+2016-06-03 21:22:00.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3663ms.
+2016-06-03 21:23:03.244+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:23:05.017+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1670ms.
+2016-06-03 21:23:06.639+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1413ms.
+2016-06-03 21:23:12.114+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5374ms.
+2016-06-03 21:23:19.308+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7093ms.
+2016-06-03 21:23:23.950+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4436ms.
+2016-06-03 21:24:53.761+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 278ms.
+2016-06-03 21:24:57.514+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3645ms.
+2016-06-03 21:24:58.532+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 813ms.
+2016-06-03 21:25:00.008+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1275ms.
+2016-06-03 21:26:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6356ms.
+2016-06-03 21:26:57.330+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3252ms.
+2016-06-03 21:26:59.532+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2001ms.
+2016-06-03 21:27:00.009+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 273ms.
+2016-06-03 21:27:59.572+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6393ms.
+2016-06-03 21:28:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 236ms.
+2016-06-03 21:28:55.318+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1590ms.
+2016-06-03 21:28:56.363+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 770ms.
+2016-06-03 21:29:06.481+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:29:09.797+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [355]:  Starting check pointing...
+2016-06-03 21:29:09.797+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [355]:  Starting store flush...
+2016-06-03 21:29:09.802+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3220ms.
+2016-06-03 21:29:09.814+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 355 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 21:29:09.819+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 355 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 21:29:09.841+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [355]:  Store flush completed
+2016-06-03 21:29:09.841+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [355]:  Starting appending check point entry into the tx log...
+2016-06-03 21:29:09.845+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [355]:  Appending check point entry into the tx log completed
+2016-06-03 21:29:09.845+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [355]:  Check pointing completed
+2016-06-03 21:29:09.845+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:29:09.845+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:29:13.876+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3869ms.
+2016-06-03 21:29:24.082+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:29:31.913+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7730ms.
+2016-06-03 21:29:40.621+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8503ms.
+2016-06-03 21:29:44.496+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3669ms.
+2016-06-03 21:29:47.803+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3105ms.
+2016-06-03 21:29:51.077+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3069ms.
+2016-06-03 21:29:58.303+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7022ms.
+2016-06-03 21:30:03.454+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4935ms.
+2016-06-03 21:30:13.556+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:30:23.656+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:30:30.803+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7045ms.
+2016-06-03 21:30:41.005+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:30:50.204+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9098ms.
+2016-06-03 21:31:00.013+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9703ms.
+2016-06-03 21:32:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5880ms.
+2016-06-03 21:32:54.523+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 794ms.
+2016-06-03 21:32:57.950+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3326ms.
+2016-06-03 21:33:00.009+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1829ms.
+2016-06-03 21:34:01.004+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7191ms.
+2016-06-03 21:34:10.267+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [357]:  Starting check pointing...
+2016-06-03 21:34:10.267+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [357]:  Starting store flush...
+2016-06-03 21:34:10.274+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 357 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:34:10.274+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 357 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:34:10.284+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [357]:  Store flush completed
+2016-06-03 21:34:10.284+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [357]:  Starting appending check point entry into the tx log...
+2016-06-03 21:34:10.286+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [357]:  Appending check point entry into the tx log completed
+2016-06-03 21:34:10.286+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [357]:  Check pointing completed
+2016-06-03 21:34:10.286+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:34:10.286+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:34:54.747+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 684ms.
+2016-06-03 21:34:57.665+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2817ms.
+2016-06-03 21:35:01.817+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3951ms.
+2016-06-03 21:35:02.580+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 663ms.
+2016-06-03 21:35:03.710+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1029ms.
+2016-06-03 21:35:05.081+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1271ms.
+2016-06-03 21:35:15.190+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:35:25.291+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:35:30.542+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5150ms.
+2016-06-03 21:35:32.203+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1560ms.
+2016-06-03 21:35:34.691+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2387ms.
+2016-06-03 21:35:35.186+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 395ms.
+2016-06-03 21:35:45.387+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:35:55.488+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:36:00.179+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4590ms.
+2016-06-03 21:36:09.101+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor) RETURN n
+2016-06-03 21:36:09.103+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,None))))
+2016-06-03 21:36:09.625+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9245ms.
+2016-06-03 21:36:13.872+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:36:13.875+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:36:16.465+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6740ms.
+2016-06-03 21:36:22.164+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:36:22.165+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:36:26.566+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:36:28.424+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1757ms.
+2016-06-03 21:36:36.954+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:36:36.955+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:36:37.517+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8992ms.
+2016-06-03 21:36:41.697+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:36:41.698+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:36:43.758+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6141ms.
+2016-06-03 21:36:51.970+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:36:51.971+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:36:52.524+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 8665ms.
+2016-06-03 21:37:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7387ms.
+2016-06-03 21:37:18.640+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:37:18.641+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:37:28.192+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:37:28.193+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:37:46.282+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor) RETURN n
+2016-06-03 21:37:46.284+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,None))))
+2016-06-03 21:37:54.673+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 632ms.
+2016-06-03 21:37:56.523+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1650ms.
+2016-06-03 21:37:59.008+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2279ms.
+2016-06-03 21:38:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 903ms.
+2016-06-03 21:38:09.345+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:38:09.345+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:38:16.407+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 21:38:16.408+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID97)))),None,None,None,Some(Where(Identifier(  FRESHID97)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 21:38:56.156+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3023ms.
+2016-06-03 21:39:00.018+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3761ms.
+2016-06-03 21:39:04.790+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor) RETURN n
+2016-06-03 21:39:04.792+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,None))))
+2016-06-03 21:39:10.121+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:39:12.361+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [367]:  Starting check pointing...
+2016-06-03 21:39:12.361+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [367]:  Starting store flush...
+2016-06-03 21:39:12.362+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 367 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 21:39:12.363+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 367 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a].
+2016-06-03 21:39:12.378+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [367]:  Store flush completed
+2016-06-03 21:39:12.378+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [367]:  Starting appending check point entry into the tx log...
+2016-06-03 21:39:12.381+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [367]:  Appending check point entry into the tx log completed
+2016-06-03 21:39:12.381+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [367]:  Check pointing completed
+2016-06-03 21:39:12.381+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:39:12.381+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:39:16.840+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6618ms.
+2016-06-03 21:39:19.047+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2106ms.
+2016-06-03 21:39:29.057+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:flavor) RETURN n
+2016-06-03 21:39:29.060+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(flavor)))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,None))))
+2016-06-03 21:39:55.695+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1863ms.
+2016-06-03 21:39:57.597+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1795ms.
+2016-06-03 21:40:07.698+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:40:17.799+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:40:27.899+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:40:31.892+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3892ms.
+2016-06-03 21:40:33.399+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1406ms.
+2016-06-03 21:40:34.720+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1216ms.
+2016-06-03 21:40:44.827+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:40:54.927+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:40:58.760+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3732ms.
+2016-06-03 21:41:00.010+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1148ms.
+2016-06-03 21:41:55.244+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1478ms.
+2016-06-03 21:41:59.326+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3975ms.
+2016-06-03 21:42:00.012+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 482ms.
+2016-06-03 21:43:03.377+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:43:13.478+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:43:21.440+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7862ms.
+2016-06-03 21:43:24.813+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3168ms.
+2016-06-03 21:43:35.017+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:43:45.118+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 21:43:50.763+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5545ms.
+2016-06-03 21:44:12.403+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [377]:  Starting check pointing...
+2016-06-03 21:44:12.403+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [377]:  Starting store flush...
+2016-06-03 21:44:12.411+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 377 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:44:12.412+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 377 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 21:44:12.418+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [377]:  Store flush completed
+2016-06-03 21:44:12.418+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [377]:  Starting appending check point entry into the tx log...
+2016-06-03 21:44:12.420+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [377]:  Appending check point entry into the tx log completed
+2016-06-03 21:44:12.420+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [377]:  Check pointing completed
+2016-06-03 21:44:12.420+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:44:12.420+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:44:25.298+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 808ms.
+2016-06-03 21:44:31.199+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5799ms.
+2016-06-03 21:44:35.400+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3899ms.
+2016-06-03 21:44:35.982+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 481ms.
+2016-06-03 21:45:26.612+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2983ms.
+2016-06-03 21:45:30.536+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3723ms.
+2016-06-03 21:45:34.858+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4221ms.
+2016-06-03 21:45:35.804+0000 INFO  [o.n.k.i.f.GraphDatabaseFacade] Shutdown started
+2016-06-03 21:45:35.804+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] Database is now unavailable
+2016-06-03 21:45:35.809+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [377]:  Starting check pointing...
+2016-06-03 21:45:35.809+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [377]:  Starting store flush...
+2016-06-03 21:45:35.811+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [377]:  Store flush completed
+2016-06-03 21:45:35.811+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [377]:  Starting appending check point entry into the tx log...
+2016-06-03 21:45:35.815+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [377]:  Appending check point entry into the tx log completed
+2016-06-03 21:45:35.815+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [377]:  Check pointing completed
+2016-06-03 21:45:35.815+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 21:45:35.815+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 21:45:35.861+0000 INFO  [o.n.k.NeoStoreDataSource] NeoStores closed
+2016-06-03 21:45:35.861+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics START ---
+2016-06-03 21:45:35.861+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics END ---
