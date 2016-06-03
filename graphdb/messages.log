@@ -6537,3 +6537,352 @@ Storage files: (filename : modification date - size)
 2016-06-03 22:12:05.976+0000 INFO  [o.n.k.NeoStoreDataSource] NeoStores closed
 2016-06-03 22:12:05.977+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics START ---
 2016-06-03 22:12:05.977+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics END ---
+2016-06-03 22:12:19.298+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] No locking implementation specified, defaulting to 'community'
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.AvailabilityGuard] Requirement makes database unavailable: Database available
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] --- INITIALIZED diagnostics START ---
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] Neo4j Kernel properties:
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.db.tuning.properties=/Users/mouse/Personal/recipes/graphdb/neo4j.properties
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.database.location=/Users/mouse/Personal/recipes/graphdb
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.webserver.port=7474
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.querylog.filename=data/log/queries.log
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.auth_store.location=/Users/mouse/Personal/recipes/graphdb/./dbms/auth
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.http.log.enabled=false
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.tls_certificate_file=/Users/mouse/Personal/recipes/graphdb/./dbms/ssl/snakeoil.cert
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.server.webserver.https.port=7473
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] remote_shell_enabled=true
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] edition=Community
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.tls_key_file=/Users/mouse/Personal/recipes/graphdb/./dbms/ssl/snakeoil.key
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] dbms.security.auth_enabled=true
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] Diagnostics providers:
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.kernel.configuration.Config
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] org.neo4j.kernel.info.DiagnosticsManager
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] SYSTEM_MEMORY
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] JAVA_MEMORY
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] OPERATING_SYSTEM
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] JAVA_VIRTUAL_MACHINE
+2016-06-03 22:12:19.300+0000 INFO  [o.n.k.i.DiagnosticsManager] CLASSPATH
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] LIBRARY_PATH
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] SYSTEM_PROPERTIES
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] NETWORK
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] System memory information:
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Total Physical memory: 8.00 GB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Free Physical memory: 238.79 MB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Committed virtual memory: 4.97 GB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Total swap space: 2.00 GB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Free swap space: 977.50 MB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] JVM memory information:
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Free  memory: 329.45 MB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Total memory: 635.50 MB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Max   memory: 1.78 GB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Garbage Collector: PS Scavenge: [PS Eden Space, PS Survivor Space]
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Garbage Collector: PS MarkSweep: [PS Eden Space, PS Survivor Space, PS Old Gen, PS Perm Gen]
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: Code Cache (Non-heap memory): committed=14.50 MB, used=14.20 MB, max=48.00 MB, threshold=0.00 B
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Eden Space (Heap memory): committed=283.50 MB, used=228.25 MB, max=545.00 MB, threshold=?
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Survivor Space (Heap memory): committed=68.50 MB, used=31.93 MB, max=68.50 MB, threshold=?
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Old Gen (Heap memory): committed=283.50 MB, used=45.88 MB, max=1.33 GB, threshold=0.00 B
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Memory Pool: PS Perm Gen (Non-heap memory): committed=70.00 MB, used=69.94 MB, max=82.00 MB, threshold=0.00 B
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Operating system information:
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Operating System: Mac OS X; version: 10.11.4; arch: x86_64; cpus: 4
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Max number of file descriptors: 10.00 kB
+2016-06-03 22:12:19.301+0000 INFO  [o.n.k.i.DiagnosticsManager] Number of open file descriptors: 46.00 B
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] Process id: 4706@Mouses-MacBook-Air.local
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] Byte order: LITTLE_ENDIAN
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] Local timezone: America/Los_Angeles
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] JVM information:
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Name: Java HotSpot(TM) 64-Bit Server VM
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Vendor: Oracle Corporation
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Version: 24.80-b11
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] JIT compiler: HotSpot 64-Bit Tiered Compilers
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] VM Arguments: [-Dfile.encoding=UTF-8, -Dinstall4j.launcherId=24, -Dinstall4j.swt=false, -Dexe4j.moduleName=/Applications/Neo4j Community Edition.app, -Di4j.ownBundlePath=/Applications/Neo4j Community Edition.app, -Di4j.jreBundle=/Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle]
+2016-06-03 22:12:19.302+0000 INFO  [o.n.k.i.DiagnosticsManager] Java classpath:
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/localedata.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/sunrsasign.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/jce.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.0] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/app/.install4j/i4jruntime.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/rt.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [classpath] /Applications/Neo4j Community Edition.app/Contents/Resources/app/bin/neo4j-desktop-2.3.1.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/System/Library/Java/Extensions/MRJToolkit.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/sunjce_provider.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/dnsns.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/sunec.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.0] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/app/bin/neo4j-desktop-2.3.1.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/zipfs.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [loader.1] file:/Applications/Neo4j%20Community%20Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/ext/sunpkcs11.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [classpath] /Applications/Neo4j Community Edition.app/Contents/Resources/app/.install4j/i4jruntime.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/classes
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/jsse.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/charsets.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/resources.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager]  [bootstrap] /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib/jfr.jar
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] Library path:
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] /Users/mouse/Library/Java/Extensions
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] /Library/Java/Extensions
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] /Network/Library/Java/Extensions
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] /System/Library/Java/Extensions
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] /usr/lib/java
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] /Applications/Neo4j Community Edition.app/Contents/Resources/app/bin
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] System.properties:
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] exe4j.moduleName = /Applications/Neo4j Community Edition.app
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.boot.library.path = /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle/Contents/Home/jre/lib
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] i4j.jreBundle = /Applications/Neo4j Community Edition.app/Contents/Resources/jre.bundle
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] gopherProxySet = false
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] path.separator = :
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] file.encoding.pkg = sun.io
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] user.country = US
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.java.launcher = SUN_STANDARD
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.os.patch.level = unknown
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.exeDir = /Applications/
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] user.dir = /Applications/Neo4j Community Edition.app/Contents/Resources/app/bin
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] neo4j.ext.udc.source = desktop
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] i4j.ownBundlePath = /Applications/Neo4j Community Edition.app
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.jnu.encoding = UTF-8
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.awt.enableExtraMouseButtons = true
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.launcherId = 24
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.swt = false
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] apple.awt.fileDialogForDirectories = false
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] http.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] user.home = /Users/mouse
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] user.timezone = America/Los_Angeles
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] file.encoding = UTF-8
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] user.name = mouse
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.java.command = com.install4j.runtime.launcher.MacLauncher
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.arch.data.model = 64
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] user.language = en
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] awt.toolkit = sun.lwawt.macosx.LWCToolkit
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] install4j.appDir = /Applications/Neo4j Community Edition.app/Contents/Resources/app/
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] file.separator = /
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.font.fontmanager = sun.font.CFontManager
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.io.unicode.encoding = UnicodeBig
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.cpu.endian = little
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] socksNonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] ftp.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] sun.cpu.isalist = 
+2016-06-03 22:12:19.303+0000 INFO  [o.n.k.i.DiagnosticsManager] Network information:
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager] Interface awdl0:
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: fe80:0:0:0:dc77:e8ff:fe75:579c%6
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager] Interface en0:
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: fe80:0:0:0:9ae0:d9ff:fe88:d65%4
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: 10.30.65.89
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager] Interface lo0:
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: fe80:0:0:0:0:0:0:1%1
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: 0:0:0:0:0:0:0:1
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager]     address: 127.0.0.1
+2016-06-03 22:12:19.304+0000 INFO  [o.n.k.i.DiagnosticsManager] --- INITIALIZED diagnostics END ---
+2016-06-03 22:12:19.382+0000 INFO  [o.n.k.KernelHealth] Kernel health set to OK
+2016-06-03 22:12:19.392+0000 INFO  [o.n.k.AvailabilityGuard] Fulfilling of requirement makes database available: Database available
+2016-06-03 22:12:19.394+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] Database is now ready
+2016-06-03 22:12:19.394+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2016-06-03 22:12:19.394+0000 INFO  [o.n.k.i.DiagnosticsManager] Graph Database: Community StoreId{creationTime=1464729887918, randomId=-8794438270993501040, storeVersion=15250506225055238, upgradeTime=1464729887918, upgradeId=1}
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] Kernel version: 2.3.1
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] Store versions:
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] Store versions:
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] ArrayPropertyStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] NodeStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] PropertyIndexStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] ArrayPropertyStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] PropertyStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] RelationshipStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] RelationshipTypeStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] StringPropertyStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] LabelTokenStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] SchemaStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] RelationshipGroupStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] NeoStore v0.A.6
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] Id usage:
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager] Id usage:
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   ArrayPropertyStore v0.A.6: used=1 high=0
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   NodeStore v0.A.6: used=166 high=165
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=6 high=5
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   PropertyIndexStore v0.A.6: used=5 high=4
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=282 high=474
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   ArrayPropertyStore v0.A.6: used=1 high=0
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   PropertyStore v0.A.6: used=176 high=175
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   RelationshipStore v0.A.6: used=432 high=431
+2016-06-03 22:12:19.395+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=5 high=4
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager]   RelationshipTypeStore v0.A.6: used=4 high=3
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager]   StringPropertyStore v0.A.6: used=10 high=9
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager]   LabelTokenStore v0.A.6: used=9 high=8
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager]   SchemaStore v0.A.6: used=1 high=0
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager]   RelationshipGroupStore v0.A.6: used=1 high=0
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager]   NeoStore v0.A.6: used=13 high=12
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_RECORDS START ---
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] Neostore records:
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] TIME (Creation time): 1464729887918
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] RANDOM_NUMBER (Random number for store id): -8794438270993501040
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] LOG_VERSION (Current log version): 0
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_TRANSACTION_ID (Last committed transaction): 427
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] STORE_VERSION (Store format version): 15250506225055238
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] FIRST_GRAPH_PROPERTY (First property record containing graph properties): -1
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_CONSTRAINT_TRANSACTION (Last committed transaction containing constraint changes): 0
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] UPGRADE_TRANSACTION_ID (Transaction id most recent upgrade was performed at): 1
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] UPGRADE_TIME (Time of last upgrade): 1464729887918
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_TRANSACTION_CHECKSUM (Checksum of last committed transaction): -162999535722
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] UPGRADE_TRANSACTION_CHECKSUM (Checksum of transaction id the most recent upgrade was performed at): 0
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_CLOSED_TRANSACTION_LOG_VERSION (Log version where the last transaction commit entry has been written into): 0
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] LAST_CLOSED_TRANSACTION_LOG_BYTE_OFFSET (Byte offset in the log file where the last transaction commit entry has been written into): 351805
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for NEO_STORE_RECORDS END ---
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for TRANSACTION_RANGE START ---
+2016-06-03 22:12:19.396+0000 INFO  [o.n.k.i.DiagnosticsManager] Transaction log:
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager] Oldest transaction 2 found in log with version 0
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for TRANSACTION_RANGE END ---
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager] Disk space on partition (Total / Free / Free %): 249795969024 / 197510205440 / 79
+Storage files: (filename : modification date - size)
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager]   dbms:
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager]     auth: 2016-05-31T14:25:48-0700 - 113.00 B
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager]     ssl:
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager]       snakeoil.cert: 2016-05-31T14:24:47-0700 - 630.00 B
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager]       snakeoil.key: 2016-05-31T14:24:47-0700 - 910.00 B
+2016-06-03 22:12:19.397+0000 INFO  [o.n.k.i.DiagnosticsManager]     - Total: 2016-05-31T14:24:47-0700 - 1.50 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   - Total: 2016-05-31T14:25:48-0700 - 1.61 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   index:
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   - Total: 2016-05-31T14:24:47-0700 - 0.00 B
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   messages.log: 2016-06-03T15:12:19-0700 - 1.03 MB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neo4j.properties: 2016-05-31T14:24:47-0700 - 1.27 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore: 2016-06-03T15:07:39-0700 - 8.00 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.counts.db.a: 2016-06-03T15:06:22-0700 - 1.03 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.counts.db.b: 2016-06-03T15:11:30-0700 - 1.03 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db: 2016-06-03T14:42:09-0700 - 8.00 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db.names: 2016-06-03T14:42:09-0700 - 8.00 kB
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.labeltokenstore.db.names.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.398+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db: 2016-06-03T15:07:39-0700 - 8.00 kB
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db.labels: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.nodestore.db.labels.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db: 2016-06-03T15:00:09-0700 - 7.97 kB
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.arrays: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.arrays.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index: 2016-05-31T15:01:29-0700 - 8.00 kB
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index.keys: 2016-05-31T15:01:29-0700 - 8.00 kB
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.index.keys.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.strings: 2016-06-03T13:08:30-0700 - 64.00 kB
+2016-06-03 22:12:19.399+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.propertystore.db.strings.id: 2016-06-03T15:12:19-0700 - 1.52 kB
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipgroupstore.db: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipgroupstore.db.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipstore.db: 2016-06-03T15:07:39-0700 - 15.94 kB
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshipstore.db.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db: 2016-05-31T15:42:47-0700 - 8.00 kB
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db.names: 2016-05-31T15:42:47-0700 - 8.00 kB
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.relationshiptypestore.db.names.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.schemastore.db: 2016-05-31T14:24:47-0700 - 8.00 kB
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.schemastore.db.id: 2016-06-03T15:12:19-0700 - 9.00 B
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   neostore.transaction.db.0: 2016-06-03T15:12:05-0700 - 343.59 kB
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]   schema:
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]     label:
+2016-06-03 22:12:19.400+0000 INFO  [o.n.k.i.DiagnosticsManager]       lucene:
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]         _9b.cfs: 2016-06-03T14:59:55-0700 - 485.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]         segments.gen: 2016-06-03T15:01:19-0700 - 20.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]         segments_t: 2016-06-03T15:01:19-0700 - 259.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]         write.lock: 2016-06-03T15:12:19-0700 - 0.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]       - Total: 2016-06-03T15:12:19-0700 - 764.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]     - Total: 2016-05-31T14:24:47-0700 - 764.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]   - Total: 2016-05-31T14:24:47-0700 - 764.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager]   store_lock: 2016-05-31T14:24:47-0700 - 0.00 B
+2016-06-03 22:12:19.401+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2016-06-03 22:12:19.413+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED START ---
+2016-06-03 22:12:20.333+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED END ---
+2016-06-03 22:12:58.526+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5200ms.
+2016-06-03 22:13:01.376+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2748ms.
+2016-06-03 22:13:02.161+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 584ms.
+2016-06-03 22:13:05.517+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3255ms.
+2016-06-03 22:13:06.526+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 908ms.
+2016-06-03 22:13:07.846+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1219ms.
+2016-06-03 22:13:08.673+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 727ms.
+2016-06-03 22:13:15.247+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6473ms.
+2016-06-03 22:13:25.350+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10000ms.
+2016-06-03 22:13:29.411+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3961ms.
+2016-06-03 22:13:36.254+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 6741ms.
+2016-06-03 22:13:37.997+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1542ms.
+2016-06-03 22:13:39.523+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1325ms.
+2016-06-03 22:13:40.915+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1291ms.
+2016-06-03 22:13:46.064+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5049ms.
+2016-06-03 22:13:50.239+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4074ms.
+2016-06-03 22:13:51.006+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 367ms.
+2016-06-03 22:13:51.493+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 351ms.
+2016-06-03 22:13:52.885+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1291ms.
+2016-06-03 22:13:54.967+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1981ms.
+2016-06-03 22:13:57.036+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1968ms.
+2016-06-03 22:13:59.743+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2605ms.
+2016-06-03 22:14:03.226+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3380ms.
+2016-06-03 22:14:04.607+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1280ms.
+2016-06-03 22:14:05.830+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient) RETURN n
+2016-06-03 22:14:05.830+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,None))))
+2016-06-03 22:14:07.581+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2874ms.
+2016-06-03 22:14:09.637+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1954ms.
+2016-06-03 22:14:10.370+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 633ms.
+2016-06-03 22:14:11.912+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1440ms.
+2016-06-03 22:14:13.386+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1374ms.
+2016-06-03 22:14:13.976+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 488ms.
+2016-06-03 22:14:17.497+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient {identifier: "pickle"}) RETURN n
+2016-06-03 22:14:17.501+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(And(Equals(Property(Identifier(n),PropertyKeyName(identifier)),Parameter(  AUTOSTRING0)),HasLabels(Identifier(n),List(LabelName(ingredient))))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,None))))
+2016-06-03 22:14:17.526+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient {identifier: "rustic alpine cheese"}) RETURN n
+2016-06-03 22:14:17.530+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient {identifier: "sourdough bread"}) RETURN n
+2016-06-03 22:14:19.040+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4859ms.
+2016-06-03 22:14:23.020+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient) RETURN n
+2016-06-03 22:14:23.020+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,None))))
+2016-06-03 22:14:30.210+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:14:30.211+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:14:30.234+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)-[r]->(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:14:30.235+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,OUTGOING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:14:46.757+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:14:46.757+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:14:46.773+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)-[r]->(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:14:46.774+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,OUTGOING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:14:51.312+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:14:51.312+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:14:51.326+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)-[r]->(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:14:51.327+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,OUTGOING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:14:59.914+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5765ms.
+2016-06-03 22:15:01.103+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 988ms.
+2016-06-03 22:15:02.208+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1004ms.
+2016-06-03 22:15:03.226+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 917ms.
+2016-06-03 22:15:03.968+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 641ms.
+2016-06-03 22:15:49.427+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:15:49.427+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:15:49.450+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)-[r]->(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:15:49.450+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,OUTGOING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:15:56.629+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2488ms.
+2016-06-03 22:15:56.789+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:15:56.789+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:15:56.811+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)-[r]->(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:15:56.812+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,OUTGOING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:15:59.770+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 3040ms.
+2016-06-03 22:16:00.314+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 443ms.
+2016-06-03 22:16:00.859+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 444ms.
+2016-06-03 22:16:03.776+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2817ms.
+2016-06-03 22:16:04.905+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)<-[r]-(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:16:04.905+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,INCOMING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:16:04.927+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:ingredient)-[r]->(m) WITH COLLECT(r) AS cr, TYPE(r) AS rs, LABELS(m) AS lm WHERE LENGTH(cr) > 1 RETURN DISTINCT rs, lm
+2016-06-03 22:16:04.927+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(n)),List(),None,false),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,OUTGOING),NodePattern(Some(Identifier(m)),List(),None,false))))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(ingredient)))))), With(false,ReturnItems(false,Vector(AliasedReturnItem(FunctionInvocation(FunctionName(COLLECT),false,Vector(Identifier(r))),Identifier(cr)), AliasedReturnItem(FunctionInvocation(FunctionName(TYPE),false,Vector(Identifier(r))),Identifier(rs)), AliasedReturnItem(FunctionInvocation(FunctionName(LABELS),false,Vector(Identifier(m))),Identifier(lm)))),None,None,None,None), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(GreaterThan(FunctionInvocation(FunctionName(LENGTH),false,Vector(Identifier(cr))),Parameter(  AUTOINT0)),Identifier(  FRESHID101)))),None,None,None,Some(Where(Identifier(  FRESHID101)))), With(false,ReturnItems(false,Vector(AliasedReturnItem(Identifier(cr),Identifier(cr)), AliasedReturnItem(Identifier(lm),Identifier(lm)), AliasedReturnItem(Identifier(rs),Identifier(rs)))),None,None,None,None), Return(true,ReturnItems(false,List(AliasedReturnItem(Identifier(rs),Identifier(rs)), AliasedReturnItem(Identifier(lm),Identifier(lm)))),None,None,None))))
+2016-06-03 22:16:11.606+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 7729ms.
+2016-06-03 22:16:13.114+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1408ms.
+2016-06-03 22:16:13.891+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 676ms.
+2016-06-03 22:16:15.426+0000 INFO  [o.n.k.i.f.GraphDatabaseFacade] Shutdown started
+2016-06-03 22:16:15.426+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] Database is now unavailable
+2016-06-03 22:16:15.436+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 443 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 22:16:15.437+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 443 to [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.a], from [/Users/mouse/Personal/recipes/graphdb/neostore.counts.db.b].
+2016-06-03 22:16:15.440+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [443]:  Starting check pointing...
+2016-06-03 22:16:15.440+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [443]:  Starting store flush...
+2016-06-03 22:16:15.440+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [443]:  Store flush completed
+2016-06-03 22:16:15.440+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [443]:  Starting appending check point entry into the tx log...
+2016-06-03 22:16:15.443+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [443]:  Appending check point entry into the tx log completed
+2016-06-03 22:16:15.443+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [443]:  Check pointing completed
+2016-06-03 22:16:15.443+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2016-06-03 22:16:15.443+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2016-06-03 22:16:15.456+0000 INFO  [o.n.k.NeoStoreDataSource] NeoStores closed
+2016-06-03 22:16:15.457+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics START ---
+2016-06-03 22:16:15.457+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics END ---
