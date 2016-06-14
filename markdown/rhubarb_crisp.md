@@ -5,7 +5,7 @@ Substitute vegan butter to effect, if desired.
 ### Ingredients
 - 6 tbsp cold butter, cut into pieces, plus a little more to grease the pan
 - 2.5 - 3 lbs rhubarb, cut into 1 to 1/2 inch pieces
-- 1.4 cup white sugar
+- 1/4 cup white sugar
 - 1 tbsp lemon juice
 - 1 tsp lemon zest
 - 3/4 cup brown sugar
