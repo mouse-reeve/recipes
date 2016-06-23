@@ -19,13 +19,15 @@ def add_items(json_file_path):
         ingredients = [re.sub(r'.*\{(.*)\}.*', r'\1', i) for i in ingredients]
 
         for ingredient in ingredients:
-            query = 'MATCH (n:ingredient {identifier: "%s"}) RETURN n' % ingredient
+            query = 'MATCH (n:ingredient {identifier: "%s"}) ' \
+                    'RETURN n' % ingredient
             result = graph.cypher.execute(query)
             if len(result.records):
                 continue
 
             print 'adding %s' % ingredient
-            query = 'CREATE (n:ingredient {identifier: "%s"}) RETURN n' % ingredient
+            query = 'CREATE (n:ingredient {identifier: "%s"}) ' \
+                    'RETURN n' % ingredient
             graph.cypher.execute(query)
 
 if __name__ == '__main__':
