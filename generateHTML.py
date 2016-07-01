@@ -103,7 +103,7 @@ else:
 '''
 
 
-halfway = int(math.ceil(len(recipe_json['ingredients'])/2))
+halfway = int(math.ceil(len(recipe_json['ingredients'])/2)) + 1
 for ingredients in [recipe_json['ingredients'][0:halfway],
                     recipe_json['ingredients'][halfway:]]:
     print '''
