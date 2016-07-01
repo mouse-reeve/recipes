@@ -1,7 +1,8 @@
 ''' jankass script for recipe html for veganteaparty.club '''
-import sys
-import re
 import json
+import math
+import re
+import sys
 
 recipe_json = json.load(open(sys.argv[1]))
 
@@ -102,8 +103,9 @@ else:
 '''
 
 
-for ingredients in [recipe_json['ingredients'][0:(len(recipe_json['ingredients'])/2)],
-                    recipe_json['ingredients'][(len(recipe_json['ingredients'])/2):]]:
+halfway = int(math.ceil(len(recipe_json['ingredients'])/2))
+for ingredients in [recipe_json['ingredients'][0:halfway],
+                    recipe_json['ingredients'][halfway:]]:
     print '''
                     <div class="columns medium-6">
                         <ul>
