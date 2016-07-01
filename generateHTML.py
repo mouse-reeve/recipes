@@ -65,8 +65,37 @@ print '''
 ''' % ({'title': recipe_json['title'],
         'description': recipe_json['description']})
 
-
-print '''
+if 'source' in recipe_json:
+    print '''
+            <div class="section recipe-meta">
+                <div class="row">
+                    <div class="columns small-4">
+                        <a href="%s" target="_blank">source</a>
+                    </div>
+                    <div class="columns small-4">
+                        god only knows the cooking time
+                    </div>
+                    <div class="columns small-4">
+                        makes some quantity
+                    </div>
+                </div>
+            </div>
+            <div class="section">
+                <h3>Ingredients</h3>
+                <div class="row">
+    ''' % recipe_json['source']
+else:
+    print '''
+            <div class="section recipe-meta">
+                <div class="row">
+                    <div class="columns small-6">
+                        god only knows the cooking time
+                    </div>
+                    <div class="columns small-6">
+                        makes some quantity
+                    </div>
+                </div>
+            </div>
             <div class="section">
                 <h3>Ingredients</h3>
                 <div class="row">
