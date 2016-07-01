@@ -65,11 +65,14 @@ print '''
 ''' % ({'title': recipe_json['title'],
         'description': recipe_json['description']})
 
+
 print '''
             <div class="section">
                 <h3>Ingredients</h3>
                 <div class="row">
 '''
+
+
 for ingredients in [recipe_json['ingredients'][0:(len(recipe_json['ingredients'])/2)],
                     recipe_json['ingredients'][(len(recipe_json['ingredients'])/2):]]:
     print '''
@@ -78,7 +81,7 @@ for ingredients in [recipe_json['ingredients'][0:(len(recipe_json['ingredients']
     '''
     for ingredient in ingredients:
         ingredient = re.sub(r'\{butter\}',
-                            '<a href="/recipe/vegan-butter.html">vegan butter</a>',
+                            '<a href="/recipe/vegan_butter.html">vegan butter</a>',
                             ingredient)
         ingredient = re.sub(r'[\{\}]', '', ingredient)
         print '''
@@ -90,6 +93,7 @@ for ingredients in [recipe_json['ingredients'][0:(len(recipe_json['ingredients']
                     </div>
     '''
 
+
 print '''
                 </div>
             </div>
@@ -97,10 +101,13 @@ print '''
                 <h3>Instructions</h3>
                 <ul>
 '''
+
+
 for step in recipe_json['steps']:
     print '''
                     <li>%s</li>
     ''' % step
+
 
 print '''
                 </ul>
