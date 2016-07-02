@@ -13,20 +13,28 @@ For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and but
 - 1 1/2 tsp baking powder
 - 1/2 tsp baking soda
 - 1/2 cup cold unsalted butter, cut into pieces
-- 1/2 cup buttermilk
+- 2 tbsp crystallized ginger, finely chopped
+- 1/2 cup almond milk
+- t tsp apple cider vinegar
 - 2 1/2 tablespoons unsulphured molasses
 
 ### Steps
-Preheat oven to 400 degrees F and place rack in the center of the oven.
+Preheat oven to 400 degrees F.
 
-In a large bowl, whisk together the flour, sugar, baking powder, baking soda and salt. Cut the butter into small pieces and blend into the flour mixture with a pastry blender or two knives. The mixture should look like coarse crumbs.
+Mix the nut milk and vinegar and allow to curdle.
 
-Stir in crystalized ginger and lemon zest.
+Whisk together the flour, oats, sugar, spices, baking powder, baking soda, and salt.
 
-Add buttermilk and mix just until the dough comes together. Do not over mix.
+Cut in the butter with a pastry blender, forming course crumbs.
 
-Transfer to a lightly floured surface and knead dough gently four or five times and then pat the dough into a circle that is about 7 inches round and about 1 1/2 inches thick. Cut this circle in half, then cut each half into 4 pie-shaped wedges (triangles). Place the scones on the baking sheet. Brush the tops of the scones with the egg wash.
+Stir in the crystalized ginger.
 
-Place the baking sheet inside another baking sheet to prevent the bottoms of the scones from over browning. Bake for about 20 minutes or until golden brown and a toothpick inserted in the middle comes out clean. Transfer to a wire rack to cool.
+Mix the molasses into the curdled milk, and gently combine into the flour mixture. Do not overmix.
 
-> Source: http://m.joyofbaking.com/scones/SconesLemonGinger.html
+On a lightly floured surface, pat the dough into a circle and cut into wedges.
+
+Transfer to a baking sheet and bake for 18-20 minutes, until golden brown. A toothpick inserted into the middle should come out clean.
+
+Move to a wire rack to cool, and serve warm.
+
+> Source: http://www.joyofbaking.com/GingerbreadScones.html
