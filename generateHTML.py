@@ -71,13 +71,15 @@ if 'source' in recipe_json:
             <div class="section recipe-meta">
                 <div class="row">
                     <div class="columns small-4">
-                        <a href="%s" target="_blank">source</a>
+                        <!--god only knows the cooking time-->
+                        &nbsp;
                     </div>
                     <div class="columns small-4">
-                        god only knows the cooking time
+                        <a href="%s" target="_blank">Source</a>
                     </div>
                     <div class="columns small-4">
-                        makes some quantity
+                        <!--makes some quantity-->
+                        &nbsp;
                     </div>
                 </div>
             </div>
