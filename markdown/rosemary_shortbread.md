@@ -3,13 +3,13 @@ Rosemary Shortbread Cookies
 
 ### Ingredients
 - 1 cups unsalted butter
-- 1/4 cup white sugar
+- 1/2 cup white sugar
 - 2 tbsp chopped fresh rosemary
 - 2 cups all-purpose flour
 - 1/4 tsp salt
 
 ### Steps
-In a medium bowl, cream together the butter and 2/3 cup of sugar until light and fluffy. Stir in the flour, salt, and rosemary until well blended. The dough will be somewhat soft.
+In a medium bowl, cream together the butter and 1/2 cup of sugar until light and fluffy. Stir in the flour, salt, and rosemary until well blended. The dough will be somewhat soft.
 
 Roll the dough into a long log (or two), wrap in cellophane, and refrigerate for 1 hour.
 
