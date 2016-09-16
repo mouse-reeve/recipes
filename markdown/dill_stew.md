@@ -27,7 +27,7 @@ Pour in broth, whisking constantly to avoid clumping.
 
 Add vegetables, dill, thyme, and paprika. Increase heat and cover, bringing it to a boil. Stir occassionally to avoid boiling over or sticking.
 
-Once boiling, reduce heat and simmer for 20-25 minutes, stirring occassionally, until stew is thick and potatoes and carrots are tender.
+Once boiling, reduce heat and simmer, uncovered, for 20-25 minutes, stirring occassionally, until stew is thick and potatoes and carrots are tender.
 
 In the meantime, prepare the dumplings.
 
