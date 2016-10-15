@@ -10,6 +10,7 @@ Seitan Bacon
 - 2 tbsp tomato paste
 - 2 tbsp BBQ sauce
 - 2 tbsp olive oil
+- 1 tsp black pepper
 - 2 tsp salt
 - 3 cloves garlic, crushed
 
