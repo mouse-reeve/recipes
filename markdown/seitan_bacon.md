@@ -4,9 +4,10 @@ Seitan Bacon
 
 ### Ingredients
 - 1 1/2 cup wheat gluten
-- 3/4 cup cold water
 - 1/4 cup nutritional yeast
+- 3/4 cup cold water
 - 3 tbsp liquid smoke
+- 2 tbsp tomato paste
 - 2 tbsp BBQ sauce
 - 2 tbsp olive oil
 - 2 tsp salt
