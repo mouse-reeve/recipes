@@ -2,7 +2,6 @@
     "title": "Seitan Bacon",
     "notes": "",
     "ingredients": [
-        "1 1/2 cup {wheat gluten}",
         "1/4 cup {nutritional yeast}",
         "3/4 cup cold water",
         "3 tbsp {liquid smoke}",
@@ -11,12 +10,13 @@
         "2 tbsp {olive oil}",
         "1 tsp {black pepper}",
         "2 tsp {salt}",
-        "3 cloves {garlic}, crushed"
+        "3 cloves {garlic}, crushed",
+        "1 1/2 cup {wheat gluten}"
     ],
     "steps": [
         "Preheat the oven to 350 degrees F.",
-        "Mix the dry ingredients in a large bowl.",
-        "Whisk together the wet ingredients in a measuring cup or small bowl, and mix into the dry ingredients, until a dough forms.",
+        "In a food processor, combine all the ingredients except the gluten, and blend until very smooth.",
+        "Add the gluten and run the food processor until a ball of dough forms, scraping the sides as necessary.",
         "Knead the dough for 5 to 10 minutes, until very firm.",
         "Press the dough into a slab, wrap in foil, and bake for 1 hour.",
         "Store it in the fridge, and slice and fry whenever you so desire."

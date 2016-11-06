@@ -3,7 +3,6 @@ Seitan Bacon
 
 
 ### Ingredients
-- 1 1/2 cup wheat gluten
 - 1/4 cup nutritional yeast
 - 3/4 cup cold water
 - 3 tbsp liquid smoke
@@ -13,13 +12,14 @@ Seitan Bacon
 - 1 tsp black pepper
 - 2 tsp salt
 - 3 cloves garlic, crushed
+- 1 1/2 cup wheat gluten
 
 ### Steps
 Preheat the oven to 350 degrees F.
 
-Mix the dry ingredients in a large bowl.
+In a food processor, combine all the ingredients except the gluten, and blend until very smooth.
 
-Whisk together the wet ingredients in a measuring cup or small bowl, and mix into the dry ingredients, until a dough forms.
+Add the gluten and run the food processor until a ball of dough forms, scraping the sides as necessary.
 
 Knead the dough for 5 to 10 minutes, until very firm.
 
