@@ -1,6 +1,8 @@
 Tomato Soup
 ===========
 
+**Makes**: 2 servings
+
 ### Ingredients
 - 2 tbsp olive oil
 - 1 medium onion

@@ -11,10 +11,12 @@ def format_markdown(recipe_json):
     print '%s' % recipe_json['title']
     print '=' * len(recipe_json['title'])
 
-    if 'notes' in recipe_json:
-        print recipe_json['notes']
-    print ''
+    print recipe_json.get('notes', '')
 
+    if 'quantity' in recipe_json:
+        print '**Makes**: %s' % recipe_json['quantity']
+
+    print ''
     print '### Ingredients'
     for item in recipe_json['ingredients']:
         if isinstance(item, dict):
