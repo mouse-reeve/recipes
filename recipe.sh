@@ -3,6 +3,11 @@
 title=$1
 filename=$( echo $title | awk '{print tolower($0)}' | sed -e 's/ /_/g')
 
+if [ "$title" == "" ]
+then
+    exit
+fi
+
 echo "{
     \"title\": \"$title\",
     \"notes\": \"\",
