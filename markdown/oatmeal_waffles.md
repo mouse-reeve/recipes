@@ -1,6 +1,8 @@
 Oatmeal Waffles
 ===============
 
+**Makes**: About 8 waffles
+
 ### Ingredients
 - 2 tbsp ground flax seeds
 - 1 1/2 cup all purpose flour

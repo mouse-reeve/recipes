@@ -1,6 +1,8 @@
 Vegan Butter
 ============
 
+**Makes**: 1 1/2 cups
+
 ### Ingredients
 - 1/2 cup melted refined coconut oil
 - 1/2 cup almond milk
@@ -14,4 +16,4 @@ Blend ingredients until smooth and lecithin granules have dissolved.
 
 Refrigerate until set.
 
-> Source: Miyoko's Homemade Vegan Pantry
+> Source: http://luminousvegans.com/2013/11/12/homemade-vegan-butter-miyoko/
