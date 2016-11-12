@@ -22,7 +22,7 @@ In a small bowl, mix the ground flax with 5 tbsp (1/4 cup + 1 tbsp)  water. Let 
 
 In the mean time, combine the flour, oats, spices, and salt in a medium mixing bowl.
 
-Whisk together the flour mixture, milk, butter, and sugar.
+Whisk together the flax mixture, milk, butter, and sugar.
 
 Stir the wet ingredients into the dry until just combined.
 
