@@ -26,7 +26,7 @@ Preheat oven to 350 F and grease a 9x9 pan.
 Mix the almond milk and vinegar, and set aside to curdle.
 
 Make the topping:
-- Mix together the flour, sugar, cinnamon, and nutmeg. Druzzle in canola oil by the spoonful.
+- Mix together the flour, sugar, cinnamon, and nutmeg. Drizzle in canola oil by the spoonful.
 - As you add the oil, use your fingers to swirl it into the mixture, forming crumbly clumps.
 - Add more oil as necessary.
 
