@@ -1,6 +1,7 @@
 Rasberry Jam Swirl Coffee Cake
 ==============================
 
+
 ### Ingredients
 - Cake:
     - 3/4 cup almond milk
@@ -37,6 +38,6 @@ Make the cake:
 
 Sprinkle on the topping.
 
-Bake for 35 or 40 minutes, until a knife iserted in the center comes out clean.
+Bake for 35 or 40 minutes, until a knife inserted in the center comes out clean.
 
 > Source: http://www.theppk.com/2011/03/raspberry-jam-swirl-crumbcake/
