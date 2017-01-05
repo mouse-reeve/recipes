@@ -1,27 +1,28 @@
 Potato Leek Soup
 ================
 
+
 ### Ingredients
-- 3 russet potatoes, cubed
-- 3 leeks, thinly sliced
 - 2 tbsp olive oil
-- 4 cloves garlic, minced
-- 4 cups both
-- 1/4 tsp salt
+- 1 large leek (about 1 lb), thinly sliced
+- 1 small onion, finely diced
+- 1 tsp salt, plus a pinch
+- 1/2 cup cashews, soaked for 2+ hours
+- 1 1/2 cup water
+- 2 lbs russet potatoes, cubed
 - 1/4 tsp ground pepper
-- Fresh or dried dill, to top
+- 1 tbsp fresh thyme, plus more for garnish
+- 4 cups both
 
 ### Steps
-Heat the oil in a large soup pot, and saute the leeks until soft, about 5 minutes.
+Heat the oil in a large soup pot, and saute the leeks and onion with a pinch of salt until soft, about 10 minutes.
 
-Add the potatoes and garlic, and stir to combine.
+In the mean time, puree the cashews and water in a food processor until very creamy.
 
-Pour in the broth and salt, and pepper
+Add the potatoes, salt, pepper, thyme, and both to the pot and bring to boil.
 
-Bring to a boil and simmer, covered for about 15 minutes, until the potatoes are soft.
+Simmer, uncovered, for about 15 minutes, until the potatoes are soft.
 
-Puree completely with an immersion blender, and season with salt and pepper to taste.
+Puree with an immersion blender until the soup is creamy, and then stir in the cashew cream.
 
-Serve topped with a generous amount of dill.
-
-> Source: Thug Kitchen
+> Source: Isa Does It
