@@ -2,9 +2,10 @@ Seitan Chicken
 ==============
 I halve the volume and nearly double the seasoning from Miyoko's version.
 **Makes**: 6 chicken "breasts"
+
 ### Ingredients
 - 1/2 lb medium tofu
-- 1/2 water
+- 1/2 cup water
 - 1/4 cup canola oil
 - 1/4 cup nutritional yeast
 - 1.5 tbsp onion powder
