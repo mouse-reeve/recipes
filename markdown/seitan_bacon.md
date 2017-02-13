@@ -11,7 +11,7 @@ Seitan Bacon
 - 2 tbsp olive oil
 - 1 tsp black pepper
 - 2 tsp salt
-- 3 cloves garlic, crushed
+- 3 cloves garlic
 - 1 1/2 cup wheat gluten
 
 ### Steps
