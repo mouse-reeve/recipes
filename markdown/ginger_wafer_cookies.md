@@ -1,6 +1,7 @@
 Ginger Wafer Cookies
 ====================
 
+**Makes**: 3 dozen cookies
 
 ### Ingredients
 - 6 tbsp butter
