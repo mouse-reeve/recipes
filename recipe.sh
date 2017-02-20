@@ -10,6 +10,7 @@ fi
 
 echo "{
     \"title\": \"$title\",
+    \"quantity\": \"\",
     \"notes\": \"\",
     \"ingredients\": [
         \"\"
