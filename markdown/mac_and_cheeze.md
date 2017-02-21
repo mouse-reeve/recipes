@@ -1,6 +1,7 @@
 Veganomicon Mac and Cheeze
 ==========================
 
+
 ### Ingredients
 - pasta:
     - 3/4 pound elbow macaroni (about 3 cups dry pasta)
@@ -24,7 +25,7 @@ Cook pasta as instructed, about 10 minutes.
 
 Make the sauce:
 - Combine broth and flour and whisk until dissolved.
-- Preheat a saucepan over medium-low heat. Add oil and garlic, and gently cook for about 2 minutes, stirring often to avoid burning.
+- Preheat a saucepan with 2 tbsp of olive oil over medium-low heat. Add garlic, and gently cook for about 2 minutes, stirring often to avoid burning.
 - Add thyme, salt, and pepper, and cook for another few seconds
 - Add broth, turmeric, and nutritional yeast, and raise the heat to medium
 - Whisk constantly for about 5 minutes; the sauce should bubble and thicken.
@@ -33,11 +34,9 @@ Make the sauce:
 
 Preheat oven to 325 degrees F
 
-Line the bottom of a 11 x 13-inch pan with chickpeas, 1 cup of cheeze sauce, and olive oil.
+Line the bottom of a 11 x 13-inch pan with chickpeas mashed together with 1 cup of cheeze sauce, and 1 tbsp olive oil.
 
-Add macaroni mixed with 3 cups of sauce.
-
-Pour remaining sauce over the top and smooth.
+Add the pasta to the sauce, and pour the mixture into the pan.
 
 Bake for 30 minutes, until the top is lightly browned.
 
