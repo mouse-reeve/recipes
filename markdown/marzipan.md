@@ -4,23 +4,19 @@ Marzipan
 **Makes**: 12 ounces
 
 ### Ingredients
-- 1 1/2 cup finely ground blanched almond meal, or 1 3/4 cup for firmer marzipan
-- 1 1/2 cup powdered sugar
+- 1 1/2 cups finely ground balnched almond meal
+- 1 1/2 cups powdered sugar
 - 2 tsp almond extract
 - 1 tsp rose water
-- 1 egg white, or 1 egg worth of ener-G egg replacer for vegan marzipan
+- 1 egg white or equivalent Ener-G egg replacer
 
 ### Steps
-Blend the almond meal and powdered sugar in a food processor.
+In a food processor, pulse together the almond meal and sugar.
 
-Add the remaining ingredients and run the food processor until a ball of dough has formed.
+Add the extracts and egg white, and proccess until a thick dough forms.
 
-Turn the marzipan onto a surface and knead it a couple times.
+Knead the dough a few times and form it into a log.
 
-Form it into a log, and wrap in cellophane.
-
-Refridgerate for up to 1 month, or freeze for up to 6.
-
-Bring to room temperature before use.
+It will keep in the refridgerator for at least a month, and six in the freezer.
 
 > Source: http://www.daringgourmet.com/how-to-make-marzipan-almond-paste/
