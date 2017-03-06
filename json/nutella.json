@@ -1,0 +1,26 @@
+{
+    "title": "Nutella",
+    "quantity": "12 ounces",
+    "notes": "",
+    "ingredients": [
+        "1 generous cup raw {hazelnuts}",
+        "1 1/2 tsp {hazelnet extract}",
+        "1/4 tsp {vanilla extract}",
+        "3/4 cup {powdered sugar}",
+        "1/4 cup unsweetened {cocoa powder}, regular or Dutch",
+        "6-10 tbsp peanut oil"
+    ],
+    "steps": [
+        "Heat the oven to 300 degrees F.",
+        "Toast the hazelnuts for 8-10 minutes until fragrant and the skin begins to peel.",
+        "Straight out of the oven, roll the hazelnuts in a course dish towel and rub them vigorously to remove the skins.",
+        "Pulse the hazelnuts in a food processor until they form an oily paste, similar to marzipan.",
+        "Stop often to scrape down the sides of the food processor.",
+        "Add the extracts, sugar, and cocoa powder and pulse to combine.",
+        "Add 4 tbsp (1/4 cup) of oil, continuing to pulse and scrape.",
+        "Drizzle in a tbsp of oil at a time until the desired consistency is reached.",
+        "Store in the refrigerator."
+    ],
+    "source": "Veganomicon",
+    "tags": ["vegan", "sweets", "toppings"]
+}
