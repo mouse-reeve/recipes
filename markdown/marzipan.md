@@ -4,7 +4,7 @@ Marzipan
 **Makes**: 12 ounces
 
 ### Ingredients
-- 1 1/2 cups finely ground balnched almond meal
+- 1 1/2 cups finely ground blanched almond meal
 - 1 1/2 cups powdered sugar
 - 2 tsp almond extract
 - 1 tsp rose water
