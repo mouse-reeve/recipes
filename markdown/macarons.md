@@ -19,7 +19,7 @@ Beat the egg whites and cream of tartar until foamy.
 
 While beating the eggs, slowly add the castor sugar until it forms stiff peaks.
 
-Gently fold the almond meal mixture into the meringue.
+Sift the almond meal mixture into the meringue in three batches, gently folding it in. Don't skip the sifting, it's super important.
 
 Pour the meringue into a piping bad with a 1/2 inch tip, and pipe evenly spaced circles on the prepared baking sheet.
 
