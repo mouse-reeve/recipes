@@ -10,10 +10,10 @@ This is the only lemon curd recipe, all others pale in comparison.
 - 6 tbsp unsalted butter
 
 ### Steps
-In a saucepan, boil water. Place a heat-proof mixing bowl over the water, and whisk together lemon juice, zest, 1/4 sugar, and eggs.
+In a saucepan, boil water. Place a heat-proof mixing bowl over the water, and whisk together lemon juice, zest, sugar, and eggs.
 
-Stir in butter and cook over moderately low heat, whisking frequently, until curd is thick enough to hold marks of the whisk and bubbles appear on the surface, about 6 minutes. Add sugar as you go to taste (probably a couple tablespoons).
+Stir in butter and cook over moderately low heat, whisking frequently, until curd is thick enough to hold marks of the whisk and bubbles appear on the surface, about 6 minutes.
 
-Transfer lemon curd to a bowl and chill, its surface covered with plastic wrap, until cold, at least 1 hour.
+Chill for at least an hour before using.
 
 > Source: http://www.epicurious.com/recipes/food/views/Lemon-Curd-104568
