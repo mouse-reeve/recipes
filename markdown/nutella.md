@@ -20,7 +20,7 @@
  - Stop often to scrape down the sides of the food processor.
  - Add the extracts, sugar, and cocoa powder and pulse to combine.
  - Add 4 tbsp (1/4 cup) of oil, continuing to pulse and scrape.
- - Drizzle in a tbsp of oil at a time until the desired consistency is reached.
+ - Drizzle in oil, one tbsp at a time, until the desired consistency is reached.
  - Store in the refrigerator.
 
 > Source: Veganomicon

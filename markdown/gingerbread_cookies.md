@@ -1,5 +1,5 @@
 # Gingerbread Cookies
-These are excellent cookies, at just the right sweetness level, which is to say, not particularly sweet. I recommend icing them.
+
 
 ## Ingredients
 

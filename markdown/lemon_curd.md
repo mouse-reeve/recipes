@@ -1,5 +1,6 @@
 # Lemon Curd
 This is the only lemon curd recipe, all others pale in comparison.
+**Makes**: About 16 oz
 
 ## Ingredients
 
