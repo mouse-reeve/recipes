@@ -1,27 +1,21 @@
-Cauliflower Soup
-================
-It's vegan if you leave off the cheese.
+# Cauliflower Soup
 
-### Ingredients
-- 1 head cauliflower
-- 2 tbsp extra-virgin olive oil
-- 1 small onion, chopped
-- 2 cloves garlic, minced
-- 4 cups veggie broth
-- 1/2 cup finely grated parmesan
-- Salt and freshly ground black pepper
 
-### Steps
-Remove the leaves and thick core from the cauliflower, coarsely chop, and reserve.
+## Ingredients
 
-Heat the olive oil in a large saucepan or soup pot over medium heat and add the onion and garlic. Cook until softened, but not browned, about 5 minutes.
+ - 1 head cauliflower
+ - 2 tbsp extra-virgin olive oil
+ - 1 small onion, chopped
+ - 2 cloves garlic, minced
+ - 4 cups veggie broth
+ - Salt and freshly ground black pepper
 
-Add the cauliflower and stock and bring to a boil. Reduce the heat to a simmer, cover, and cook until the cauliflower is very soft and falling apart, about 15 minutes.
+## Steps
 
-Remove from heat and, using a hand held immersion blender, puree the soup, or puree in small batches in a blender and return it to the pot.
-
-Add the Parmesan and stir until smooth.
-
-Season, to taste, with salt and black pepper. Keep warm until ready to serve.
+ - Remove the leaves and thick core from the cauliflower, coarsely chop, and reserve.
+ - Heat the olive oil in a large saucepan or soup pot over medium heat and add the onion and garlic. Cook until softened, but not browned, about 5 minutes.
+ - Add the cauliflower and stock and bring to a boil. Reduce the heat to a simmer, cover, and cook until the cauliflower is very soft and falling apart, about 15 minutes.
+ - Remove from heat and, using a hand held immersion blender, puree the soup, or puree in small batches in a blender and return it to the pot.
+ - Season, to taste, with salt and black pepper. Keep warm until ready to serve.
 
 > Source: http://smittenkitchen.com/blog/2006/09/the-fragile-cooking-ego/

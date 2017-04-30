@@ -1,16 +1,17 @@
-Ketchup
-=======
+# Ketchup
 
-### Ingredients
-- 2 (6oz) cans tomato paste
-- 2/3 cup water
-- 1/3 cup apple cider vinegar
-- 1/4 cup sugar
-- 2 tsp sea salt
 
-### Steps
-Whisk together the ingredients until smooth.
+## Ingredients
 
-Keeps for a couple months, refrigerated
+ - 2 (6oz) cans tomato paste
+ - 2/3 cup water
+ - 1/3 cup apple cider vinegar
+ - 1/4 cup sugar
+ - 2 tsp sea salt
+
+## Steps
+
+ - Whisk together the ingredients until smooth.
+ - Keeps for a couple months, refrigerated
 
 > Source: Miyoko's Homemade Vegan Pantry
