@@ -5,8 +5,4 @@
 pip-selfcheck.json
 
 # virtualenv
-bin/
-include/
-lib/
-
-export.*
+venv/
