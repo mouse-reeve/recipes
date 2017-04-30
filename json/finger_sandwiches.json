@@ -6,7 +6,7 @@
         {"Cucumber Cream Cheese": [
             "Fresh white bread",
             "1 {cucumber}, thinly sliced (with a mandoline, if possible)",
-            "A package of {cream cheese} or a batch of [vegan cream cheese](vegan_cream_cheese)",
+            "A package of {cream cheese} or a batch of [vegan cream cheese](vegan_cream_cheese.md)",
             "Fresh mint or dill (use dill with the above vegan cream cheese recipe, as it has a more sour flavor that traditional cream cheese)"
         ]},
         {"Pear and brie": [
@@ -29,7 +29,7 @@
         {"Avocado and balsamic tomato (open face)": [
             "Baguette, sliced at an angle",
             "Ripe {avocado}, mashed",
-            "[Balsamic roasted tomatoes](balsamic_roasted_tomatoes)",
+            "[Balsamic roasted tomatoes](balsamic_roasted_tomatoes.md)",
             "Fresh arugula, as garnish"
         ]}
     ],
