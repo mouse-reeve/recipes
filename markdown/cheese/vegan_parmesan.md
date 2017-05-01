@@ -11,6 +11,6 @@
 ## Steps
 
  - Combine all ingredients in a food processor and blend until it forms a fine meal.
- - Store in the refridgerator, where it will remain good for several weeks.
+ - Store in the refrigerator, where it will remain good for several weeks.
 
 > Source: http://minimalistbaker.com/how-to-make-vegan-parmesan-cheese/
