@@ -21,7 +21,7 @@ This is a bare-bones recipe for reference. If you're making this for the first t
  - Insert a candy thermometer and let the mixture reach 250 F.
  - Pour the mixture into a mixing bowl. Do not scrape the bottom of the pan, as there may be bitter or burnt sugar.
  - Whisk in the remaining 1/4 cup of coconut cream and vanilla extract.
- - Allow the mexture to cool to around 210F, and beat in the chocolates with an electric mixer until smooth.
+ - Allow the mixture to cool to around 210 F, and beat in the chocolates with an electric mixer until smooth.
  - Fold in the nuts.
  - Press the fudge into a dish lined with parchment paper, and allow to cool in the refrigerator for at least two hours before cutting.
 
