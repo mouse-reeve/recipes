@@ -13,7 +13,7 @@
 ## Steps
 
  - In a food processor, pulse together the almond meal and sugar.
- - Add the extracts and egg white, and proccess until a thick dough forms.
+ - Add the extracts and egg white, and process until a thick dough forms.
  - Knead the dough a few times and form it into a log.
  - It will keep in the refrigerator for at least a month, and up to six months in the freezer.
 
