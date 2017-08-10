@@ -7,6 +7,6 @@ Tags:
 - 39 "vegan"
 - 16 "sweets"
 - 8 "toppings"
+- 7 "petit four sec"
 - 7 "cookies"
-- 6 "scones"
 
