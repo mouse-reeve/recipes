@@ -1,5 +1,3 @@
-<blockquote class="recipe">
-
 ## Recipe: Rosemary Shortbread Cookies
   
 
@@ -17,5 +15,4 @@
  - Cut the log into 1/4 inch slices and space on the cookie sheet.
  - Bake for 8 minutes, or until golden at the edges. Cool on wire racks, and store in an airtight container at room temperature.
 
-</blockquote>
 

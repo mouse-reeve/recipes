@@ -1,3 +1,5 @@
+<blockquote class="recipe">
+
 ## Recipe: {{ recipe.title }}
 {% if recipe.notes %}{{ recipe.notes }}{% endif %}  {% if recipe.quantity %}
 Quantity: {{ recipe.quantity }}  {% endif %}
@@ -12,4 +14,4 @@ Quantity: {{ recipe.quantity }}  {% endif %}
  - {{ entry.keys()[0] }}{% for step in entry[ entry.keys()[0]] %}
     - {{ step }}{% endfor %}{% endif %}{% endfor %}
 
-{% if recipe.source %}> Source: {{ recipe.source }}{% endif %}
+</blockquote>
