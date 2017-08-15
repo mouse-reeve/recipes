@@ -1,8 +1,6 @@
 ## Recipe: Vegan Butter
-
 Prep time: 20 minutes  
 Quantity: 1 1/2 cups  
-
 
 ### Ingredients
  - 1/2 cup melted refined coconut oil

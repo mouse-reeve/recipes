@@ -1,7 +1,6 @@
 ## Recipe: Vegan Parmesan
 
 
-
 ### Ingredients
  - 3/4 walnuts
  - 3 tbsp nutritional yeast

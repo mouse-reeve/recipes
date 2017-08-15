@@ -1,7 +1,6 @@
 ## Recipe: Vegan Cream Cheese
 
 
-
 ### Ingredients
  - 1 tbsp nutritional yeast
  - 2 cups cashews, soaked for 1-3 hours

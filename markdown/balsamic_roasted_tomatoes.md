@@ -1,7 +1,6 @@
 ## Recipe: Balsamic Roasted Tomatoes
 
 
-
 ### Ingredients
  - 2/3 cup balsamic vinegar
  - 1 tbsp brown sugar

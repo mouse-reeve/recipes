@@ -1,7 +1,5 @@
 ## Recipe: Lentils
-
 Quantity: 4 cups  
-
 
 ### Ingredients
  - 2 tbsp canola oil

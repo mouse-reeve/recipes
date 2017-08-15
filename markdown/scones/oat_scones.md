@@ -1,7 +1,6 @@
 ## Recipe: Oat Scones
 
 
-
 ### Ingredients
  - 1 3/4 cups all purpose flour
  - 1/2 cup sugar

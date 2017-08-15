@@ -1,7 +1,6 @@
 ## Recipe: Almond Cake
 
 
-
 ### Ingredients
  - cake
     - 300 grams marzipan or almond paste

@@ -1,7 +1,5 @@
 ## Recipe: Oatmeal Waffles
-
 Quantity: About 8 waffles  
-
 
 ### Ingredients
  - 2 tbsp ground flax seeds

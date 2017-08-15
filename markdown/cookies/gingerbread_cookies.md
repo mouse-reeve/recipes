@@ -1,7 +1,6 @@
 ## Recipe: Gingerbread Cookies
 
 
-
 ### Ingredients
  - 2 cups flour
  - 2 tsps ground ginger

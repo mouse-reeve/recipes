@@ -1,7 +1,5 @@
 ## Recipe: Gingerbread
-
 Quantity: 1 9x9 cake  
-
 
 ### Ingredients
  - 2 1/2 cups flour

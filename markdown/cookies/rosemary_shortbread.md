@@ -1,7 +1,6 @@
 ## Recipe: Rosemary Shortbread Cookies
 
 
-
 ### Ingredients
  - 1 cups unsalted butter
  - 1/2 cup white sugar

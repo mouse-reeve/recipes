@@ -1,7 +1,5 @@
 ## Recipe: Caramel
-
 Quantity: 64 1 inch caramel squares  
-
 
 ### Ingredients
  - 1 1/2 cups heavy whipping cream

@@ -1,7 +1,6 @@
 ## Recipe: Lemon Pound Cake
 
 
-
 ### Ingredients
  - 1 cup unsalted butter, room temperature
  - 1 cup granulated sugar

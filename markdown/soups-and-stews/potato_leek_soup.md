@@ -1,7 +1,6 @@
 ## Recipe: Potato Leek Soup
 
 
-
 ### Ingredients
  - 2 tbsp olive oil
  - 1 large leek (about 1 lb), thinly sliced

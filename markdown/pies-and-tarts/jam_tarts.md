@@ -1,7 +1,5 @@
 ## Recipe: Jam Tarts
-
 Quantity: Enough for 1 dozen small tarts  
-
 
 ### Ingredients
  - 1 cup flour

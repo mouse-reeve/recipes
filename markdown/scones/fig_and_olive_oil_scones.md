@@ -1,7 +1,5 @@
 ## Recipe: Fig and Olive Oil Scones
-
 Quantity: About a dozen scones  
-
 
 ### Ingredients
  - 2 cups all-purpose flour

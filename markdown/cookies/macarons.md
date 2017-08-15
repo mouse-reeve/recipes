@@ -1,7 +1,6 @@
 ## Recipe: Macarons
 
 
-
 ### Ingredients
  - 100 grams blanched almond meal
  - 180 grams powdered sugar (should contain corn starch)

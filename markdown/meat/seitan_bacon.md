@@ -1,7 +1,6 @@
 ## Recipe: Seitan Bacon
 
 
-
 ### Ingredients
  - 1/4 cup nutritional yeast
  - 3/4 cup cold water

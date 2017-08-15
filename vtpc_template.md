@@ -1,8 +1,11 @@
 <blockquote class="recipe">
 
 ## Recipe: {{ recipe.title }}
-{% if recipe.notes %}{{ recipe.notes }}{% endif %}  {% if recipe.quantity %}
-Quantity: {{ recipe.quantity }}  {% endif %}
+{% if recipe.notes %}{{ recipe.notes }}  
+{% endif %}{% if recipe.preptime %}Prep time: {{ recipe.preptime }}  
+{% endif %}{% if recipe.baketime %}Bake time: {{ recipe.baketime }}  
+{% endif %}{% if recipe.totaltime %}Total time: {{ recipe.totaltime }}  
+{% endif %}{% if recipe.quantity %}Quantity: {{ recipe.quantity }}  {% endif %}
 
 ### Ingredients{% for entry in recipe.ingredients %}{% if entry is string %}
  - {{ entry | replace('{', '') | replace('}', '') }}{% else %}

@@ -1,7 +1,5 @@
 ## Recipe: Crackers
-
 Quantity: About two dozen  
-
 
 ### Ingredients
  - 2 cups flour

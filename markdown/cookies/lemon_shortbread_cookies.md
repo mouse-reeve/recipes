@@ -2,7 +2,6 @@
 Substitute vegan butter for excellent vegan cookies. Coconut oil will not produce the right texture.  
 Quantity: A dozen cookies  
 
-
 ### Ingredients
  - 1/2 cup butter, room temperature
  - 1/4 cup sugar

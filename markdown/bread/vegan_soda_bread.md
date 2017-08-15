@@ -1,7 +1,6 @@
 ## Recipe: Brown Irish Soda Bread (Vegan)
 
 
-
 ### Ingredients
  - 1 1/2 cups almond milk, at room temperature
  - 2 tsp apple cider vinegar or lemon juice

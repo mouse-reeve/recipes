@@ -1,7 +1,6 @@
 ## Recipe: Finger Sandwiches
 
 
-
 ### Ingredients
  - Cucumber Cream Cheese
     - Fresh white bread

@@ -1,7 +1,5 @@
 ## Recipe: Marzipan
-
 Quantity: 12 ounces  
-
 
 ### Ingredients
  - 1 1/2 cups finely ground blanched almond meal

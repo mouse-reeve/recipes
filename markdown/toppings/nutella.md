@@ -1,7 +1,5 @@
 ## Recipe: Nutella
-
 Quantity: 12 ounces  
-
 
 ### Ingredients
  - 1 generous cup raw hazelnuts

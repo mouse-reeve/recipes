@@ -1,7 +1,5 @@
 ## Recipe: Poured Fondant
-
 Quantity: About 20 ounces  
-
 
 ### Ingredients
  - 2 1/2 cups granulated sugar

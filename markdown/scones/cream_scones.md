@@ -1,7 +1,6 @@
 ## Recipe: Cream Scones
 
 
-
 ### Ingredients
  - 2 cups all-purpose flour
  - 1/4 cup granulated white sugar

@@ -1,7 +1,6 @@
 ## Recipe: Rasberry Jam Swirl Coffee Cake
 
 
-
 ### Ingredients
  - Cake
     - 3/4 cup almond milk

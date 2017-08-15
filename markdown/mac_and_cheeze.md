@@ -1,7 +1,6 @@
 ## Recipe: Veganomicon Mac and Cheeze
 
 
-
 ### Ingredients
  - pasta
     - 3/4 pound elbow macaroni (about 3 cups dry pasta)

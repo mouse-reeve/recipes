@@ -1,7 +1,5 @@
 ## Recipe: Puff Pastry
-
 Quantity: 24 croissants or puff pastry tarts  
-
 
 ### Ingredients
  - 4 cups flour, divided

@@ -1,7 +1,5 @@
 ## Recipe: bread/White Bread
-
 Quantity: One 9x5x3 loaf  
-
 
 ### Ingredients
  - 3 3/4 - 4 cups all-purpose flour

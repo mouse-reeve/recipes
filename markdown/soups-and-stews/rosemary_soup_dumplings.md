@@ -1,7 +1,6 @@
 ## Recipe: Rosemary Soup Dumplings
 
 
-
 ### Ingredients
  - 1 1/2 cups flour
  - 2 tsp baking powder

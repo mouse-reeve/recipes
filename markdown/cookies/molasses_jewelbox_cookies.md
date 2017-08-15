@@ -2,7 +2,6 @@
 How big is a square of chocolate? Who knows. This recipe was on a molasses jar in the 1970s and became a family tradition. So, my mom knows, but I'll have to wait until next Christmas to find out.  
 Quantity: 14 dozen cookies  
 
-
 ### Ingredients
  - 1 cup butter
  - 1 cup molasses

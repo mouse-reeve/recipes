@@ -1,7 +1,6 @@
 ## Recipe: Fronch Toast
 
 
-
 ### Ingredients
  - Day-old bread in 1 inch slices
  - 1 cup almond milk

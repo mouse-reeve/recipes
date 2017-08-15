@@ -2,7 +2,6 @@
 This is a bare-bones recipe for reference. If you're making this for the first time, or can't find coconut cream, definitely go to the source (http://www.veganbaking.net/recipes/brownies-and-bars/brownies/double-chocolate-fudge)  
 Quantity: 8 x 8 inch tray of fudge  
 
-
 ### Ingredients
  - 1 1/4 cups coconut cream (divided)
  - 1 3/4 cups sugar

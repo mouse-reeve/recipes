@@ -1,7 +1,5 @@
 ## Recipe: Petit Four
-
 Quantity: 24 - 36 mini cakes  
-
 
 ### Ingredients
  - Cake sponge baked in a 17 1/2 x 12 1/2 x 1 pan

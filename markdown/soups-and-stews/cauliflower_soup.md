@@ -1,7 +1,6 @@
 ## Recipe: Cauliflower Soup
 
 
-
 ### Ingredients
  - 1 head cauliflower
  - 2 tbsp extra-virgin olive oil

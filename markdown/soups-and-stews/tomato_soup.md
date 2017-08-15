@@ -1,7 +1,5 @@
 ## Recipe: Tomato Soup
-
 Quantity: 2 servings  
-
 
 ### Ingredients
  - 2 tbsp olive oil

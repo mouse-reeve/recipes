@@ -1,7 +1,6 @@
 ## Recipe: Dutch Baby
 
 
-
 ### Ingredients
  - 3 tbsp butter
  - 3/4 cups four

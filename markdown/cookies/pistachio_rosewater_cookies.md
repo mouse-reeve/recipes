@@ -1,7 +1,6 @@
 ## Recipe: Pistachio Rosewater Cookies
 
 
-
 ### Ingredients
  - 1 1/4 cups sugar
  - 1/2 cup canola oil

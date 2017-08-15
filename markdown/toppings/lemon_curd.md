@@ -2,7 +2,6 @@
 This is the only lemon curd recipe, all others pale in comparison.  
 Quantity: About 16 oz  
 
-
 ### Ingredients
  - 1/2 cup fresh lemon juice (probably 2-3 lemons)
  - 2 tsp finely grated lemon zest

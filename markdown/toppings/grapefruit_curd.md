@@ -1,7 +1,5 @@
 ## Recipe: Grapefruit Curd
-
 Quantity: About 16 oz  
-
 
 ### Ingredients
  - 1 cup fresh grapefruit juice (about 2 grapefruits)

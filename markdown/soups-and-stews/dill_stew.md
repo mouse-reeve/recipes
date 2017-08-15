@@ -1,7 +1,6 @@
 ## Recipe: Dill Stew with Rosemary Dumplings
 
 
-
 ### Ingredients
  - 3 tbsp olive oil
  - 1/4 cup flour

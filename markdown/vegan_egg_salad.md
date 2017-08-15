@@ -1,7 +1,5 @@
 ## Recipe: Vegan Egg Salad
-
 Quantity: 2 cups  
-
 
 ### Ingredients
  - 14 oz. firm or extra firm tofu, drained and pressed

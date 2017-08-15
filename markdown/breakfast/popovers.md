@@ -1,7 +1,5 @@
 ## Recipe: Popovers
-
 Quantity: One dozen popovers  
-
 
 ### Ingredients
  - 4 large eggs, warmed in a cup of hot water for 10 minutes before cracking

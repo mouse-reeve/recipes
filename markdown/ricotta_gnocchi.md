@@ -1,7 +1,6 @@
 ## Recipe: Ricotta Gnocchi
 
 
-
 ### Ingredients
  - 2 cups whole-milk ricotta (1 pound)
  - 2 eggs
