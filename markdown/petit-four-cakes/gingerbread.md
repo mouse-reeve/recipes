@@ -1,9 +1,9 @@
-# Gingerbread
+## Recipe: Gingerbread
 
-**Makes**: 1 9x9 cake
+Quantity: 1 9x9 cake  
 
-## Ingredients
 
+### Ingredients
  - 2 1/2 cups flour
  - 1 1/2 tsp baking soda
  - 1 1/4 tsp ground ginger
@@ -18,8 +18,7 @@
  - 2 tsp apple cider vinegar
  - 1 cup boiling water
 
-## Steps
-
+### Steps
  - Preheat oven to 350 degrees F.
  - Grease and flour a 9-inch baking pan.
  - Mix together the flour, baking soda, salt, and spices in a large mixing bowl.

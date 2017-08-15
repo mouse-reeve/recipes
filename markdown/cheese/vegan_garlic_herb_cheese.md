@@ -1,8 +1,8 @@
-# Garlic & Herb Vegan Cheese
-This is more of a fancy hummus, but it's reaaaaally good.
+## Recipe: Garlic & Herb Vegan Cheese
+This is more of a fancy hummus, but it's reaaaaally good.  
 
-## Ingredients
 
+### Ingredients
  - 2 cups raw cashews
  - 2 cloves garlic, minced
  - 1/2 tsp garlic powder, plus more to taste
@@ -13,8 +13,7 @@ This is more of a fancy hummus, but it's reaaaaally good.
  - 1/2 tsp sea salt
  - 2 tbsp olive oil
 
-## Steps
-
+### Steps
  - Soak the cashews in cool water for 12 hours in the refrigerator.
  - Drain the cashews and puree with the remaining ingredients.
  - Blend until very smooth, adding seasonings to taste.

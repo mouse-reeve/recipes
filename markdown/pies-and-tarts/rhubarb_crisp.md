@@ -1,8 +1,8 @@
-# Rhubarb Crisp
-Substitute vegan butter and you've got a vegan crisp.
+## Recipe: Rhubarb Crisp
+Substitute vegan butter and you've got a vegan crisp.  
 
-## Ingredients
 
+### Ingredients
  - 6 tbsp cold butter, cut into pieces, plus a little more to grease the pan
  - 2 1/2 - 3 lbs rhubarb, cut into 1 to 1/2 inch pieces
  - 1/4 cup white sugar
@@ -14,8 +14,7 @@ Substitute vegan butter and you've got a vegan crisp.
  - 1/2 cup rolled oats
  - 1/2 cup pecans, coarsely chopped
 
-## Steps
-
+### Steps
  - Preheat the oven to 375 degrees F, and grease a 9x9 baking pan with a little butter.
  - Toss the rhubarb with the white sugar, lemon juice, and lemon zest.
  - Mix the brown sugar, flour, and salt, and cut in the butter until the mixture resembles coarse crumbs.

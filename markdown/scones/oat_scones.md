@@ -1,8 +1,8 @@
-# Oat Scones
+## Recipe: Oat Scones
 
 
-## Ingredients
 
+### Ingredients
  - 1 3/4 cups all purpose flour
  - 1/2 cup sugar
  - 1/2 tsp salt
@@ -14,8 +14,7 @@
  - 1/2 cup dried currants, or chocolate chips
  - 2/3 - 3/4 cup buttermilk or curdled almond milk
 
-## Steps
-
+### Steps
  - Preheat oven to 375 degrees F.
  - In a large mixing bowl, combine flour, sugar, salt, baking soda, baking powder, and cinnamon.
  - Add butter and cut in using a pastry blender until the mixture resembles course crumbs.

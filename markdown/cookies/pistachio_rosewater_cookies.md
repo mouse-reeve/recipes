@@ -1,8 +1,8 @@
-# Pistachio Rosewater Cookies
+## Recipe: Pistachio Rosewater Cookies
 
 
-## Ingredients
 
+### Ingredients
  - 1 1/4 cups sugar
  - 1/2 cup canola oil
  - 3 tbsp almond milk
@@ -17,8 +17,7 @@
  - 1/4 tsp ground cardamom
  - 1/2 cup shelled pistachios, coarsely chopped
 
-## Steps
-
+### Steps
  - Preheat the oven to 350 degrees F and grease a cookie sheet.
  - Whisk together the sugar, oil, almond milk, rosewater, vanilla, and lime.
  - Add cornstarch, and whisk until dissolved.

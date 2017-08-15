@@ -1,16 +1,15 @@
-# bread/White Bread
+## Recipe: bread/White Bread
 
-**Makes**: One 9x5x3 loaf
+Quantity: One 9x5x3 loaf  
 
-## Ingredients
 
+### Ingredients
  - 3 3/4 - 4 cups all-purpose flour
  - 1 packet active dry yeast
  - 2 tsp sugar
  - 1 tbsp salt
 
-## Steps
-
+### Steps
  - Whisk the yeast and sugar in 1/2 cup of warm water and set aside.
  - Mix 3 3/4 cups flour and salt in a mixing bowl.
  - With a wooden spoon, blend in 3/4 cups warm water, then add the yeast mixture.

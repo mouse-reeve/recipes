@@ -1,17 +1,16 @@
-# Marzipan
+## Recipe: Marzipan
 
-**Makes**: 12 ounces
+Quantity: 12 ounces  
 
-## Ingredients
 
+### Ingredients
  - 1 1/2 cups finely ground blanched almond meal
  - 1 1/2 cups powdered sugar
  - 2 tsp almond extract
  - 1 tsp rose water
  - 1 egg white or one egg's worth of Ener-G egg replacer
 
-## Steps
-
+### Steps
  - In a food processor, pulse together the almond meal and sugar.
  - Add the extracts and egg white, and process until a thick dough forms.
  - Knead the dough a few times and form it into a log.

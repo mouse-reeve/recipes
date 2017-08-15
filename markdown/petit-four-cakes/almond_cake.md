@@ -1,8 +1,8 @@
-# Almond Cake
+## Recipe: Almond Cake
 
 
-## Ingredients
 
+### Ingredients
  - cake
     - 300 grams marzipan or almond paste
     - 2/3 cup granulated sugar
@@ -15,8 +15,7 @@
     - 1/4 cup raspberry jam, heated and strained for seeds
     - 1/4 cup apricot jam, heated and strained
 
-## Steps
-
+### Steps
  - Preheat the oven to 375 F.
  - Grease a 17 1/2 x 12 1/2 x 1 inch baking pan (a rimmed baking sheet will do the trick), and line the bottom with parchment paper.
  - Cream together the marzipan and sugar.

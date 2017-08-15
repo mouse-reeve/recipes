@@ -1,8 +1,8 @@
-# Brown Irish Soda Bread (Vegan)
+## Recipe: Brown Irish Soda Bread (Vegan)
 
 
-## Ingredients
 
+### Ingredients
  - 1 1/2 cups almond milk, at room temperature
  - 2 tsp apple cider vinegar or lemon juice
  - 2 cups all-purpose flour
@@ -17,8 +17,7 @@
  - 1/4 cup vegan butter, melted
  - 1 tbsp vegan butter, melted
 
-## Steps
-
+### Steps
  - Adjust oven rack to lower-middle position and heat oven to 400 degrees F.
  - Mix the vinegar and milk, and set aside to curdle.
  - Whisk all-purpose flours, wheat germ, sugar, salt, baking powder, baking soda, and seeds together in large bowl.

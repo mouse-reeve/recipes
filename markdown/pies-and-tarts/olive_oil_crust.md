@@ -1,16 +1,15 @@
-# Olive Oil Pie Crust
-This produces a savory, soft crust.
+## Recipe: Olive Oil Pie Crust
+This produces a savory, soft crust.  
 
-## Ingredients
 
+### Ingredients
  - 2 1/2 cups flour
  - 3/4 tsp salt
  - 2/3 cup olive oil, partially frozen
  - 4 to 8 tbsps ice water
  - 1 tbsp apple cider vinegar
 
-## Steps
-
+### Steps
  - Measure olive oil into a container and freeze for one hour. It should be congealed and opaque, but still somewhat soft.
  - In a large mixing bowl, sift together the flour and salt. Working quickly, add the olive oil by the tablespoonful, cutting it into the flour with your fingers or a pastry cutter, until the flour appears pebbly.
  - In a cup mix together 4 tablespoons of the ice water with the apple cider vinegar. Drizzle in 2 tablespoons of the water and vinegar mixture and using a wooden spoon or rubber spatula stir into the dough, adding more water a tablespoon at a time until it holds together to form a soft ball. Take care not to over-knead the dough.

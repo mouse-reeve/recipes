@@ -1,16 +1,15 @@
-# Petit Four
+## Recipe: Petit Four
 
-**Makes**: 24 - 36 mini cakes
+Quantity: 24 - 36 mini cakes  
 
-## Ingredients
 
+### Ingredients
  - Cake sponge baked in a 17 1/2 x 12 1/2 x 1 pan
  - 1/2 cup filling
  - 1 batch (20oz) poured fondant
  - Decorations made of marzipan or rolled fondant
 
-## Steps
-
+### Steps
  - Select a combination of sponge, filling, fondant flavoring, and decoration, and prepare all the components as directed.
  - Cut the sponge in thirds for three tier cakes, or half for two tier.
  - Spread the filling on all but the top layer cake.

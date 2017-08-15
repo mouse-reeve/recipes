@@ -1,9 +1,9 @@
-# Lentils
+## Recipe: Lentils
 
-**Makes**: 4 cups
+Quantity: 4 cups  
 
-## Ingredients
 
+### Ingredients
  - 2 tbsp canola oil
  - 3 tsp ground cumin
  - 2 tsp red pepper flakes
@@ -13,8 +13,7 @@
  - 1 1/2 cup green lentils
  - 2 cups vegetable broth
 
-## Steps
-
+### Steps
  - Heat the oil and saute the cumin and pepper flakes for about a minute.
  - Add the onion, garlic, and salt and saute for another minutes.
  - Add the lentils, both, and 2 cups of water.

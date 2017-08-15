@@ -1,8 +1,8 @@
-# Dill Stew with Rosemary Dumplings
+## Recipe: Dill Stew with Rosemary Dumplings
 
 
-## Ingredients
 
+### Ingredients
  - 3 tbsp olive oil
  - 1/4 cup flour
  - 1 medium onion, thinly sliced
@@ -19,8 +19,7 @@
  - 1 15oz can navy beans, drained
  - 1 batch soup dumplings (see recipe)
 
-## Steps
-
+### Steps
  - Make a roux - heat olive oil in a large, heavy pan over medium-low heat. Sprinkle in flour, mixing constantly, and cook for 3 to 4 minutes.
  - Add onion and salt, and toss to coat the onions. Cook for 5 minutes, stirring often. Add garlic and stir for another 30 seconds.
  - Pour in broth, whisking constantly to avoid clumping.

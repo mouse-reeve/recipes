@@ -1,9 +1,9 @@
-# Crackers
+## Recipe: Crackers
 
-**Makes**: About two dozen
+Quantity: About two dozen  
 
-## Ingredients
 
+### Ingredients
  - 2 cups flour
  - 1 tsp baking powder
  - 1/2 tsp sea salt
@@ -12,8 +12,7 @@
  - 1/4 cup olive oil
  - 1/2 cup water
 
-## Steps
-
+### Steps
  - Preheat oven to 250 degrees F.
  - Mix together the dry ingredients in a medium mixing bowl.
  - Drizzle in the olive oil, blending it in with a wooden spoon. Leave clumps.

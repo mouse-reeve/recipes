@@ -1,9 +1,10 @@
-# Vegan Butter
+## Recipe: Vegan Butter
 
-**Makes**: 1 1/2 cups
+Prep time: 20 minutes  
+Quantity: 1 1/2 cups  
 
-## Ingredients
 
+### Ingredients
  - 1/2 cup melted refined coconut oil
  - 1/2 cup almond milk
  - 1/4 cup canola oil
@@ -11,8 +12,7 @@
  - 1/2 tsp sea salt
  - 2 tsp lecithin
 
-## Steps
-
+### Steps
  - Blend ingredients until smooth and lecithin granules have dissolved.
  - Refrigerate until set.
 

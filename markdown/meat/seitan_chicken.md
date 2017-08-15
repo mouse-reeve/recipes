@@ -1,9 +1,9 @@
-# Seitan Chicken
-I halve the volume and nearly double the seasoning from Miyoko's version.
-**Makes**: 6 chicken "breasts"
+## Recipe: Seitan Chicken
+I halve the volume and nearly double the seasoning from Miyoko's version.  
+Quantity: 6 chicken "breasts"  
 
-## Ingredients
 
+### Ingredients
  - 1/2 lb medium tofu
  - 1/2 cup water
  - 1/4 cup canola oil
@@ -17,8 +17,7 @@ I halve the volume and nearly double the seasoning from Miyoko's version.
  - 2 - 3 cups water
  - 1 tbsp soy sauce
 
-## Steps
-
+### Steps
  - In a food processor, blend the tofu, water, oil, nutritional yeast, and seasonings until very smooth.
  - Add the gluten and blend until a ball forms in the center of the food processor.
  - Roll the dough into a log and cut into 6 pieces.

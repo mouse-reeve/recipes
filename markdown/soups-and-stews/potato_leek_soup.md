@@ -1,8 +1,8 @@
-# Potato Leek Soup
+## Recipe: Potato Leek Soup
 
 
-## Ingredients
 
+### Ingredients
  - 2 tbsp olive oil
  - 1 large leek (about 1 lb), thinly sliced
  - 1 small onion, finely diced
@@ -14,8 +14,7 @@
  - 1 tbsp fresh thyme, plus more for garnish
  - 4 cups both
 
-## Steps
-
+### Steps
  - Heat the oil in a large soup pot, and saute the leeks and onion with a pinch of salt until soft, about 10 minutes.
  - In the mean time, puree the cashews and water in a food processor until very creamy.
  - Add the potatoes, salt, pepper, thyme, and both to the pot and bring to boil.

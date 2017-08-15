@@ -1,9 +1,9 @@
-# Grapefruit Curd
+## Recipe: Grapefruit Curd
 
-**Makes**: About 16 oz
+Quantity: About 16 oz  
 
-## Ingredients
 
+### Ingredients
  - 1 cup fresh grapefruit juice (about 2 grapefruits)
  - 2 tbsp lemon juice
  - 3 tsp finely grated grapefruit zest
@@ -12,8 +12,7 @@
  - 6 tbsp unsalted butter
  - 1/4 tsp salt
 
-## Steps
-
+### Steps
  - Juice the grapefruits and reduce the juice by about half.
  - Allow the juice to cool back to around room temperature.
  - In a saucepan, boil water. Place a heat-proof mixing bowl over the water, and whisk together the juices, zest, sugar, and eggs.

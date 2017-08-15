@@ -1,9 +1,9 @@
-# Fudge
-This is a bare-bones recipe for reference. If you're making this for the first time, or can't find coconut cream, definitely go to the source (http://www.veganbaking.net/recipes/brownies-and-bars/brownies/double-chocolate-fudge)
-**Makes**: 8 x 8 inch tray of fudge
+## Recipe: Fudge
+This is a bare-bones recipe for reference. If you're making this for the first time, or can't find coconut cream, definitely go to the source (http://www.veganbaking.net/recipes/brownies-and-bars/brownies/double-chocolate-fudge)  
+Quantity: 8 x 8 inch tray of fudge  
 
-## Ingredients
 
+### Ingredients
  - 1 1/4 cups coconut cream (divided)
  - 1 3/4 cups sugar
  - 2 tbsp corn syrup
@@ -13,8 +13,7 @@ This is a bare-bones recipe for reference. If you're making this for the first t
  - 1/2 cup cocoa powder
  - 3/4 cup chopped walnuts
 
-## Steps
-
+### Steps
  - Toast the nuts for 20 minutes at 300 F.
  - Mix 1 cup coconut cream, sugar, and corn syrup in a saucepan, making sure not to get sugar on the sides of the pan, which can cause crystalization.
  - Bring the mixture to a boil over high heat, then reduce heat to medium-low.

@@ -1,8 +1,8 @@
-# Gingerbread Cookies
+## Recipe: Gingerbread Cookies
 
 
-## Ingredients
 
+### Ingredients
  - 2 cups flour
  - 2 tsps ground ginger
  - 1 tsp ground cinnamon
@@ -14,8 +14,7 @@
  - 1/3 cup unsulfured molasses
  - 1 large egg
 
-## Steps
-
+### Steps
  - Mix flour, spices, baking soda, and salt. Set aside.
  - Cream butter and sugar, then beat in molasses and egg.
  - Add dry ingredients to wet using a rubber spatula, mixing until just combined.

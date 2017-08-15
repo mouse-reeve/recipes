@@ -1,17 +1,16 @@
-# Popovers
+## Recipe: Popovers
 
-**Makes**: One dozen popovers
+Quantity: One dozen popovers  
 
-## Ingredients
 
+### Ingredients
  - 4 large eggs, warmed in a cup of hot water for 10 minutes before cracking
  - 1 1/2 cup milk, at room temperature
  - 1/2 tsp salt
  - 1 1/2 cup flour
  - 3 tbsp unsalted butter, melted, plus softened butter for greasing pans
 
-## Steps
-
+### Steps
  - Preheat the oven to 450 degrees F.
  - Generously grease muffin tin with softened butter.
  - Wait until the oven is hot before starting the batter.

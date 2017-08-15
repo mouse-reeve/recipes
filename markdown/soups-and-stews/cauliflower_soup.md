@@ -1,8 +1,8 @@
-# Cauliflower Soup
+## Recipe: Cauliflower Soup
 
 
-## Ingredients
 
+### Ingredients
  - 1 head cauliflower
  - 2 tbsp extra-virgin olive oil
  - 1 small onion, chopped
@@ -10,8 +10,7 @@
  - 4 cups veggie broth
  - Salt and freshly ground black pepper
 
-## Steps
-
+### Steps
  - Remove the leaves and thick core from the cauliflower, coarsely chop, and reserve.
  - Heat the olive oil in a large saucepan or soup pot over medium heat and add the onion and garlic. Cook until softened, but not browned, about 5 minutes.
  - Add the cauliflower and stock and bring to a boil. Reduce the heat to a simmer, cover, and cook until the cauliflower is very soft and falling apart, about 15 minutes.

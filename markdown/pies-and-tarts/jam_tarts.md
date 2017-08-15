@@ -1,9 +1,9 @@
-# Jam Tarts
+## Recipe: Jam Tarts
 
-**Makes**: Enough for 1 dozen small tarts
+Quantity: Enough for 1 dozen small tarts  
 
-## Ingredients
 
+### Ingredients
  - 1 cup flour
  - 1/8 tsp salt
  - 1/3 cup powdered sugar
@@ -11,8 +11,7 @@
  - 2-3 tbsp almond milk
  - 1 cup jam
 
-## Steps
-
+### Steps
  - Mix the dry ingredients, and cut in the butter with a pastry blender. THe mixture should resemble course crumbs.
  - Add in the milk, one tablespoon at a time, until the dough just holds together.
  - Put the dough in the freezer for about 15 minutes.

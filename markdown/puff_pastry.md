@@ -1,16 +1,15 @@
-# Puff Pastry
+## Recipe: Puff Pastry
 
-**Makes**: 24 croissants or puff pastry tarts
+Quantity: 24 croissants or puff pastry tarts  
 
-## Ingredients
 
+### Ingredients
  - 4 cups flour, divided
  - 2 cups unsalted butter, 1/4 cup chilled and the rest at room temperature
  - 1 tsp salt
  - 1 1/4 cup cold water
 
-## Steps
-
+### Steps
  - Measure all but 1/2 cup of flour into a mixing bowl.
  - Cut in the 1/4 cup of chilled butter with a pastry blender until it resembled course crumbs.
  - Add the salt and water and mix gently until a rough dough forms and pulls away from the sides of the bowl. If necessary, add more water 1 tbsp at a time until the dough comes together.

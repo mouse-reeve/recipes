@@ -1,9 +1,9 @@
-# Caramel
+## Recipe: Caramel
 
-**Makes**: 64 1 inch caramel squares
+Quantity: 64 1 inch caramel squares  
 
-## Ingredients
 
+### Ingredients
  - 1 1/2 cups heavy whipping cream
  - 1 cup granulated sugar
  - 2/3 cup packed light brown sugar
@@ -12,8 +12,7 @@
  - 1 1/2 tsp kosher salt
  - 1 tbsp butter, diced
 
-## Steps
-
+### Steps
  - Line an 8 inch baking pan with aluminum foil and grease the foil lightly with butter.
  - In a heavy suacepan, stir together the cream, sugars, and corn syrup.
  - Place over medium-high heat and bring to a boil, stirring constantly with a wooden spoon.

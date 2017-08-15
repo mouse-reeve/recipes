@@ -1,9 +1,9 @@
-# Ginger Wafer Cookies
+## Recipe: Ginger Wafer Cookies
 
-**Makes**: 3 dozen cookies
+Quantity: 3 dozen cookies  
 
-## Ingredients
 
+### Ingredients
  - 6 tbsp butter
  - 3/4 cup brown sugar
  - 1/3 cup molasses
@@ -17,8 +17,7 @@
  - 1/4 tsp ground cloves
  - Turbino sugar
 
-## Steps
-
+### Steps
  - Cream the butter and sugar until fluffy.
  - Beat in the molasses, yolk, and vanilla.
  - Blend in the flour, spices, baking powder, and salt with a rubber spatula until just combined. The mixture will remain crumbly.

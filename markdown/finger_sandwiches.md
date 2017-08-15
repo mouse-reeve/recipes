@@ -1,8 +1,8 @@
-# Finger Sandwiches
+## Recipe: Finger Sandwiches
 
 
-## Ingredients
 
+### Ingredients
  - Cucumber Cream Cheese
     - Fresh white bread
     - 1 cucumber, thinly sliced (with a mandoline, if possible)
@@ -28,8 +28,7 @@
     - [Balsamic roasted tomatoes](balsamic_roasted_tomatoes.md)
     - Fresh arugula, as garnish
 
-## Steps
-
+### Steps
  - Select 3 types of sandwich for a tea party.
  - For closed-face sandwiches, make the sandwich on a whole slice of bread and cut afterwards for a cleaner edge.
  - Cut triangles or rectangles with a sharp knife, or use a round biscuit cutter

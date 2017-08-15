@@ -1,15 +1,14 @@
-# Quick Jam
-Not proper preserves I guess.
+## Recipe: Quick Jam
+Not proper preserves I guess.  
 
-## Ingredients
 
+### Ingredients
  - 12 oz fruit, fresh or frozen
  - 1/4 sugar
  - 1 tbsp arrowroot
  - 2 tbsp water
 
-## Steps
-
+### Steps
  - Combine the fruit and sugar in a saucepan over medium heat.
  - Bring to a boil and simmer for 10-20 minutes, until the fruit begins to break down.
  - Dissolve the arrowroot in the water and whisk it into the fruit mixture; it should thicken, but not be as thick as jam.

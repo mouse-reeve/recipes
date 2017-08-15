@@ -1,8 +1,8 @@
-# Veganomicon Mac and Cheeze
+## Recipe: Veganomicon Mac and Cheeze
 
 
-## Ingredients
 
+### Ingredients
  - pasta
     - 3/4 pound elbow macaroni (about 3 cups dry pasta)
     - 2 cups chickpeas, mashed
@@ -20,8 +20,7 @@
     - 2 tbsp fresh lemon juice
     - 2 tsp prepared yellow mustard
 
-## Steps
-
+### Steps
  - Cook pasta as instructed, about 10 minutes.
  - Make the sauce
     - Combine broth and flour and whisk until dissolved.

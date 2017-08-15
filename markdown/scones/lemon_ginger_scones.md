@@ -1,8 +1,8 @@
-# Lemon Ginger Scones
-For vegan scones, 1:1 substitute chilled refined coconut oil or vegan butter for dairy butter, and curdled almond milk for buttermilk.
+## Recipe: Lemon Ginger Scones
+For vegan scones, 1:1 substitute chilled refined coconut oil or vegan butter for dairy butter, and curdled almond milk for buttermilk.  
 
-## Ingredients
 
+### Ingredients
  - 2/3 cup almond milk
  - 1 tsp apple cider vinegar
  - 2 cups all purpose flour
@@ -14,8 +14,7 @@ For vegan scones, 1:1 substitute chilled refined coconut oil or vegan butter for
  - 1/2 cup crystallized ginger, chopped into small pieces
  - 1 lemon's worth of lemon zest
 
-## Steps
-
+### Steps
  - Preheat oven to 400 degrees F and place rack in the center of the oven.
  - Mix the milk and vinegar, and allow to curdle.
  - In a large bowl, whisk together the flour, sugar, baking powder, baking soda and salt.

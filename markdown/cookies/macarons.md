@@ -1,16 +1,15 @@
-# Macarons
+## Recipe: Macarons
 
 
-## Ingredients
 
+### Ingredients
  - 100 grams blanched almond meal
  - 180 grams powdered sugar (should contain corn starch)
  - 100 grams egg whites, aged for 24 hours
  - 1/4 tsp cream of tartar
  - 35 grams castor sugar or superfine sugar
 
-## Steps
-
+### Steps
  - Trace circle templates on the back of two sheets of parchment paper as piping references, and place on baking sheets.
  - Finely grind the almond meal and powdered sugar in a food processor for a minute or two, and set aside.
  - Beat the egg whites and cream of tartar until foamy.

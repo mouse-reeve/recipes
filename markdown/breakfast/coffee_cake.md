@@ -1,8 +1,8 @@
-# Rasberry Jam Swirl Coffee Cake
+## Recipe: Rasberry Jam Swirl Coffee Cake
 
 
-## Ingredients
 
+### Ingredients
  - Cake
     - 3/4 cup almond milk
     - 1 tsp apple cider vinegar
@@ -20,8 +20,7 @@
     - 1/4 tsp ground nutmeg
     - 1/4 cup canola oil
 
-## Steps
-
+### Steps
  - Preheat oven to 350 F and grease a 9x9 pan.
  - Mix the almond milk and vinegar, and set aside to curdle.
  - Make the topping

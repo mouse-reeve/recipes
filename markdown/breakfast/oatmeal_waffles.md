@@ -1,9 +1,9 @@
-# Oatmeal Waffles
+## Recipe: Oatmeal Waffles
 
-**Makes**: About 8 waffles
+Quantity: About 8 waffles  
 
-## Ingredients
 
+### Ingredients
  - 2 tbsp ground flax seeds
  - 1 1/2 cup all purpose flour
  - 1 cup rolled oats
@@ -15,8 +15,7 @@
  - 6 tbsp vegan butter, melted
  - 2 tbsp brown sugar
 
-## Steps
-
+### Steps
  - In a small bowl, mix the ground flax with 5 tbsp (1/4 cup + 1 tbsp)  water. Let sit for at least 5 minutes.
  - In the mean time, combine the flour, oats, spices, and salt in a medium mixing bowl.
  - Whisk together the flax mixture, milk, butter, and sugar.

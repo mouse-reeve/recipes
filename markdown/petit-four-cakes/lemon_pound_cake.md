@@ -1,8 +1,8 @@
-# Lemon Pound Cake
+## Recipe: Lemon Pound Cake
 
 
-## Ingredients
 
+### Ingredients
  - 1 cup unsalted butter, room temperature
  - 1 cup granulated sugar
  - 1 tsp vanilla extract
@@ -14,8 +14,7 @@
  - 1/4 tsp salt
  - 1/4 cup fresh lemon juice (should be just about one lemon)
 
-## Steps
-
+### Steps
  - Grease a pan with butter and line the bottom with parchment paper.
  - Preheat oven to 350 degrees F.
  - Beat the butter and sugar until smooth and creamy, 3-4 minutes.

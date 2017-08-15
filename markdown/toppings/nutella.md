@@ -1,9 +1,9 @@
-# Nutella
+## Recipe: Nutella
 
-**Makes**: 12 ounces
+Quantity: 12 ounces  
 
-## Ingredients
 
+### Ingredients
  - 1 generous cup raw hazelnuts
  - 1 1/2 tsp hazelnet extract
  - 1/4 tsp vanilla extract
@@ -11,8 +11,7 @@
  - 1/4 cup unsweetened cocoa powder, regular or Dutch
  - 6-10 tbsp peanut oil
 
-## Steps
-
+### Steps
  - Heat the oven to 300 degrees F.
  - Toast the hazelnuts for 8-10 minutes until fragrant and the skin begins to peel.
  - Straight out of the oven, roll the hazelnuts in a course dish towel and rub them vigorously to remove the skins.
