@@ -3,7 +3,7 @@ Prep time: 20 minutes
 Quantity: 1 1/2 cups  
 
 ### Ingredients
- - 1/2 cup melted refined coconut oil
+ - 1 1/2 cup melted refined coconut oil
  - 1/2 cup almond milk
  - 1/4 cup canola oil
  - 1 tsp apple cider vinegar
