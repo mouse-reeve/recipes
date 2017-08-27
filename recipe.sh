@@ -11,6 +11,8 @@ fi
 echo "{
     \"title\": \"$title\",
     \"quantity\": \"\",
+    \"preptime\": \"\",
+    \"totaltime\": \"\",
     \"notes\": \"\",
     \"ingredients\": [
         \"\"
