@@ -1,5 +1,7 @@
 ## Recipe: Pistachio Tea Loaf
-
+Prep time: 30 minutes  
+Total time: 1 1/2 hours  
+Quantity: 1 loaf-sized cake  
 
 ### Ingredients
  - 140 grams roasted, unsalted, shelled pistachios
@@ -24,5 +26,6 @@
  - Add the flour and pulse just until it is completely incorporated.
  - Pour the batter into the prepared pan, and bake for about 60 minutes, until a knife inserted into the center of hte cake comes out clean.
  - Cool in the pan on a rack for 10 minutes, then transfer the cake to the rack and cool completely.
+ - Serve with a lemon glaze
 
 > Source: https://smittenkitchen.com/2017/04/pistachio-cake/

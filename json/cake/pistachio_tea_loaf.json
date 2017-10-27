@@ -1,8 +1,8 @@
 {
     "title": "Pistachio Tea Loaf",
-    "quantity": "",
-    "preptime": "",
-    "totaltime": "",
+    "quantity": "1 loaf-sized cake",
+    "preptime": "30 minutes",
+    "totaltime": "1 1/2 hours",
     "notes": "",
     "ingredients": [
         "140 grams roasted, unsalted, shelled {pistachios}",
@@ -26,7 +26,8 @@
         "Blend in the extracts abd baking powder, scraping down the sides of the processor's bowl.",
         "Add the flour and pulse just until it is completely incorporated.",
         "Pour the batter into the prepared pan, and bake for about 60 minutes, until a knife inserted into the center of hte cake comes out clean.",
-        "Cool in the pan on a rack for 10 minutes, then transfer the cake to the rack and cool completely."
+        "Cool in the pan on a rack for 10 minutes, then transfer the cake to the rack and cool completely.",
+        "Serve with a lemon glaze"
     ],
     "source": "https://smittenkitchen.com/2017/04/pistachio-cake/",
     "tags": ["sweets", "cake", "tea cake"]
