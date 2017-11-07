@@ -3,7 +3,7 @@ Quantity: 12 ounces
 
 ### Ingredients
  - 1 generous cup raw hazelnuts
- - 1 1/2 tsp hazelnet extract
+ - 1 1/2 tsp hazelnut extract
  - 1/4 tsp vanilla extract
  - 3/4 cup powdered sugar
  - 1/4 cup unsweetened cocoa powder, regular or Dutch

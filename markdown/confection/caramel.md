@@ -6,19 +6,19 @@ Quantity: 64 1 inch caramel squares
  - 1 cup granulated sugar
  - 2/3 cup packed light brown sugar
  - 1/3 cup corn syrup
- - 1 1/2 tsp vanilla extract
- - 1 1/2 tsp kosher salt
- - 1 tbsp butter, diced
+ - 1 1/2 teaspoon vanilla extract
+ - 1 1/2 teaspoon kosher salt
+ - 1 tablespoon butter, diced
 
 ### Steps
  - Line an 8 inch baking pan with aluminum foil and grease the foil lightly with butter.
- - In a heavy suacepan, stir together the cream, sugars, and corn syrup.
+ - In a heavy saucepan, stir together the cream, sugars, and corn syrup.
  - Place over medium-high heat and bring to a boil, stirring constantly with a wooden spoon.
  - Once it boils, wash down the sides of the pan with a pastry brush to remove any sugar crystal.
  - Place a candy thermometer in the pan and let it heat to 250 degrees F without stirring.
  - Swirl the pan periodically, and keep an eye out for sugar crystals forming.
  - At 250 degrees, remove from heat and add the vanilla, salt, and butter.
  - Pour the caramel into the pan and let it cool undisturbed until firm, at least two hours.
- - Cut it into squares and wrap in wax paper, and store at room temeprature or in the fridge for a couple weeks.
+ - Cut it into squares and wrap in wax paper, and store at room temperature or in the fridge for a couple weeks.
 
 > Source: http://www.joyofbaking.com/candy/Caramels.html

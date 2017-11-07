@@ -8,11 +8,12 @@ Total time: 1.5 hours
  - 1 cup granulated sugar
  - 2 tablespoons flax meal
  - 1/2 cup + 2 tablespoons almond milk
- - 6 tbsp aquafaba
  - Zest and juice of 1 lemon
  - 1 3/4 cups all-purpose flour
+ - 1 1/2 teaspoons baking powder
  - 1/2 tsp salt
- - A small pinch turmeric, for color
+ - A pinch of turmeric, for color
+ - 6 tbsp aquafaba
 
 ### Steps
  - Grease and flour a a 8x4" baking pan and preheat the oven to 350 degrees F.

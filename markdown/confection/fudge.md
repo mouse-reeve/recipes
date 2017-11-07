@@ -14,7 +14,7 @@ Quantity: 8 x 8 inch tray of fudge
 
 ### Steps
  - Toast the nuts for 20 minutes at 300 F.
- - Mix 1 cup coconut cream, sugar, and corn syrup in a saucepan, making sure not to get sugar on the sides of the pan, which can cause crystalization.
+ - Mix 1 cup coconut cream, sugar, and corn syrup in a saucepan, making sure not to get sugar on the sides of the pan, which can cause crystallization.
  - Bring the mixture to a boil over high heat, then reduce heat to medium-low.
  - Insert a candy thermometer and let the mixture reach 250 F.
  - Pour the mixture into a mixing bowl. Do not scrape the bottom of the pan, as there may be bitter or burnt sugar.

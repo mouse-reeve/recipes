@@ -20,6 +20,6 @@
  - Stir in oates and currants or chocolate chips.
  - Add buttermilk and stir until the dough just comes together.
  - Transfer to a lightly flowered surface and knead a few times, then pat into a circle. Cut the circle into wedges, and place on a baking sheet.
- - Bake for 15-18 until lightly browned. Tranfer to a wire rack to cool.
+ - Bake for 15-18 until lightly browned. Transfer to a wire rack to cool.
 
 > Source: http://www.joyofbaking.com/CranberryOatScones.html

@@ -19,10 +19,10 @@ Quantity: 1 loaf-sized cake
  - Preheat oven to 325 degrees F.
  - Line the bottom and long sides of a loaf pan with a long strip of parchment paper. Grease the paper and exposed sides of the pan.
  - In a food processor, grind the pistachios, sugar, and salt until powdery, but not a paste.
- - Cut the butter into small chunks and blend into the pistachio mixture. Run the food processor until the mixture forms a ball and then smooths out into a forsting-like conistenecy
+ - Cut the butter into small chunks and blend into the pistachio mixture. Run the food processor until the mixture forms a ball and then smooths out into a frosting-like consistency
  - Add the eggs one at a time, blending between each addition.
  - Blend in the milk.
- - Blend in the extracts abd baking powder, scraping down the sides of the processor's bowl.
+ - Blend in the extracts and baking powder, scraping down the sides of the processor's bowl.
  - Add the flour and pulse just until it is completely incorporated.
  - Pour the batter into the prepared pan, and bake for about 60 minutes, until a knife inserted into the center of hte cake comes out clean.
  - Cool in the pan on a rack for 10 minutes, then transfer the cake to the rack and cool completely.

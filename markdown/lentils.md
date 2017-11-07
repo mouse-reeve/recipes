@@ -6,7 +6,7 @@ Quantity: 4 cups
  - 3 tsp ground cumin
  - 2 tsp red pepper flakes
  - 1 yellow onion, diced
- - 2 cloved garlic
+ - 2 cloves garlic
  - 1 tsp salt
  - 1 1/2 cup green lentils
  - 2 cups vegetable broth

@@ -1,4 +1,4 @@
-## Recipe: Rasberry Jam Swirl Coffee Cake
+## Recipe: Raspberry Jam Swirl Coffee Cake
 
 
 ### Ingredients

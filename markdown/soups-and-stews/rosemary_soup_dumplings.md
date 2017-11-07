@@ -12,6 +12,6 @@
 ### Steps
  - Mix dry ingredients in a large bowl.
  - Make a well in the center and add almond milk and oil. Use a wooden spoon to mix until a wet dough forms.
- - Add spoonfulls of dough to the soup of your choice, cover, and cook for 10-15 minutes until the dough is firm
+ - Add spoonfuls of dough to the soup of your choice, cover, and cook for 10-15 minutes until the dough is firm
 
 > Source: http://www.theppk.com/2011/11/dilly-stew-with-rosemary-dumplings/

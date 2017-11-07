@@ -13,6 +13,6 @@ Quantity: About 20 ounces
  - Transfer to a plastic bag and store in the refrigerator or freezer, or use immediately.
  - Flavored fondant: melt the fondant with 2 1/2 tsp water and 1 tsp flavor extract in a double boiler.
  - Chocolate fondant: melt the fondant with 2 1/2 tbsp cocoa powder and 3-4 tsp water in a double boiler.
- - Add water to thin the fondant if necessary in 1/4 tsp incrememnts.
+ - Add water to thin the fondant if necessary in 1/4 tsp increments.
 
 > Source: http://joepastry.com/2011/chocolate-poured-fondant/

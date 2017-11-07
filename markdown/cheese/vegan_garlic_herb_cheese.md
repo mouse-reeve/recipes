@@ -17,9 +17,9 @@ This is more of a fancy hummus, but it's reaaaaally good.
  - Soak the cashews in cool water for 12 hours in the refrigerator.
  - Drain the cashews and puree with the remaining ingredients.
  - Blend until very smooth, adding seasonings to taste.
- - Line a collander or seive with two layers of cheese cloth.
+ - Line a colander or sieve with two layers of cheese cloth.
  - Pour the mixture into the cheese cloth, and pull the corners of the cloth up, and tie to create a snug package.
  - Refrigerate for 6-12 hours until set, and the cheese has drained off excess liquid.
- - Unwrap gently, and move the cheese to a esrving platter. Keep refrigerated.
+ - Unwrap gently, and move the cheese to a serving platter. Keep refrigerated.
 
 > Source: http://minimalistbaker.com/garlic-herb-vegan-cheese/

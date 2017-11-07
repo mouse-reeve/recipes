@@ -20,7 +20,7 @@ Quantity: 6 chicken "breasts"
  - In a food processor, blend the tofu, water, oil, nutritional yeast, and seasonings until very smooth.
  - Add the gluten and blend until a ball forms in the center of the food processor.
  - Roll the dough into a log and cut into 6 pieces.
- - Shape the pieces into thin patties, and cook in a deep pan until bronwed on both sides.
+ - Shape the pieces into thin patties, and cook in a deep pan until browned on both sides.
  - Cover the patties with water and add the soy sauce.
  - Simmer, covered, for 30 minutes.
 

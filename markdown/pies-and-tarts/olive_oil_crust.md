@@ -6,8 +6,8 @@ This produces a savory, soft crust.
  - 2 1/2 cups flour
  - 3/4 tsp salt
  - 2/3 cup olive oil, partially frozen
- - 4 to 8 tbsps ice water
- - 1 tbsp apple cider vinegar
+ - 4 to 8 tablespoons ice water
+ - 1 tablespoon apple cider vinegar
 
 ### Steps
  - Measure olive oil into a container and freeze for one hour. It should be congealed and opaque, but still somewhat soft.

@@ -23,7 +23,7 @@ For vegan scones, 1:1 substitute butter for chilled refined coconut oil, and but
  - Mix the nut milk and vinegar and allow to curdle.
  - Whisk together the flour, oats, sugar, spices, baking powder, baking soda, and salt.
  - Cut in the butter with a pastry blender, forming course crumbs.
- - Stir in the crystalized ginger.
+ - Stir in the crystallized ginger.
  - Mix the molasses into the curdled milk, and gently combine into the flour mixture. Do not overmix.
  - On a lightly floured surface, pat the dough into a circle and cut into wedges.
  - Transfer to a baking sheet and bake for 18-20 minutes, until golden brown. A toothpick inserted into the middle should come out clean.
