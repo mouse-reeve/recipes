@@ -1,21 +1,26 @@
 {
-    "title": "Polenta",
-    "quantity": "",
-    "preptime": "5 minutes",
-    "totaltime": "1 hour",
-    "notes": "",
-    "ingredients": [
-        "1 cup {polenta}",
-        "3 1/4 cups lukewarm {water}",
-        "1 tsp {salt}",
-        "A couple tablespoons {olive oil}"
-    ],
-    "steps": [
-        "Preheat oven to 350 degrees F",
-        "Grease an 8 inch baking pan with olive oil.",
-        "Add in the remaining ingredients and stir together.",
-        "Bake uncovered for about an hour."
-    ],
-    "source": "Golden Pheasant Polenta bag",
-    "tags": ["vegan"]
+  "totaltime": "1 hour",
+  "made": [
+    "2017-11-05T12:01:32.744063"
+  ],
+  "ingredients": [
+    "1 cup {polenta}",
+    "3 1/4 cups lukewarm {water}",
+    "1 tsp {salt}",
+    "A couple tablespoons {olive oil}"
+  ],
+  "notes": "",
+  "title": "Polenta",
+  "source": "Golden Pheasant Polenta bag",
+  "tags": [
+    "vegan"
+  ],
+  "steps": [
+    "Preheat oven to 350 degrees F",
+    "Grease an 8 inch baking pan with olive oil.",
+    "Add in the remaining ingredients and stir together.",
+    "Bake uncovered for about an hour."
+  ],
+  "preptime": "5 minutes",
+  "quantity": ""
 }
