@@ -9,7 +9,7 @@ Quantity: 1 loaf-sized cake
  - 1/2 teaspoon fine sea salt
  - 10 tablespoons butter, cold
  - 3 large eggs
- - 1/4 milk
+ - 1/4 cup milk
  - 1/2 teaspoon vanilla extract
  - 1/2 teaspoon almond extract
  - Generous 1/2 teaspoon baking powder
