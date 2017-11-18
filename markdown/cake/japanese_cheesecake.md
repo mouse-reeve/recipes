@@ -1,6 +1,7 @@
 ## Recipe: Japanese Cheesecake
-Prep time: 20 minutes  
-Total time: 1 hour  
+This is a light, airy cheesecake quite unlike the dense, creamy New York kind.  
+Prep time: 30 minutes  
+Total time: 5 hours  
 Quantity: An 8 inch cake  
 
 ### Ingredients
@@ -29,9 +30,10 @@ Quantity: An 8 inch cake
  - In three batches, gently fold the egg whites into the batter until just incorporated.
  - Pour the batter into the prepared springform pan and smooth the top with a spatula.
  - Hold the sides of the pan and carefully drop it a short distance onto the counter to remove any large air bubbles.
- - Place the springform pan into the water bath and bake for 60-70 minutes, until the top is golden and a toothpick inserted comes out clean.
+ - Place the springform pan into the water bath and bake for 60-70 minutes, until a toothpick inserted comes out clean.
+ - Bake for an additional 10-15 minutes to brown the top.
  - Allow to cool in the oven with the door open for an hour.
- - Remove from pan and refrigerate for around 4 hours until completely chilled.
+ - Remove from pan and refrigerate for a couple hours until completely chilled.
  - Serve with fruit.
 
 > Source: http://runawayrice.com/desserts/cotton-cheesecakejapanese-cheesecake/
