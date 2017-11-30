@@ -4,16 +4,16 @@ Total time: 1 1/2 hours
 Quantity: 1 loaf-sized cake  
 
 ### Ingredients
- - 140 grams roasted, unsalted, shelled pistachios
- - 200 grams granulated sugar
+ - 140 grams (1 cup plus 2 tablespoons) roasted, unsalted, shelled pistachios
+ - 200 grams (I cup) granulated sugar
  - 1/2 teaspoon fine sea salt
  - 10 tablespoons butter, cold
  - 3 large eggs
- - 1/4 milk
+ - 1/4 cup milk
  - 1/2 teaspoon vanilla extract
  - 1/2 teaspoon almond extract
  - Generous 1/2 teaspoon baking powder
- - 115 grams all-purpose flour
+ - 115 grams (3/4 cup plus 2 tablespoons) all-purpose flour
 
 ### Steps
  - Preheat oven to 325 degrees F.
