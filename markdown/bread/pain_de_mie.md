@@ -5,7 +5,7 @@ Quantity: 1 loaf
 
 ### Ingredients
  - 1 packet active dry yeast
- - 3/4 warm water, divided
+ - 3/4 cup warm water, divided
  - 1 tsp granulated sugar
  - 3 cups all purpose flour
  - 2 tsp coarse sea salt
