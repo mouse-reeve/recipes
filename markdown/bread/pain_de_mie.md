@@ -1,6 +1,7 @@
 ## Recipe: Pain de Mie
 This loaf works great with vegan butter, and is the perfect size for my pain de mie pan.  
 Prep time: 30 minutes  
+Total time: 5 hours  
 Quantity: 1 loaf  
 
 ### Ingredients
