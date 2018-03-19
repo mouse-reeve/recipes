@@ -1,0 +1,99 @@
+Tea party for mom's birthday -*- mode: org -*-
+
+* Menu
+** Savories					:savories:
+*** Mushroom gruyere tartlettes
+*** Caprese with avocado
+** Sandwiches					:sandwiches:
+*** Cucumber					:paindemie:
+**** Dill
+**** Cream cheese
+**** Vegan cream cheese alt.
+*** Banston pickle				:paindemie:
+**** Apple
+**** White cheddar
+*** Fig and goat cheese				:baguette:
+**** Thyme
+**** Walnut
+**** Honey
+** Scones					:scones:
+*** Blueberry struessel
+*** Lemon ginger
+** Sweets					:sweets:
+*** Pistachio macarons
+*** Chocolate petits fours
+*** Hazelnut sable
+** Toppings					:toppings:
+*** Lemon curd
+*** Jam
+*** Coconut cream
+* Prep schedule
+** Well before [/]
+*** [ ] Vegan cheese				:sandwiches:
+    SCHEDULED: <2018-04-09 Mon>
+*** [ ] Fondant base				:sweets::petitfours:
+    SCHEDULED: <2018-04-11 Wed>
+*** [ ] Marzipan				:sweets::petitfours:
+    SCHEDULED: <2018-04-11 Wed>
+*** [ ] Candy ginger				:scones:
+    SCHEDULED: <2018-04-14 Sat>
+*** [ ] Prep and cut scones			:scones:
+    SCHEDULED: <2018-04-14 Sat>
+*** [ ] Prep puff pastry			:savories:
+    SCHEDULED: <2018-04-14 Sat>
+*** [ ] Start petits fours			:sweets:petitfours:
+    SCHEDULED: <2018-04-14 Sat>
+*** [ ] Finish petits fours and freeze		:sweets::petitfours:
+    SCHEDULED: <2018-04-15 Sun>
+*** [ ] Prep and cut sable			:sweets:
+    SCHEDULED: <2018-04-15 Sun>
+** Week of [/]
+*** [ ] Groceries [/]
+    SCHEDULED: <2018-04-18 Wed>
+**** [ ] Mushrooms				:sandwiches:
+**** [ ] Cucumbers				:sandwiches:
+**** [ ] Cheddar				:sandwiches:
+**** [ ] Cream cheese				:sandwiches::22ndIrivingMarket:
+**** [ ] Goat cheese				:sandwiches:
+**** [ ] Branston pickles			:sandwiches::Rainbow:
+**** [ ] Pistachios				:sweets:
+*** [ ] Make balsamic tomatoes			:sandwiches:
+    SCHEDULED: <2018-04-20 Fri>
+*** [ ] Macaron filling				:sweets:
+    SCHEDULED: <2018-04-20 Fri>
+** Day before [/]
+   SCHEDULED: <2018-04-21 Sat>
+*** [ ] Groceries [/]
+**** [ ] Figs					:sandwiches::22ndIrivingMarket:
+**** [ ] Apples					:sandwiches:
+**** [ ] Dill					:sandwiches:
+**** [ ] Thyme					:sandwiches:
+**** [ ] Lemons					:toppings:
+*** [ ] Macarons				:sweets:
+*** [ ] Bake bread				:sandwiches:
+*** [ ] Lemon curd				:toppings:
+*** [ ] Jam					:toppings:
+*** [ ] Thaw puff pastry and petits fours in fridge
+** Day-of [/]
+   SCHEDULED: <2018-04-22 Sun>
+*** [/] Groceries
+    SCHEDULED: <2018-04-22 8:00>
+**** [ ] Baguette				:sandwiches:
+**** [ ] Fruit					:NoriegaProduce:
+*** [ ] Bake Sable				:sweets:
+    SCHEDULED: <2018-04-22 9:00>
+*** [ ] Cook mushroom filling			:savories:
+    SCHEDULED: <2018-04-22 9:00>
+*** [ ] Set table
+    SCHEDULED: <2018-04-22 10:00>
+*** [ ] Assemble sandwiches			:sandwiches:
+    SCHEDULED: <2018-04-22 1:00 PM>
+*** [ ] Assemble salads				:savories:
+    SCHEDULED: <2018-04-22 1:00 PM>
+*** [ ] Bake tartlettes				:savories:
+    SCHEDULED: <2018-04-22 2:30 PM>
+**** TODO : is the temperature compatible with scones?
+*** [ ] Bake scones				:scones:
+    SCHEDULED: <2018-04-22 2:30 PM>
+*** [ ] Start service
+    SCHEDULED: <2018-04-22 3:00 PM>
