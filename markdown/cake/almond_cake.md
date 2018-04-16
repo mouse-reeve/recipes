@@ -4,11 +4,11 @@
 ### Ingredients
  - cake
     - 300 grams marzipan or almond paste
-    - 2/3 cup granulated sugar
-    - 2/3 cup butter, room temperature, cut into pieces
+    - 135 grams (2/3 cup) granulated sugar
+    - 150 grams (2/3 cup) butter, room temperature, cut into pieces
     - 1/2 tsp vanilla extract
     - 4 large eggs
-    - 2/3 cup all purpose flour
+    - 85 grams (2/3 cup) all purpose flour
     - 1/4 tsp salt
  - filling
     - 1/4 cup raspberry jam, heated and strained for seeds
