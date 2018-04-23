@@ -1,19 +1,24 @@
 {
-    "title": "Balsamic Roasted Tomatoes",
-    "quantity": "",
-    "notes": "",
-    "ingredients": [
-        "2/3 cup {balsamic vinegar}",
-        "1 tbsp {brown sugar}",
-        "3-4 large ripe {tomatoes}",
-        "Some {olive oil}"
-    ],
-    "steps": [
-        "Boil the balsamic vinegar and sugar in a saucepan until thick and syrupy.",
-        "Slice the tomatoes and lay them out in a pan.",
-        "Drizzle the tomatoes with olive oil and spoon or pour the syrup onto the tomatoes.",
-        "Roast at 250 degrees F for 2 hours."
-    ],
-    "source": "Yoppy",
-    "tags": ["vegetables"]
+  "made": [
+    "2018-04-21T10:57:24.816257"
+  ],
+  "ingredients": [
+    "2/3 cup {balsamic vinegar}",
+    "1 tbsp {brown sugar}",
+    "3-4 large ripe {tomatoes}",
+    "Some {olive oil}"
+  ],
+  "notes": "",
+  "title": "Balsamic Roasted Tomatoes",
+  "source": "Yoppy",
+  "steps": [
+    "Boil the balsamic vinegar and sugar in a saucepan until thick and syrupy.",
+    "Slice the tomatoes and lay them out in a pan.",
+    "Drizzle the tomatoes with olive oil and spoon or pour the syrup onto the tomatoes.",
+    "Roast at 250 degrees F for 2 hours."
+  ],
+  "tags": [
+    "vegetables"
+  ],
+  "quantity": ""
 }
