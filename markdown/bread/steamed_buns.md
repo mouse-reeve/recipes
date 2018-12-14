@@ -8,7 +8,7 @@ Total time: 4 hours
  - 1 1/2 tablespoons caster sugar
  - 1/2 teaspoon salt
  - 1 teaspoon active dry yeast
- - 50 milliliters milk
+ - 50ml milk
  - 1 tablespoon sunflower oil
  - 1 tablespoon rice vinegar
  - 1 teaspoon baking powder
@@ -17,7 +17,7 @@ Total time: 4 hours
  - Whisk together the yeast and a pinch of sugar in 200ml of warm water. Set aside until the yeast begins to bubble.
  - In the bowl of a stand mixer or a large mixing bowl, mix together the flour, sugar, salt.
  - Add the yeast mixture, sunflower oil, rice vinegar, and milk to the flour and mix until it comes together.
- - knead the dough with a dough hook or on a lightly floured surface for 10 to 15 minutes, until smooth.
+ - Knead the dough with a dough hook or on a lightly floured surface for 10 to 15 minutes, until smooth.
  - Place the dough in a lightly oiled bowl and allow to rise in a warm place for 2 hours, or until doubled in size
  - Punch down the dough and sprinkle with the baking powder. Knead for another 5 minutes.
  - Roll the dough into a long log and cut into about 18 pieces, depending on how large you want to make your buns.
