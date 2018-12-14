@@ -4,14 +4,15 @@ Total time: 4 hours
 
 
 ### Ingredients
+ - 1 teaspoon active dry yeast
  - 525 grams all purpose flour
  - 1 1/2 tablespoons caster sugar
  - 1/2 teaspoon salt
- - 1 teaspoon active dry yeast
  - 50ml milk
  - 1 tablespoon sunflower oil
  - 1 tablespoon rice vinegar
  - 1 teaspoon baking powder
+ - Prepared filling
 
 ### Steps
  - Whisk together the yeast and a pinch of sugar in 200ml of warm water. Set aside until the yeast begins to bubble.
