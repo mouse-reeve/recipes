@@ -26,5 +26,6 @@ Total time: 1 hour
  - Add the jackfruit and remaining ingredients, cooking for for around 10 minutes, until the mixture browns and begins to stick to the pan. Salt to taste.
  - Add a half cup of water, cover than pan, and steam for 10 minutes.
  - Remove the lid and continue cooking until the jackfruit is soft, adding a splash of water to deglaze the pan as needed.
+ - Use as a steamed bun filling, or whatever your heart desires. The flavor will improve overnight in the refrigerator.
 
 
