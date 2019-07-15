@@ -1,0 +1,28 @@
+## Recipe: Madeleines
+Prep time: 1 hour  
+Total time: 12 hours  
+Quantity: 24  
+
+### Ingredients
+ - 7 1/2 tablespoons butter
+ - 2 eggs
+ - 100 grams superfine sugar
+ - 1 tablespoon honey
+ - Zest of 1 lemon
+ - 100 grams all-purpose flour
+ - 2/3 teaspoon baking powder
+
+### Steps
+ - Grease and flour two madeleine pans, and put them in the freezer.
+ - In a saucepan, brown the butter and pour into a separate container. Set it aside to cool to room temperature.
+ - In a stainless steel bowl, blanch the eggs, sugar, and honey with a whisk.
+ - Slowly add the flour, baking powder, and lemon zest.
+ - Add the cooled butter.
+ - Cover the bowl and let the batter rest overnight in the refrigerator.
+ - When you're ready to bake, preheat the oven to 430 degrees F.
+ - Spoon or pipe the batter into the prepared pans, and put them in the oven.
+ - Immediately reduce the oven temperature to 340 degrees F.
+ - Bake for 10-15 minutes, until the edges are browned.
+ - Allow to cool completely on a wire rack.
+
+> Source: Patisserie at Home, by Melanie Dupuis
