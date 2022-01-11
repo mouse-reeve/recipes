@@ -1,0 +1,37 @@
+## Recipe: Meatless chili
+Quantity: 8-10 servings  
+
+### Ingredients
+ - Olive oil
+ - 1 yellow onion, diced
+ - 4 cloves garlic, minced
+ - 1 tablespoon chile powder
+ - 1 1/2 teaspoons ground cumin
+ - 1 teaspoon dried oregano
+ - 1/2 teaspoon ground coriander
+ - 1 carrot, grated
+ - 2 bell peppers, chopped
+ - 1 (15 ounce) can tomato sauce
+ - 1 (28 ounce) can diced tomatoes
+ - 1 (15 ounce) can black beans
+ - 1 (15 ounce) can pinto beans
+ - 1 (15 ounce) kidney beans
+ - 1 tablespoon maple syrup or brown sugar
+ - 2 tablespoons chopped chipotle chile in adobo
+ - 1 1/2 tablespoons soy sauce or Bragg Liquid Aminos
+ - 1 tablespoon MSG or red miso
+ - 1/2 cup frozen corn
+ - 1 lb coarsely chopped cremini mushrooms or vegan ground beef
+
+### Steps
+ - Heat a couple tablespoons of olive oil in a large pot, and saute onions until softened.
+ - Add garlic and cook for another couple minutes.
+ - Stir in the spices and allow to toast until fragrant.
+ - Add the grated carrot and bell pepper and cook until softened.
+ - Add the remaining ingredients except the mushrooms, and stir to blend.
+ - Salt to taste and leave to simmer, uncovered for an hour, stirring occassionally. Add bean water as needed to thin.
+ - In a skillet, cook the mushrooms until the browned.
+ - Add the mushrooms and continue to simmer.
+ - Serve topped with cheese, sour cream, corn chips, or whatever makes you happy. Leftovers freeze well.
+
+> Source: The Vegan Meat Cookbook by Miyoko Schinner
