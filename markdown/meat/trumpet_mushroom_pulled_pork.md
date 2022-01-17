@@ -9,7 +9,7 @@ Quantity: 12 ounces
 
 ### Steps
  - Use a fork to shred the mushrooms
- - Stir togehter the remaining ingredients in a sealable container, and marinade the mushrooms for at least 10 minutes.
- - Store for up to 3 days, cook as desired.
+ - Stir together the remaining ingredients in a sealable container, and marinade the mushrooms for at least 10 minutes, or up to three days.
+ - Saute with a little oil until crispy, or however you'd like.
 
 > Source: The Vegan Meat Cookbook by Miyoko Schinner
