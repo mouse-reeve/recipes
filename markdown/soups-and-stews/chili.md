@@ -19,7 +19,7 @@ Quantity: 8-10 servings
  - 1 tablespoon maple syrup or brown sugar
  - 2 tablespoons chopped chipotle chile in adobo
  - 1 1/2 tablespoons soy sauce or Bragg Liquid Aminos
- - 1 tablespoon MSG or red miso
+ - 1 tablespoon red miso
  - 1/2 cup frozen corn
  - 1 lb coarsely chopped cremini mushrooms or vegan ground beef
 
