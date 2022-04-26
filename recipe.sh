@@ -1,7 +1,8 @@
 #!/bin/bash
 
-title=$1
-filename=$( echo $title | awk '{print tolower($0)}' | sed -e 's/ /_/g')
+category=$1
+title=$2
+filename=$( echo "$category/$title" | awk '{print tolower($0)}' | sed -e 's/ /_/g' | sed -e 's/\/\//\//g')
 
 if [ "$title" == "" ]
 then
@@ -22,10 +23,10 @@ echo "{
     ],
     \"source\": \"\",
     \"tags\": [\"\"]
-}" > json/$filename\.json
+}" > $filename\.json
 
-vim json/$filename\.json
+vim $filename\.json
 
-./generateMarkdown.sh json/$filename\.json
+./generateMarkdown.sh $filename\.json
 
-git add json/$filename\.json  markdown/$filename\.md
+git add $filename\.json  markdown
