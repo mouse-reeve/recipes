@@ -5,14 +5,14 @@
     "totaltime": "",
     "notes": "",
     "ingredients": [
-        "1 cup instant oats",
-        "2 tablespoons dry milk powder",
-        "1 tablespoon packed brown sugar",
-        "2 tablespoons dried blackcurrants",
-        "1 tablespoon pumpkin seeds",
-        "1 tablespoon flax seeds",
-        "A couple dashes cinnamon",
-        "A pinch of nutmeg",
+        "1 cup {instant oats}",
+        "2 tablespoons {dry milk powder}",
+        "1 tablespoon packed {brown sugar}",
+        "2 tablespoons {dried blackcurrants}",
+        "1 tablespoon {pumpkin seeds}",
+        "1 tablespoon {flax seeds}",
+        "A couple dashes {ground cinnamon}",
+        "A pinch of {nutmeg}",
         "A pinch of salt"
     ],
     "steps": [

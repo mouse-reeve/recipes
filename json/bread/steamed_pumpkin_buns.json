@@ -5,12 +5,12 @@
     "totaltime": "",
     "notes": "",
     "ingredients": [
-        "500 grams Pau flour or all-purpose flour",
-        "130 grams granulated sugar",
-        "1 teaspoon baking powder",
-        "1 tablespoon active dry yeast",
-        "150 grams steamed pumpkin puree",
-        "1 tablespoon vegetable shortening or coconut oil",
+        "500 grams Pau flour or {all-purpose flour}",
+        "130 grams granulated {sugar}",
+        "1 teaspoon {baking powder}",
+        "1 tablespoon {active dry yeast}",
+        "150 grams steamed {pumpkin} puree",
+        "1 tablespoon {vegetable shortening} or {coconut oil}",
         "100 grams warm water"
     ],
     "steps": [

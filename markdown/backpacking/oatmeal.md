@@ -9,7 +9,7 @@ Quantity: 2 servings
  - 2 tablespoons dried blackcurrants
  - 1 tablespoon pumpkin seeds
  - 1 tablespoon flax seeds
- - A couple dashes cinnamon
+ - A couple dashes ground cinnamon
  - A pinch of nutmeg
  - A pinch of salt
 
