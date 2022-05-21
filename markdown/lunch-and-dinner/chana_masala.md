@@ -12,6 +12,7 @@ Prep time: 2 hours
  - 28oz can of diced tomatoes
  - 2 teaspoons ground coriander
  - 2 teaspoons ground cumin
+ - 2 teaspoons amchur
  - 2 teaspoons salt
  - 1 teaspoon garam masala
  - 1 teaspoon paprika
@@ -25,6 +26,6 @@ Prep time: 2 hours
  - Heat the coconut oil with the bay leaf, and saute the onion until it begins to brown.
  - Add the garlic and ginger, and cook for another few minutes.
  - Add the tomatoes, along with about 1/4 can-worth of additional water, and the spices.
- - Cook at high pressure for 35 minutes
+ - Add the chickpeas and simmer, uncovered, until thickened.
 
 > Source: https://myheartbeets.com/instant-pot-chana-masala-punjabi-chole-spiced-chickpea-curry/
