@@ -1,27 +1,28 @@
 {
     "title": "Fudge",
-    "quantity": "8 x 8 inch tray of fudge",
+    "quantity": "9 x 13 inch tray of fudge",
     "notes": "This is a bare-bones recipe for reference. If you're making this for the first time, or can't find coconut cream, definitely go to the source (http://www.veganbaking.net/recipes/brownies-and-bars/brownies/double-chocolate-fudge)",
     "ingredients": [
-        "1 1/4 cups {coconut cream} (divided)",
-        "1 3/4 cups {sugar}",
-        "2 tbsp {corn syrup}",
-        "1/2 tsp {salt}",
-        "1 1/2 tsp {vanilla extract}",
-        "8 oz {semisweet chocolate}",
-        "1/2 cup {cocoa powder}",
-        "3/4 cup chopped {walnuts}"
+        "470 g and 135 g {coconut cream} (divided)",
+        "670 g {sugar}",
+        "75 g {corn syrup}",
+        "1 tsp {salt}",
+        "1 tbsp {vanilla extract}",
+        "16 oz {semisweet chocolate}",
+        "85 g {cocoa powder}",
+        "150 g chopped {walnuts}"
     ],
     "steps": [
         "Toast the nuts for 20 minutes at 300 F.",
-        "Mix 1 cup coconut cream, sugar, and corn syrup in a saucepan, making sure not to get sugar on the sides of the pan, which can cause crystallization.",
+        "Line a 9 x 13 pan with parchment paper.",
+        "Mix 470 grams coconut cream, sugar, corn syrup, and salt in a saucepan, making sure not to get sugar on the sides of the pan, which can cause crystallization.",
         "Bring the mixture to a boil over high heat, then reduce heat to medium-low.",
         "Insert a candy thermometer and let the mixture reach 250 F.",
         "Pour the mixture into a mixing bowl. Do not scrape the bottom of the pan, as there may be bitter or burnt sugar.",
-        "Whisk in the remaining 1/4 cup of coconut cream and vanilla extract.",
+        "Whisk in the remaining 135 grams of coconut cream and vanilla extract.",
         "Allow the mixture to cool to around 210 F, and beat in the chocolates with an electric mixer until smooth.",
         "Fold in the nuts.",
-        "Press the fudge into a dish lined with parchment paper, and allow to cool in the refrigerator for at least two hours before cutting."
+        "Press the fudge into the prepared dish, and allow to cool in the refrigerator for at least two hours before cutting."
     ],
     "source": "http://www.veganbaking.net/recipes/brownies-and-bars/brownies/double-chocolate-fudge",
     "tags": ["sweets", "candy", "vegan"]
