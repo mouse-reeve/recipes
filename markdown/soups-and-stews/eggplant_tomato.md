@@ -1,4 +1,4 @@
-## Recipe: Eggpland Tomato Stew
+## Recipe: Eggplant Tomato Stew
 Prep time: 10 minutes  
 Total time: 1 hour  
 Quantity: 4 servings  
