@@ -4,7 +4,7 @@ Total time: 1 hour
 Quantity: 4 servings  
 
 ### Ingredients
- - 1 large eggpland (about 550 g), cut into bite-sized pieces
+ - 1 large eggplant (about 550 g), cut into bite-sized pieces
  - 2 tablespoons olive oil
  - Salt and pepper to taste
  - 2 tablespoons coconut oil
