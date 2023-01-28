@@ -1,0 +1,19 @@
+## Recipe: Pumpkin salt
+Total time: 1 week  
+
+
+### Ingredients
+ - Pumpkin guts and skin
+ - Salt
+
+### Steps
+ - Collect the insides of a pumpkin, including the seeds and pulp, along with some skin.
+ - Coarsely blend the pumpkin in a food processor with enough water to create a thick slurry.
+ - Weight the mixture and blend in 2% salt by weight.
+ - Pack the mixture into a mason jar to ferment, as desired.
+ - Leave at room temperature for about 1 week.
+ - Add the fermented slurry back to the food processor and weigh again, adding 5% salt by weight, and blend.
+ - Spread the mixture onto the fruit leather trays of a dehydrator, and run at 135 degrees F until fully dry (likely overnight).
+ - Blend the chunks of dry pumpkin one last time, until the desired texture is reached.
+
+> Source: https://old.reddit.com/r/fermentation/comments/fwjbcv/fermented_pumpkin_guts_salt/
