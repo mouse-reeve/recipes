@@ -1,13 +1,13 @@
 ## Recipe: Short Crust Pastry
-Quantity: One base crust  
+Quantity: One base crust and top  
 
 ### Ingredients
- - 200 grams flour
- - 7 tablespoons cold butter, cut into cubes
- - 3 1/2 tablespoons ice water
- - 1 teaspoon salt
- - 2 tablespoons sugar
- - 1 egg yolk
+ - 400 grams flour
+ - 14 tablespoons cold butter, cut into cubes
+ - 95 - 105 g ice water
+ - 15 g salt (2 tsp)
+ - 50 g sugar (4 tbsp)
+ - 2 egg yolks (30 g)
 
 ### Steps
  - With a pastry blender, cut the butter into the flour until the mixture reesmbles coarse crumbs.
