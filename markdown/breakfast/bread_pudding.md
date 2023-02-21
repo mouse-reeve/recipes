@@ -1,0 +1,25 @@
+## Recipe: Bread pudding
+I only had about half the heavy cream and used cream top milk. Should be 2 cups heavy cream, the weight may be wrong.  
+
+
+### Ingredients
+ - 490 g heavy cream
+ - 170 g eggs (3 eggs)
+ - 50 g granulated sugar
+ - 10 g vanilla extract (2 tsp)
+ - 150 g fermented blueberry puree
+ - 1/2 tsp ground cinnamon
+ - Zest of 1 lemon
+ - 80 g frozen berries
+ - 12 oz stale challah, cut into cubes
+ - Sliced almonds for garnish
+
+### Steps
+ - Preheat the oven to 350 degrees F.
+ - Cream together all the ingredients except the berries and challah.
+ - Pour most of the custard over the cubes of bread, and allow to soak in for a few minutes, turning periodically to evenly soak the bread.
+ - Toss in the berries.
+ - Transfer the mixture to a greased baking pan, and pour the remaining custard over the top.
+ - Cover and bake for 30 minutes, and then remove the cover and bake until set and juice does not seep out when you press gently on the top.
+
+> Source: https://cooking.nytimes.com/recipes/1023702-challah-bread-pudding
