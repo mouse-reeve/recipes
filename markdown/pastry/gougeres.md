@@ -1,24 +1,26 @@
 ## Recipe: Gougerès
-Quantity: 20  
+Prep time: 30 minutes  
+Total time: 1 1/2 hours  
+Quantity: 20 gougerès  
 
 ### Ingredients
  - 235 g water
  - 85 g butter (6 tbsp)
  - 1/4 tsp table salt or 1/2 tsp diamond crystal salt
  - 96 g eggs (4 eggs)
- - 115 g grated gruyer
+ - 115 g grated gruyer plus 20 grams for garnish
  - Pinch nutmeg
  - Pinch freshly ground black pepper
 
 ### Steps
  - Boil the water, butter, and salt.
- - Whisk in the flour and heat to 175 degrees F.
- - Add to mixer with paddle attachment and mix until the dough cools to 145 degrees F.
+ - Mix in the flour with a wooden spoon over medium high heat until the dough reaches 175 degrees F.
+ - Transfer the dough to a stand mixer with paddle attachment and beat until the dough cools to 145 degrees F.
  - Add the eggs gradually, until the texture is correct.
  - Beat in the cheese, nutmeg, and pepper.
- - Add batter to pastry bag with 1/2 inch tip.
+ - Add batter to pastry bag with 1/2 inch tip (or Ateco 808).
  - Preheat the oven to 400 degrees F.
- - Pipe out 1 1/2 inch mounds of batter onto template.
+ - Pipe out mounds of batter onto a sheet of parchment paper with circle templates.
  - Wet your finger and tap down any tips, creating a smooth surface.
  - Egg wash or spay with cooking spray.
  - Sprinkle a little cheese on top.
