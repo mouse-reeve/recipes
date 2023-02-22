@@ -30,6 +30,8 @@ echo "{
 
 vim $filename\.json
 
-./generateMarkdown.sh $filename\.json
+source venv/bin/activate
+python3 format_file.py -f $filename\.json
+deactivate
 
-git add $filename\.json  markdown
+git add $filename\.json markdown html
