@@ -100,7 +100,7 @@
                         {{ step }}
                         <ul>
                             {% for substep in entry[step] %}
-                            <li>{{ substep }}</li>
+                            <li>{{ substep|ingredient_display }}</li>
                             {% endfor %}
                         </ul>
                         {% endfor %}
