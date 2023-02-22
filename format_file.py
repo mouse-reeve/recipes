@@ -6,7 +6,15 @@ import os
 import re
 import sys
 
-from jinja2 import Template
+import jinja2
+
+
+def ingredient_display(value):
+    """Remove annotations on ingredients"""
+    return re.sub(r"[{}]", "", value)
+
+
+jinja2.filters.FILTERS["ingredient_display"] = ingredient_display
 
 
 def get_output_path(input_path, output_format):
@@ -25,7 +33,7 @@ def write_file(input_path, output_path, output_format):
 
     # Compile the Jinja template
     with open(f"template.{output_format}", "r", encoding="utf-8") as json_file:
-        template = Template(json_file.read())
+        template = jinja2.Template(json_file.read())
 
     # Write the output file
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -61,7 +69,7 @@ if __name__ == "__main__":
     sys.stdout.write(f"Writing {len(files)} file(s):\n")
     for file in files:
         for version in formats:
-            sys.stdout.write('.')
+            sys.stdout.write(".")
             output_filename = get_output_path(file, version)
             write_file(file, output_filename, version)
     sys.stdout.write("\n")

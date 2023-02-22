@@ -92,7 +92,7 @@
                     {% for entry in recipe.ingredients %}
                     {% if entry is string %}
                     <li>
-                        {{ entry }}
+                        {{ entry|ingredient_display }}
                     </li>
                     {% else %}
                     <li>
