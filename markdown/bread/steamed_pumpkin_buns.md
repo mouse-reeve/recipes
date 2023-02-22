@@ -1,4 +1,4 @@
-## Recipe: bread/Steamed_pumpkin_buns
+## Recipe: Steamed pumpkin buns
 
 
 ### Ingredients
