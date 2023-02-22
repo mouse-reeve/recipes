@@ -6,8 +6,6 @@ from jinja2 import Template
 
 if __name__ == "__main__":
     recipe = json.load(open(sys.argv[1]))
-    try:
-        template = Template(open(sys.argv[2]).read())
-    except (TypeError, IndexError):
-        template = Template(open("template.md").read())
+    output_format = sys.argv[2] if len(sys.argv) > 2 else "md"
+    template = Template(open(f"template.{output_format}").read())
     print(template.render(recipe=recipe))

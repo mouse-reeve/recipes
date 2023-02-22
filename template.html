@@ -1,0 +1,148 @@
+<html lang="en">
+<head>
+    <title>Mouse Reeve</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        header, footer, main {
+            padding: 1em;
+            margin: 0;
+        }
+        header {
+            font-weight: bold;
+            background-color: #eee;
+        }
+        .container {
+            display: flex;
+        }
+        nav {
+            flex: 1;
+        }
+        main {
+            flex: 4;
+        }
+        dt {
+            float: left;
+            padding-right: 1em;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    Recipes
+</header>
+
+<div class="container">
+    <nav class="sidebar">
+        <ul>
+            <li>
+                <a href="">Recipe link</a>
+            </li>
+        </ul>
+    </nav>
+
+    <main>
+        <article>
+            <h1>
+                {{ recipe.title }}
+            </h1>
+            <dl class="info">
+                {% if recipe.preptime %}
+                <dt>Prep time</dt>
+                <dd>{{ recipe.preptime }}</dd>
+                {% endif %}
+
+                {% if recipe.baketime %}
+                <dt>Bake time</dt>
+                <dd>{{ recipe.baketime }}</dd>
+                {% endif %}
+
+                {% if recipe.totaltime %}
+                <dt>Total time</dt>
+                <dd>{{ recipe.totaltime }}</dd>
+                {% endif %}
+
+                {% if recipe.quantity %}
+                <dt>Quantity</dt>
+                <dd>{{ recipe.quantity }}</dd>
+                {% endif %}
+            </dl>
+
+            {% if recipe.notes %}
+            <aside class="notes">
+                <p>
+                    {{ recipe.notes }}
+                </p>
+            </aside>
+            {% endif %}
+
+            <div class="controls">
+                <form name="controls" action="GET">
+                    <label for="scale">Scale</label>
+                    <input type="number" min="1" id="scale"></input>
+                    <button type="submit">Go</button>
+                </form>
+            </div>
+
+            <div class="section">
+                <h2>Ingredients</h2>
+                <ul>
+                    {% for entry in recipe.ingredients %}
+                    {% if entry is string %}
+                    <li>
+                        {{ entry }}
+                    </li>
+                    {% else %}
+                    <li>
+                        {{ entry.keys()[0] }}
+                        <ul>
+                        {% for subentry in entry %}
+                            <li>{{ subentry }}</li>
+                        {% endfor %}
+                        </ul>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>Steps</h2>
+                <ul>
+                {% for entry in recipe.steps %}
+                {% if entry is string %}
+                    <li>{{ entry }}</li>
+                {% else %}
+                    <li>
+                        {{ entry.keys()[0] }}
+                        <ul>
+                            {% for step in entry[entry.keys()[0]] %}
+                            <li>{{ step }}</li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% endif %}
+                {% endfor %}
+                </ul>
+            </div>
+
+            {% if recipe.source %}
+            <aside>
+                <p><a href="{{ recipe.source }}">Source</a></p>
+            </aside>
+            {% endif %}
+
+        </article>
+    </main>
+</div>
+
+<footer>
+    </p>Thank's</p>
+</footer>
+
+</body>
+</html>
+
