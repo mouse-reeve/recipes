@@ -32,4 +32,3 @@
  - For closed-face sandwiches, make the sandwich on a whole slice of bread and cut afterwards for a cleaner edge.
  - Cut triangles or rectangles with a sharp knife, or use a round biscuit cutter
 
-

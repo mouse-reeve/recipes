@@ -2,7 +2,7 @@
 Quantity: 8-10 servings  
 
 ### Ingredients
- - Olive oil
+ - A splash olive oil
  - 1 yellow onion, diced
  - 4 cloves garlic, minced
  - 2 tablespoons chile powder
@@ -10,12 +10,12 @@ Quantity: 8-10 servings
  - 1 1/2 teaspoon dried oregano
  - 1 teaspoon ground coriander
  - 1 carrot, grated
- - 2 bell peppers, chopped
+ - 2 red bell peppers, chopped
  - 1 (15 ounce) can tomato sauce
  - 1 (28 ounce) can diced tomatoes
  - 1 (15 ounce) can black beans
  - 1 (15 ounce) can pinto beans
- - 1 (15 ounce) kidney beans
+ - 1 (15 ounce) can kidney beans
  - 1 tablespoon maple syrup or brown sugar
  - 2-3 tablespoons chopped chipotle chile in adobo
  - 2 tablespoons soy sauce or Bragg Liquid Aminos

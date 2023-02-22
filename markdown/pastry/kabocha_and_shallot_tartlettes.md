@@ -26,4 +26,3 @@ Quantity: 2 dozen
  - Assmeble the tarts: place a spoonful of shallots in the center of each cup, then cover with a ball of kabocha. Press walnuts around the edge, creating a border. Using a pastry brush, lighlty wash with beaten egg, if using, and sprinkle a little salt and sesame seeds over the top.
  - Bake again for 10 ish minutes.
 
-

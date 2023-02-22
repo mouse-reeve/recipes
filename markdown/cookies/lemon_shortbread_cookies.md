@@ -18,4 +18,3 @@ Quantity: A dozen cookies
  - Roll the dough about 1/4 inch thick, cut out shapes with a cookie cutter, and arrange on a baking sheet.
  - Bake for 8-10 minutes, until firm and just barely browned.
 
-

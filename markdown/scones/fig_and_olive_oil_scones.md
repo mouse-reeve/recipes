@@ -23,4 +23,3 @@ Quantity: About a dozen scones
  - Brush the scones with a little cream and sprinkle with sugar.
  - Bake for 15-18 minutes, until golden brown.
 
-

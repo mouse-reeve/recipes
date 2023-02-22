@@ -17,4 +17,3 @@ Quantity: 2 servings
  - Mix dry ingredients and portion out.
  - Add boiling water and stir. Let it rest until softened, about 2 minutes.
 
-

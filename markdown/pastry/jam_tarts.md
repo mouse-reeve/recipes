@@ -19,4 +19,3 @@ Quantity: Enough for 1 dozen small tarts
  - Bake for 15-20 minutes, until the crust is browned around the edges.
  - Cool on a wire rack.
 
-

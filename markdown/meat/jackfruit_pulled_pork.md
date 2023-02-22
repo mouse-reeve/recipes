@@ -28,4 +28,3 @@ Total time: 1 hour
  - Remove the lid and continue cooking until the jackfruit is soft, adding a splash of water to deglaze the pan as needed.
  - Use as a steamed bun filling, or whatever your heart desires. The flavor will improve overnight in the refrigerator.
 
-

@@ -17,4 +17,3 @@ Quantity: 1 quiche
  - Add the filling to the crust, and bake for about 35 minutes, until the filling is set and the crust is golden brown.
  - Cool for 15 minutes before eating.
 
-

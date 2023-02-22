@@ -35,4 +35,3 @@
  - Bake for 30 minutes, until the top is lightly browned.
  - Cool for 20 minutes before serving
 
-

@@ -18,4 +18,3 @@ Quantity: About 16 oz
  - Whisk in the salt.
  - Chill for at least an hour before using.
 
-

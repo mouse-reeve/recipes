@@ -14,9 +14,9 @@
  - 1 1/2 cup wheat gluten
 
 ### Steps
- - Preheat the oven to 350 degrees F.
  - In a food processor, combine all the ingredients except the gluten, and blend until very smooth.
  - Add the gluten and run the food processor until a ball of dough forms, scraping the sides as necessary.
+ - Preheat the oven to 350 degrees F.
  - Knead the dough for 5 to 10 minutes, until very firm.
  - Press the dough into a slab, wrap in foil, and bake for 1 hour.
  - Store it in the fridge, and slice and fry whenever you so desire.
