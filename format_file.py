@@ -46,7 +46,7 @@ def write_file(file_index, input_path, output_path, output_format):
         recipe_data = json.load(json_file)
 
     # Compile the Jinja template
-    with open(f"template.{output_format}", "r", encoding="utf-8") as json_file:
+    with open(f"templates/template.{output_format}", "r", encoding="utf-8") as json_file:
         template = jinja2.Template(json_file.read())
 
     # Write the output file
