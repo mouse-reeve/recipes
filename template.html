@@ -96,12 +96,14 @@
                     </li>
                     {% else %}
                     <li>
-                        {{ entry.keys()[0] }}
+                        {% for step in entry %}
+                        {{ step }}
                         <ul>
-                        {% for subentry in entry %}
-                            <li>{{ subentry }}</li>
-                        {% endfor %}
+                            {% for substep in entry[step] %}
+                            <li>{{ substep }}</li>
+                            {% endfor %}
                         </ul>
+                        {% endfor %}
                     </li>
                     {% endif %}
                     {% endfor %}
@@ -117,12 +119,14 @@
                     <li>{{ entry }}</li>
                 {% else %}
                     <li>
-                        {{ entry.keys()[0] }}
+                        {% for step in entry %}
+                        {{ step }}
                         <ul>
-                            {% for step in entry[entry.keys()[0]] %}
-                            <li>{{ step }}</li>
+                            {% for substep in entry[step] %}
+                            <li>{{ substep }}</li>
                             {% endfor %}
                         </ul>
+                        {% endfor %}
                     </li>
                     {% endif %}
                 {% endfor %}
