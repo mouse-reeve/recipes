@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <style>
-        header, footer, main {
+        header, footer, main, nav {
             padding: 1em;
             margin: 0;
         }
@@ -36,11 +36,20 @@
 
 <div class="container">
     <nav class="sidebar">
-        <ul>
-            <li>
-                <a href="">Recipe link</a>
-            </li>
-        </ul>
+        {% for dir in index | sort %}
+        <details>
+            <summary>
+                {{ dir }}
+            </summary>
+            <ul>
+                {% for file in index[dir] %}
+                <li>
+                    <a href="{{ file }}">{{ index[dir][file] }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </details>
+        {% endfor %}
     </nav>
 
     <main>
@@ -135,7 +144,7 @@
 
             {% if recipe.source %}
             <aside>
-                <p><a href="{{ recipe.source }}">Source</a></p>
+                <p>Via <a href="{{ recipe.source }}">{{ recipe.source }}</a></p>
             </aside>
             {% endif %}
 

@@ -5,6 +5,7 @@ import json
 import os
 import re
 import sys
+from collections import defaultdict
 
 import jinja2
 
@@ -25,7 +26,20 @@ def get_output_path(input_path, output_format):
     return os.path.join(output_dir, output_name)
 
 
-def write_file(input_path, output_path, output_format):
+def get_file_index(file_list, output_format):
+    """Get a list of available files in a usable form"""
+    index = defaultdict(lambda: {})
+    for item in file_list:
+        subdir = os.path.dirname(item).split("/")[-1]
+        with open(item, "r", encoding="utf-8") as recipe_file:
+            json_data = json.load(recipe_file)
+            title = json_data["title"]
+        file_link = os.path.join("../../", get_output_path(item, output_format))
+        index[subdir][file_link] = title
+    return index
+
+
+def write_file(file_index, input_path, output_path, output_format):
     """Load a recipe json file and write it to the corresponding output dir"""
     # Load the json file
     with open(input_path, "r", encoding="utf-8") as json_file:
@@ -38,7 +52,7 @@ def write_file(input_path, output_path, output_format):
     # Write the output file
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as output_file:
-        output_file.write(template.render(recipe=recipe_data))
+        output_file.write(template.render(recipe=recipe_data, index=file_index))
 
 
 if __name__ == "__main__":
@@ -67,9 +81,10 @@ if __name__ == "__main__":
 
     # either get all the files or one specific file
     sys.stdout.write(f"Writing {len(files)} file(s):\n")
-    for file in files:
-        for version in formats:
+    for version in formats:
+        all_files_index = get_file_index(files, version)
+        for file in files:
             sys.stdout.write(".")
             output_filename = get_output_path(file, version)
-            write_file(file, output_filename, version)
+            write_file(all_files_index, file, output_filename, version)
     sys.stdout.write("\n")
