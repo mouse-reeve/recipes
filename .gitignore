@@ -6,3 +6,4 @@ pip-selfcheck.json
 
 # virtualenv
 venv/
+html/
