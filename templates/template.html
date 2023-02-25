@@ -92,6 +92,14 @@
             {% endif %}
 
             <div class="section">
+                <form name="scale" id="scale_form">
+                    <label for="id_scale">Scale:</label>
+                    <input type="number" value="1" min="0.01" id="id_scale" step="0.01">
+                    <button type="submit">Scale recipe</button>
+                </form>
+            </div>
+
+            <div class="section">
                 <h2>Ingredients</h2>
                 <ul>
                     {% for entry in recipe.ingredients %}
@@ -169,6 +177,26 @@
     </p>Thank's</p>
 </footer>
 
+<script>
+    let Recipe = new (class {
+        constructor() {
+            document.getElementById("scale_form").addEventListener("submit", this.scaleRecipe.bind(this));
+        }
+
+        scaleRecipe(event) {
+            event.preventDefault();
+            const scale = event.target[0].valueAsNumber;
+            document.querySelectorAll(".quantity").forEach(
+                (ingredient) => this.scaleIngredient(ingredient, scale)
+            )
+        }
+
+        scaleIngredient(ingredient, scale) {
+            const currentValue = ingredient.dataset.quantity;
+            ingredient.setHTML(currentValue * scale);
+        }
+    })()
+</script>
 </body>
 </html>
 
