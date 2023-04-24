@@ -11,6 +11,9 @@ from collections import defaultdict
 import jinja2
 
 
+FILES_PATH = "json/**/*.json"
+
+
 def ingredient_display(value):
     """Remove annotations on ingredients"""
     return re.sub(r"[{}]", "", value)
@@ -60,8 +63,9 @@ def get_output_path(input_path, output_format):
     return os.path.join(output_dir, output_name)
 
 
-def get_file_index(file_list, output_format):
+def get_file_index(output_format):
     """Get a list of available files in a usable form"""
+    file_list = glob.glob(FILES_PATH)
     index = defaultdict(lambda: {})
     for item in file_list:
         subdir = os.path.dirname(item).split("/")[-1]
@@ -112,13 +116,13 @@ if __name__ == "__main__":
         sys.stderr.write("Filename must be provided with -f if -a flag is not used\n")
         sys.exit()
 
-    files = glob.glob("json/**/*.json") if compile_all else [filename]
+    files = glob.glob(FILES_PATH) if compile_all else [filename]
     formats = [format_preference] if format_preference else format_choices
 
     # either get all the files or one specific file
     sys.stdout.write(f"Writing {len(files)} file(s):\n")
     for version in formats:
-        all_files_index = get_file_index(files, version)
+        all_files_index = get_file_index(version)
         for file in files:
             sys.stdout.write(".")
             output_filename = get_output_path(file, version)
