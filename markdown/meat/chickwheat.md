@@ -4,16 +4,16 @@ Total time: 2.5 hours
 
 
 ### Ingredients
- - 2 cups cooked chickpeas
- - 1 cup aquafaba or water
- - 2 tbsp canola oil
- - 1/4 cup nutritional yeast
- - 1 tbsp onion powder
- - 2 tsp garlic powder
- - 2 tsp poultry seasoning
- - 2 tsp salt
- - 1 tsp apple cider vinegar
- - 1 3/4 cups/255 grams vital wheat gluten
+ - 365 g (2 cups) cooked chickpeas
+ - 250 g (1 cup) aquafaba or water
+ - 28 g (2 tbsp) canola oil
+ - 20 g (1/4 cup) nutritional yeast
+ - 10 g (1 tbsp) onion powder
+ - 7 g (2 tsp) garlic powder
+ - 5 g (2 tsp) poultry seasoning
+ - 14 g (2 tsp) salt
+ - 6 g (1 tsp) apple cider vinegar
+ - 255 g (1 3/4 cups) vital wheat gluten
 
 ### Steps
  - In a food processor, blend all the ingredients except the gluten until smooth.
