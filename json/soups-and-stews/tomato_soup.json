@@ -3,15 +3,16 @@
     "2018-04-25T10:50:06.448287"
   ],
   "ingredients": [
-    "2 tbsp {olive oil}",
+    "2 tablespoons {olive oil}",
     "1 medium {onion}",
-    "1 tbsp {tomato paste}",
-    "2 cloves {garlic}, minced",
+    "2 tablespoons {tomato paste}",
+    "3 cloves {garlic}, minced",
     "1 tsp {brown sugar}",
-    "1 15-oz can {diced tomatoes}",
-    "1 tsp vegetarian {bullion}",
-    "1 tsp {balsamic vinegar}",
-    "1/2 tsp dried {thyme}"
+    "1 24-oz can {crushed tomatoes}",
+    "1 teaspoon vegetarian {bullion paste}",
+    "1 cup dry {cannellini beans}",
+    "1 teaspoon {balsamic vinegar}",
+    "1/2 teaspoon dried {thyme}"
   ],
   "tags": [
     "soup",
@@ -19,11 +20,13 @@
   ],
   "source": "http://www.vegetariantimes.com/recipe/homemade-tomato-soup/",
   "steps": [
+    "Start the beans in a pressure cooker.",
     "Heat oil in a medium saucepan over medium heat. Add onion, and saute for 5 minutes until soft and translucent.",
     "Stir in tomato paste, garlic, and sugar, and cook for 1 minutes, or until the tomato paste darkens.",
-    "Stir in diced tomatoes, bullion, balsamic vinegar, and thyme, and 2 cups of water.",
+    "Stir in tomatoes, bullion, balsamic vinegar, and thyme, and 2 cups of water.",
+    "Add more salt, bullion, and seasoning to taste.",
     "Cover pan, bring soup to a boil, and simmer, covered over medium heat for 15 minutes.",
-    "Remove from heat and blend soup with an immersion blender."
+    "Add the beans, remove from heat and blend with an immersion blender until smooth and creamy."
   ],
   "title": "Tomato Soup",
   "quantity": "2 servings"
