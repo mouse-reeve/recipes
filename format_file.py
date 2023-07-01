@@ -88,11 +88,12 @@ def write_file(file_index, input_path, output_path, output_format):
         f"templates/template.{output_format}", "r", encoding="utf-8"
     ) as json_file:
         template = jinja2.Template(json_file.read())
+    subdir = os.path.dirname(output_path).split("/")[-1]
 
     # Write the output file
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as output_file:
-        output_file.write(template.render(recipe=recipe_data, index=file_index))
+        output_file.write(template.render(recipe=recipe_data, current_dir=subdir, index=file_index))
 
 
 if __name__ == "__main__":

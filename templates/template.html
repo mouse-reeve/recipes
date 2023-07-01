@@ -41,7 +41,7 @@
 <div class="container">
     <nav class="sidebar">
         {% for dir in index | sort %}
-        <details>
+        <details{% if dir == current_dir %} open{% endif %}>
             <summary>
                 {{ dir }}
             </summary>
