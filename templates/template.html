@@ -107,20 +107,11 @@
 
                     {% if not ingredient_dict %}
                     <li class="ingredient">
-                        {% for part in entry|ingredient_data %}
-                        {% for subpart in part %}
-                        <span{% if subpart.type == "quantity" %} class="quantity" data-quantity="{{ subpart.value }}"{% endif %}>
-                            {{ subpart.text }}
-                        </span>
-                        {% endfor %}
-                        {% endfor %}
+                        {% for part in entry|ingredient_data %}{% for subpart in part %}<span{% if subpart.type == "quantity" %} class="quantity" data-quantity="{{ subpart.value }}"{% endif %}>{{ subpart.text }}</span>{% endfor %}{% endfor %}
                     </li>
                     {% else %}
                     <li class="ingredient">
-                        <span data-quantity="{{ ingredient_dict['quantity'] }}">
-
-                            {{ entry|ingredient_display }}
-                        </span>
+                        <span data-quantity="{{ ingredient_dict['quantity'] }}">{{ entry|ingredient_display }}</span>
                     </li>
                     {% endif %}
 
