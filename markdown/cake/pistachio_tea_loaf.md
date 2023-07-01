@@ -5,7 +5,7 @@ Quantity: 1 loaf-sized cake
 
 ### Ingredients
  - 140 grams (1 cup plus 2 tablespoons) roasted, unsalted, shelled pistachios
- - 200 grams (I cup) granulated sugar
+ - 200 grams (1 cup) granulated sugar
  - 1/2 teaspoon fine sea salt
  - 10 tablespoons butter, cold
  - 3 large eggs
