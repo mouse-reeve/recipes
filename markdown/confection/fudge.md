@@ -3,14 +3,14 @@ This is a bare-bones recipe for reference. If you're making this for the first t
 Quantity: 9 x 13 inch tray of fudge  
 
 ### Ingredients
- - 470 g and 135 g coconut cream (divided)
- - 670 g sugar
- - 75 g corn syrup
+ - 470 g and 135 g (2 cup and 1/2 cup) coconut cream (divided)
+ - 670 g (3 1/2 cups) sugar
+ - 75 g (1/4 cup) corn syrup
  - 1 tsp salt
  - 1 tbsp vanilla extract
  - 16 oz semisweet chocolate
- - 85 g cocoa powder
- - 150 g chopped walnuts
+ - 85 g (1 cup) cocoa powder
+ - 150 g (1 1/2 cups) chopped walnuts
 
 ### Steps
  - Toast the nuts for 20 minutes at 300 F.

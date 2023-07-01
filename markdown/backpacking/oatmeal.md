@@ -1,14 +1,13 @@
 ## Recipe: Oatmeal
 Prep time: 5 minutes  
-Quantity: 2 servings  
+Quantity: 1 serving  
 
 ### Ingredients
- - 1 cup instant oats
- - 2 tablespoons dry milk powder
- - 1 tablespoon packed brown sugar
- - 2 tablespoons dried blackcurrants
- - 1 tablespoon pumpkin seeds
- - 1 tablespoon flax seeds
+ - 50 g (1/2 cup) instant oats
+ - 10 g (1 tablespoon) dry milk powder
+ - 15 g (1 tablespoon) dried blackcurrants
+ - 5 g (1 1/2 teaspoons) packed brown sugar
+ - 1-2 teaspoons each of pumpkin seeds, flax seeds, flax meal, nuts, et cetera as desired
  - A couple dashes ground cinnamon
  - A pinch of nutmeg
  - A pinch of salt
