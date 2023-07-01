@@ -1,4 +1,4 @@
-## Recipe: "French" Toast Cannelés
+## Recipe: "French Toast" Cannelés
 Total time: Two days  
 Quantity: 12 cannelé  
 
