@@ -1,3 +1,9 @@
+{% macro ingredient(entry) %}
+<li class="ingredient">
+    {% for part in entry|ingredient_data %}{% for subpart in part %}<span{% if subpart.type == "quantity" %} class="quantity" data-quantity="{{ subpart.value }}"{% endif %}>{{ subpart.text }}</span>{% endfor %}{% endfor %}
+</li>
+{% endmacro %}
+
 <html lang="en">
 <head>
     <title>{{ recipe.title }}</title>
@@ -25,7 +31,6 @@
             float: left;
             padding-right: 1em;
         }
-
         .quantity {
             font-weight: bold;
         }
@@ -104,24 +109,14 @@
                 <ul>
                     {% for entry in recipe.ingredients %}
                     {% if entry is string %}
-
-                    {% if not ingredient_dict %}
-                    <li class="ingredient">
-                        {% for part in entry|ingredient_data %}{% for subpart in part %}<span{% if subpart.type == "quantity" %} class="quantity" data-quantity="{{ subpart.value }}"{% endif %}>{{ subpart.text }}</span>{% endfor %}{% endfor %}
-                    </li>
-                    {% else %}
-                    <li class="ingredient">
-                        <span data-quantity="{{ ingredient_dict['quantity'] }}">{{ entry|ingredient_display }}</span>
-                    </li>
-                    {% endif %}
-
+                        {{ ingredient(entry) }}
                     {% else %}
                     <li>
                         {% for step in entry %}
                         {{ step }}
                         <ul>
                             {% for substep in entry[step] %}
-                            <li data-quantity="{{ substep }}">{{ substep|ingredient_display }}</li>
+                            {{ ingredient(substep) }}
                             {% endfor %}
                         </ul>
                         {% endfor %}
