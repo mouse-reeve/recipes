@@ -2,6 +2,7 @@
 Quantity: 2 servings  
 
 ### Ingredients
+ - 1 cup dry cannellini beans
  - 2 tablespoons olive oil
  - 1 medium onion
  - 2 tablespoons tomato paste
@@ -9,7 +10,6 @@ Quantity: 2 servings
  - 1 tsp brown sugar
  - 1 24-oz can crushed tomatoes
  - 1 teaspoon vegetarian bullion paste
- - 1 cup dry cannellini beans
  - 1 teaspoon balsamic vinegar
  - 1/2 teaspoon dried thyme
 
