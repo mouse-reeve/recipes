@@ -1,14 +1,14 @@
 ## Recipe: Gougerès
 Prep time: 30 minutes  
 Total time: 1 1/2 hours  
-Quantity: 20 gougerès  
+Quantity: 20 gougères  
 
 ### Ingredients
  - 235 g water
  - 85 g butter (6 tbsp)
  - 1/4 tsp table salt or 1/2 tsp diamond crystal salt
  - 96 g eggs (4 eggs)
- - 115 g grated gruyer plus 20 grams for garnish
+ - 115 g grated gruyere plus 20 grams for garnish
  - Pinch nutmeg
  - Pinch freshly ground black pepper
 

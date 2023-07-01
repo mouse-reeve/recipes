@@ -23,7 +23,7 @@ Prep time: 2 hours
 ### Steps
  - Cook the chickpeas with 4 cups water for 45 minutes at high pressure or using the "beans" options.
  - Strain the beans and set aside.
- - Heat the coconut oil with the bay leaf, and saute the onion until it begins to brown.
+ - Heat the coconut oil with the bay leaf, and sauté the onion until it begins to brown.
  - Add the garlic and ginger, and cook for another few minutes.
  - Add the tomatoes, along with about 1/4 can-worth of additional water, and the spices.
  - Add the chickpeas and simmer, uncovered, until thickened.

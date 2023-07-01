@@ -15,7 +15,7 @@ Quantity: 2 servings
 
 ### Steps
  - Start the beans in a pressure cooker.
- - Heat oil in a medium saucepan over medium heat. Add onion, and saute for 5 minutes until soft and translucent.
+ - Heat oil in a medium saucepan over medium heat. Add onion, and sauté for 5 minutes until soft and translucent.
  - Stir in tomato paste, garlic, and sugar, and cook for 1 minutes, or until the tomato paste darkens.
  - Stir in tomatoes, bullion, balsamic vinegar, and thyme, and 2 cups of water.
  - Add more salt, bullion, and seasoning to taste.

@@ -10,7 +10,7 @@ Quantity: One base crust and top
  - 2 egg yolks (30 g)
 
 ### Steps
- - With a pastry blender, cut the butter into the flour until the mixture reesmbles coarse crumbs.
+ - With a pastry blender, cut the butter into the flour until the mixture resembles coarse crumbs.
  - Add the water, salt, sugar, and egg yolk. Mix with your fingers.
  - Knead lightly two or three times until the dough is smooth.
  - Press the dough into a round and refigerate for at least two hours.

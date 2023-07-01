@@ -5,7 +5,7 @@ Quantity: 8-10 servings
  - A splash olive oil
  - 1 yellow onion, diced
  - 4 cloves garlic, minced
- - 2 tablespoons chile powder
+ - 2 tablespoons chili powder
  - 2 teaspoons ground cumin
  - 1 1/2 teaspoon dried oregano
  - 1 teaspoon ground coriander
@@ -17,7 +17,7 @@ Quantity: 8-10 servings
  - 1 (15 ounce) can pinto beans
  - 1 (15 ounce) can kidney beans
  - 1 tablespoon maple syrup or brown sugar
- - 2-3 tablespoons chopped chipotle chile in adobo
+ - 2-3 tablespoons chopped chipotle chili in adobo
  - 2 tablespoons soy sauce or Bragg Liquid Aminos
  - 1 tablespoon red miso
  - 1/2 cup frozen corn
@@ -25,12 +25,12 @@ Quantity: 8-10 servings
  - 3/4 cups bulgur wheat
 
 ### Steps
- - Heat a couple tablespoons of olive oil in a large pot, and saute onions until softened.
+ - Heat a couple tablespoons of olive oil in a large pot, and sauté onions until softened.
  - Add garlic and cook for another couple minutes.
  - Stir in the spices and allow to toast until fragrant.
  - Add the grated carrot and bell pepper and cook until softened.
  - Add the remaining ingredients except the mushrooms, and stir to blend.
- - Salt to taste and leave to simmer, uncovered for an hour, stirring occassionally. Add bean water as needed to thin.
+ - Salt to taste and leave to simmer, uncovered for an hour, stirring occasionally. Add bean water as needed to thin.
  - In a skillet, cook the mushrooms until the browned.
  - Add the mushrooms and bulgur wheat and continue to simmer.
  - Serve topped with cheese, sour cream, corn chips, or whatever makes you happy. Leftovers freeze well.

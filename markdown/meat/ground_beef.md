@@ -6,7 +6,7 @@ Quantity: Approximately 1 1/2 lbs
  - 1/4 cup canola oil
  - 1/4 cup Bragg Liquid Aminos
  - 1/4 cup diced red beet
- - 2 tablespoons vegan beef or bushroom flavored bouillon
+ - 2 tablespoons vegan beef or mushroom flavored bouillon
  - 1 1/2 cups cremini mushrooms, quartered
  - 3 cloves garlic
  - 3/4 cup oat flour

@@ -3,7 +3,7 @@
 
 ### Ingredients
  - 1 batch seitan chicken
- - 4 firm, slighlty underripe peaches, peeled and sliced
+ - 4 firm, slightly underripe peaches, peeled and sliced
  - 4 dried peaches, halved
  - 1 large yellow onion
  - 3 cloves garlic, minced
@@ -15,12 +15,12 @@
  - Salt and pepper to taste
 
 ### Steps
- - Heat 3 tablespoons olive oul in a pan and saute onion until lightly browned.
+ - Heat 3 tablespoons olive oil in a pan and sauté onion until lightly browned.
  - Add the garlic and turmeric and cook for another 2 minutes.
  - Add the chicken and salt and pepper, and cook briefly to combine.
  - Stir in the dried peaches and cardamom.
  - Add water to cover the chicken, and bring to a boil, and the simmer for 40 minutes.
- - Heat a couple tablespoons of olive oil in a skillet and saute the peach slices, a couple minutes on each side.
+ - Heat a couple tablespoons of olive oil in a skillet and sauté the peach slices, a couple minutes on each side.
  - Add the peaches to the chicken, along with the cinnamon, lime, and sugar.
  - Simmer, covered, for another 20 or so minutes.
 

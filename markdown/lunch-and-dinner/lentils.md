@@ -12,8 +12,8 @@ Quantity: 4 cups
  - 2 cups vegetable broth
 
 ### Steps
- - Heat the oil and saute the cumin and pepper flakes for about a minute.
- - Add the onion, garlic, and salt and saute for another minutes.
+ - Heat the oil and sauté the cumin and pepper flakes for about a minute.
+ - Add the onion, garlic, and salt and sauté for another minutes.
  - Add the lentils, both, and 2 cups of water.
  - Simmer, covered for about 25 minutes until the lentils are tender.
 

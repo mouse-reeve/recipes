@@ -14,7 +14,7 @@
 
 ### Steps
  - Preheat the oven to 350 degrees F.
- - Beat togther ingredients and pour into a pan
+ - Beat together ingredients and pour into a pan
  - Bake for 40-45 minutes, until set
 
 > Source: https://www.tasteofhome.com/recipes/baked-oatmeal/
