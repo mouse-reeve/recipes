@@ -1,5 +1,20 @@
 {% extends "/html/layout.html" %}
 
 {% block body %}
-hi
+
+<h2>Tags</h2>
+{% for tag in indices.tags | sort %}
+<details>
+    <summary>
+        {{ tag }}
+    </summary>
+    <ul>
+        {% for file in indices.tags[tag] | sort %}
+        <li>
+            <a href="/{{ file }}">{{ indices.tags[tag][file] }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</details>
+{% endfor %}
 {% endblock %}
