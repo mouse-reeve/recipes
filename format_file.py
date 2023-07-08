@@ -85,7 +85,7 @@ def write_file(file_index, input_path, output_path, output_format):
 
     # Compile the Jinja template
     with open(
-        f"templates/template.{output_format}", "r", encoding="utf-8"
+        f"templates/{output_format}/recipe.{output_format}", "r", encoding="utf-8"
     ) as json_file:
         template = jinja2.Template(json_file.read())
     subdir = os.path.dirname(output_path).split("/")[-1]
