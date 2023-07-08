@@ -8,7 +8,7 @@ Quantity: 36 cookies
  - 1/4 teaspoon salt
  - 1 1/2 teaspoon vanilla extract
  - 1 egg
- - 284 g 2 cups all-purpose flour
+ - 284 g (2 cups) all-purpose flour
  - Coarse sugar, for sprinking
 
 ### Steps
