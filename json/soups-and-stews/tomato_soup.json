@@ -1,7 +1,6 @@
 {
-  "made": [
-    "2018-04-25T10:50:06.448287"
-  ],
+  "title": "Tomato Soup",
+  "quantity": "2 servings",
   "ingredients": [
     "1 cup dry {cannellini beans}",
     "2 tablespoons {olive oil}",
@@ -10,15 +9,10 @@
     "3 cloves {garlic}, minced",
     "1 tsp {brown sugar}",
     "1 24-oz can {crushed tomatoes}",
-    "1 teaspoon vegetarian {bullion paste}",
+    "1 teaspoon vegetarian {bouillon paste}",
     "1 teaspoon {balsamic vinegar}",
     "1/2 teaspoon dried {thyme}"
   ],
-  "tags": [
-    "soup",
-    "vegan"
-  ],
-  "source": "http://www.vegetariantimes.com/recipe/homemade-tomato-soup/",
   "steps": [
     "Start the beans in a pressure cooker.",
     "Heat oil in a medium saucepan over medium heat. Add onion, and sauté for 5 minutes until soft and translucent.",
@@ -28,6 +22,6 @@
     "Cover pan, bring soup to a boil, and simmer, covered over medium heat for 15 minutes.",
     "Add the beans, remove from heat and blend with an immersion blender until smooth and creamy."
   ],
-  "title": "Tomato Soup",
-  "quantity": "2 servings"
+  "source": "http://www.vegetariantimes.com/recipe/homemade-tomato-soup/",
+  "tags": ["vegan"]
 }

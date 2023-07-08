@@ -3,16 +3,16 @@
     "quantity": "1 9x9 cake",
     "notes": "",
     "ingredients": [
-        "2 1/2 cups {flour}",
+        "2 1/2 cups {all-purpose flour}",
         "1 1/2 tsp {baking soda}",
         "1 1/4 tsp {ground ginger}",
         "1 tsp ground {cinnamon}",
         "1/2 tsp ground {allspice}",
         "1/2 tsp {salt}",
         "1/4 tsp ground {cloves}",
-        "1/2 cup vegan {butter} or shortening",
+        "1/2 cup {butter} or shortening",
         "1/2 cup {brown sugar}",
-        "2 tbsp grated {lemon} zest",
+        "2 tbsp grated {lemon zest}",
         "1 cup {molasses}",
         "2 tsp {apple cider vinegar}",
         "1 cup boiling water"
@@ -29,5 +29,5 @@
         "Pour the batter into the prepared pan and bake for 30-35 minutes, until a knife inserted in the center comes out clean."
     ],
     "source": "https://www.vegetariantimes.com/recipes/vegan-gingerbread",
-    "tags": ["vegan", "sweets", "cake"]
+    "tags": ["vegan"]
 }

@@ -5,10 +5,10 @@
     "totaltime": "",
     "notes": "",
     "ingredients": [
-        "1 pound king trumpet mushrooms",
-        "3 tablespoons soy sauce",
-        "1 tablespoon maple syrup",
-        "1 teaspoon smoked paprika"
+        "1 pound {king trumpet mushrooms}",
+        "3 tablespoons {soy sauce}",
+        "1 tablespoon {maple syrup}",
+        "1 teaspoon {smoked paprika}"
     ],
     "steps": [
         "Use a fork to shred the mushrooms",
@@ -16,5 +16,5 @@
         "Sauté with a little oil until crispy, or however you'd like."
     ],
     "source": "The Vegan Meat Cookbook by Miyoko Schinner",
-    "tags": [""]
+    "tags": ["vegan"]
 }

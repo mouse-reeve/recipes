@@ -1,7 +1,6 @@
 {
     "title": "Quick Jam",
-    "description": "Easy jam recipe",
-    "notes": "Not proper preserves I guess.",
+    "notes": "",
     "ingredients": [
         "12 oz fruit, fresh or frozen",
         "1/4 {sugar}",
@@ -17,5 +16,5 @@
         "Refrigerate until use; keeps for 2-3 weeks."
     ],
     "source": "The Homemade Vegan Pantry, Miyoko Schinner",
-    "tags": ["vegan", "jam", "toppings"]
+    "tags": ["vegan"]
 }

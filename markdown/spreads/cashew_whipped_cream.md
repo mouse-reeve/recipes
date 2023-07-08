@@ -6,7 +6,7 @@ This is great on fruit, but has a present nutty flavor that has to be accounted 
  - 1 cup almond milk
  - 1/2 cup refined coconut oil, melted
  - 1/4 cup cashews, soaked for 3-5 hours
- - 1/4 cup sugar
+ - 1/4 cup granulated sugar
  - 1 tsp lecithin
  - 1 tsp vanilla extract
 

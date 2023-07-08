@@ -5,7 +5,7 @@ Quantity: One dozen popovers
  - 4 large eggs, warmed in a cup of hot water for 10 minutes before cracking
  - 340 g (1 1/2 cup) milk, at room temperature
  - 3/4 tsp salt
- - 180 g (1 1/2 cup) flour
+ - 180 g (1 1/2 cup) all-purpose flour
  - 43 g (3 tbsp) unsalted butter, melted, plus softened butter for greasing pans
 
 ### Steps

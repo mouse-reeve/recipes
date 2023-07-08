@@ -3,7 +3,7 @@ For vegan scones, 1:1 substitute chilled refined coconut oil or vegan butter for
 
 
 ### Ingredients
- - 2 cups all purpose flour
+ - 2 cups all-purpose flour
  - 1/3 cup light or dark brown sugar
  - 1/2 tsp ground ginger
  - 1/2 tsp ground cinnamon
@@ -11,9 +11,8 @@ For vegan scones, 1:1 substitute chilled refined coconut oil or vegan butter for
  - 1/2 tsp baking soda
  - 1/4 tsp salt
  - 1/2 cup cold unsalted butter, cut into pieces
- - 1/3 - 1/2 cup almond milk
- - 1 tsp apple cider vinegar
- - 1/2 cup canned pure pumpkin
+ - 1/3 - 1/2 cup buttermilk
+ - 1/2 cup canned pure pumpkin or roasted kabocha squash
  - 1 teaspoon pure vanilla extract
 
 ### Steps

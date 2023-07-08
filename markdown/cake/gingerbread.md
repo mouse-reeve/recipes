@@ -2,14 +2,14 @@
 Quantity: 1 9x9 cake  
 
 ### Ingredients
- - 2 1/2 cups flour
+ - 2 1/2 cups all-purpose flour
  - 1 1/2 tsp baking soda
  - 1 1/4 tsp ground ginger
  - 1 tsp ground cinnamon
  - 1/2 tsp ground allspice
  - 1/2 tsp salt
  - 1/4 tsp ground cloves
- - 1/2 cup vegan butter or shortening
+ - 1/2 cup butter or shortening
  - 1/2 cup brown sugar
  - 2 tbsp grated lemon zest
  - 1 cup molasses

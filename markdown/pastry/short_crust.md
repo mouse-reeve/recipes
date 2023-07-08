@@ -2,11 +2,11 @@
 Quantity: One base crust and top  
 
 ### Ingredients
- - 400 grams flour
+ - 400 grams all-purpose flour
  - 14 tablespoons cold butter, cut into cubes
  - 95 - 105 g ice water
  - 15 g salt (2 tsp)
- - 50 g sugar (4 tbsp)
+ - 50 g granulated sugar (4 tbsp)
  - 2 egg yolks (30 g)
 
 ### Steps

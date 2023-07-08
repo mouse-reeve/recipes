@@ -5,7 +5,7 @@
     "totaltime": "1 week",
     "notes": "",
     "ingredients": [
-        "Pumpkin guts and skin",
+        "{Pumpkin} guts and skin",
         "Salt"
     ],
     "steps": [
@@ -19,5 +19,5 @@
         "Blend the chunks of dry pumpkin one last time, until the desired texture is reached."
     ],
     "source": "https://old.reddit.com/r/fermentation/comments/fwjbcv/fermented_pumpkin_guts_salt/",
-    "tags": [""]
+    "tags": []
 }

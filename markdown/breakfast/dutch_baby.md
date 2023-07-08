@@ -3,7 +3,7 @@
 
 ### Ingredients
  - 3 tbsp butter
- - 3/4 cups four
+ - 3/4 cups all-purpose flour
  - 3/4 cups milk
  - 3 eggs
 
@@ -13,4 +13,4 @@
  - Bake for about 30 minutes until puffy and lightly browned.
  - Serve with lemon slices and honey
 
-> Source: My dad
+> Source: Dad

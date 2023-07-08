@@ -13,7 +13,7 @@ Quantity: 12 cannelé
  - 30 g maple syrup
  - 1 teaspoon orange zest
  - 14 teaspoon cinnamon
- - 125 g flour
+ - 125 g all-purpose flour
 
 ### Steps
  - Add the milk and butter to a saucepan and scrape in the vanilla bean, and bring to a boil.

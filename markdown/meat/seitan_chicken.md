@@ -11,7 +11,7 @@ Quantity: 6 chicken "breasts"
  - 10 g (1 tbsp) garlic powder
  - 2 tsp poultry seasoning
  - 10 g (1 1/2 tsp) sea salt
- - 300 g (1 3/4 cups) wheat gluten
+ - 300 g (1 3/4 cups) vital wheat gluten
  - Some olive oil, for cooking
  - 2 - 3 cups water
  - 1 tbsp soy sauce

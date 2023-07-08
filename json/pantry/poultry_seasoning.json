@@ -10,11 +10,11 @@
         "1 teaspoon dried {marjoram}",
         "2 teaspoons dried {rosemary}",
         "1/8 teaspoon ground {nutmeg}",
-        "1 teaspoon black {pepper}"
+        "1 teaspoon {black pepper}"
     ],
     "steps": [
         "Mix 'em all up together."
     ],
     "source": "",
-    "tags": [""]
+    "tags": []
 }

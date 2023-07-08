@@ -2,7 +2,7 @@
     "title": "Garlic & Herb Vegan Cheese",
     "notes": "This is more of a fancy hummus, but it's reaaaaally good.",
     "ingredients": [
-        "2 cups {raw cashews}",
+        "2 cups raw {cashews}",
         "2 cloves {garlic}, minced",
         "1/2 tsp {garlic powder}, plus more to taste",
         "1 lemon worth of {lemon zest}",
@@ -22,5 +22,5 @@
         "Unwrap gently, and move the cheese to a serving platter. Keep refrigerated."
     ],
     "source": "http://minimalistbaker.com/garlic-herb-vegan-cheese/",
-    "tags": ["vegan", "spreads"]
+    "tags": ["vegan"]
 }

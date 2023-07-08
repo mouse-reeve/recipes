@@ -1,11 +1,10 @@
 ## Recipe: Lemon Curd
-This is the only lemon curd recipe, all others pale in comparison.  
 Quantity: About 16 oz  
 
 ### Ingredients
  - 1/2 cup fresh lemon juice (probably 2-3 lemons)
  - 2 tsp finely grated lemon zest
- - 1/2 cup sugar
+ - 1/2 cup granulated sugar
  - 3 eggs
  - 6 tbsp unsalted butter
 

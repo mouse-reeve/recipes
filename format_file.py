@@ -70,7 +70,7 @@ def get_index_data(output_format):
     """collate by tags and ingredients"""
     file_list = glob.glob(FILES_PATH)
     tags = defaultdict(lambda: {})
-    ingredients = defaultdict(lambda: {})
+    # ingredients = defaultdict(lambda: {})
     for item in file_list:
         with open(item, "r", encoding="utf-8") as recipe_file:
             json_data = json.load(recipe_file)
@@ -85,16 +85,16 @@ def get_index_data(output_format):
             tags[tag][link_path] = title
 
         # extract ingredients
-        if isinstance(json_data["ingredients"][0], str):
-            ingredients_str = " ".join(json_data["ingredients"])
-        else:
-            ingredients_list = json_data["ingredients"][0].values()
-            ingredients_str = " ".join(" ".join(v) for v in ingredients_list)
+    #        if isinstance(json_data["ingredients"][0], str):
+    #            ingredients_str = " ".join(json_data["ingredients"])
+    #        else:
+    #            ingredients_list = json_data["ingredients"][0].values()
+    #            ingredients_str = " ".join(" ".join(v) for v in ingredients_list)
+    #
+    #        for ingredient in re.findall(r"\{[^\}]*\}", ingredients_str):
+    #            ingredients[ingredient.lower()][link_path] = title
 
-        for ingredient in re.findall(r"\{[^\}]*\}", ingredients_str):
-            ingredients[ingredient][link_path] = title
-
-    return {"tags": tags, "ingredients": ingredients}
+    return {"tags": tags}
 
 
 def write_index_file(file_index, output_format):

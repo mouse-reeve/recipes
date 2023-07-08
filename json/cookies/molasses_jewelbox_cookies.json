@@ -6,7 +6,7 @@
         "1 cup {butter}",
         "1 cup {molasses}",
         "2 cups light {brown sugar}, packed",
-        "4 cups {flour}",
+        "4 cups {all-purpose flour}",
         "1 tsp {baking soda}",
         "1/2 tsp {cinnamon}",
         "3 squares grated {baking chocolate}"
@@ -22,5 +22,5 @@
         "Bake for 10 - 12 minutes."
     ],
     "source": "Brer Rabbit Molasses Jar",
-    "tags": ["cookies", "family recipe", "christmas", "petit four sec"]
+    "tags": ["family recipe", "christmas"]
 }

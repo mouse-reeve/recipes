@@ -5,10 +5,10 @@
     "ingredients": [
         "150 grams hot {chilis} (after trimming and deseeding)",
         "390 grams fruit with peel, such as peaches",
-        "60 grams garlic and/or ginger",
+        "60 grams {garlic} and/or {ginger}",
         "2% salt by weight",
         "1/4 cup {vinegar}",
-        "2 teaspoons {sugar}"
+        "2 teaspoons {granulated sugar}"
     ],
     "steps": [
         "Wearing gloves, stem and deseed the chilis, making sure to retain the pith.",
@@ -18,5 +18,5 @@
         "Strain the puree through a sieve and bottle as desired."
     ],
     "source": "https://www.seriouseats.com/double-berry-habanero-hot-sauce",
-    "tags": []
+    "tags": ["vegan", "fermentation"]
 }

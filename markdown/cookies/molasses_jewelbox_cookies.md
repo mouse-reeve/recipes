@@ -6,7 +6,7 @@ Quantity: 14 dozen cookies
  - 1 cup butter
  - 1 cup molasses
  - 2 cups light brown sugar, packed
- - 4 cups flour
+ - 4 cups all-purpose flour
  - 1 tsp baking soda
  - 1/2 tsp cinnamon
  - 3 squares grated baking chocolate

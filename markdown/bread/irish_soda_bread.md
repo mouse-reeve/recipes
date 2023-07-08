@@ -4,9 +4,9 @@ This is a rich, moist bread that is good fresh and toasts well the next day.
 
 ### Ingredients
  - 2 cups all-purpose flour
- - 1 1/2 cups wheat flour
+ - 1 1/2 cups whole wheat flour
  - 1/2 cup toasted wheat germ
- - 3 tbsp sugar
+ - 3 tbsp granulated sugar
  - 1 1/2 tsp salt
  - 1 tsp baking powder
  - 1 tsp baking soda

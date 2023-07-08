@@ -6,7 +6,7 @@
  - 2 tbsp extra-virgin olive oil
  - 1 small onion, chopped
  - 2 cloves garlic, minced
- - 4 cups veggie broth
+ - 4 cups vegetable broth
  - Salt and freshly ground black pepper
 
 ### Steps

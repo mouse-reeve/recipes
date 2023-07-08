@@ -5,20 +5,20 @@
     "totaltime": "",
     "notes": "",
     "ingredients": [
-        "1 onion, diced (red is good)",
-        "1 inch ginger, minced",
-        "3 cloves garlic, minced",
-        "1 Serrano pepper or chili flakes",
-        "2 cups cooked chickpeas",
-        "Additional vegetables, such as steamed cauliflower, mushrooms, or greens.",
-        "Approximately 3 tablespoons tomato paste",
-        "2 tablespoons coconut cream",
-        "1 tsp black mustard seed, toasted and ground",
-        "1/2 tsp fenugreek seed, toasted and ground",
-        "1/2 tsp ground cumin",
-        "1/2 tsp ground coriander",
-        "1/2 tsp turmeric",
-        "Pinch of asafetida"
+        "1 {onion}, diced (red is good)",
+        "1 inch {ginger}, minced",
+        "3 cloves {garlic}, minced",
+        "1 {Serrano pepper} or chili flakes",
+        "2 cups cooked {chickpeas}",
+        "Additional vegetables, such as steamed {cauliflower}, mushrooms, or greens.",
+        "Approximately 3 tablespoons {tomato paste}",
+        "2 tablespoons {coconut cream}",
+        "1 tsp {black mustard seed}, toasted and ground",
+        "1/2 tsp {fenugreek seed}, toasted and ground",
+        "1/2 tsp ground {cumin}",
+        "1/2 tsp ground {coriander}",
+        "1/2 tsp {turmeric}",
+        "Pinch of {asafetida}"
     ],
     "steps": [
         "Sauté the onion in plenty of oil on medium low heat, without browning, until translucent.",
@@ -29,5 +29,5 @@
         "Stir in coconut cream and asafetida, and simmer, covered, for another 10 minutes."
     ],
     "source": "Yoppy",
-    "tags": [""]
+    "tags": ["vegan"]
 }

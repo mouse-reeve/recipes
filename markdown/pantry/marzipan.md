@@ -6,7 +6,7 @@ Quantity: 12 ounces
  - 1 1/2 cups powdered sugar
  - 2 tsp almond extract
  - 1 tsp rose water
- - 1 egg white or one egg's worth of Ener-G egg replacer
+ - 1 egg white or one egg's worth of egg replacer
 
 ### Steps
  - In a food processor, pulse together the almond meal and sugar.

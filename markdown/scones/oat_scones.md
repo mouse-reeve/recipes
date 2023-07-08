@@ -2,8 +2,8 @@
 
 
 ### Ingredients
- - 1 3/4 cups all purpose flour
- - 1/2 cup sugar
+ - 1 3/4 cups all-purpose flour
+ - 1/2 cup granulated sugar
  - 1/2 tsp salt
  - 3/4 tsp baking soda
  - 1 tsp baking powder
@@ -11,7 +11,7 @@
  - 1/2 cup cold unsalted butter, cut into pieces
  - 3/4 cup old-fashioned rolled oats
  - 1/2 cup dried currants, or chocolate chips
- - 2/3 - 3/4 cup buttermilk or curdled almond milk
+ - 2/3 - 3/4 cup buttermilk
 
 ### Steps
  - Preheat oven to 375 degrees F.

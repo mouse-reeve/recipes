@@ -8,7 +8,7 @@
     - 1 tbsp olive oil
  - cheeze
     - 4 cups vegetable broth
-    - 1/2 cup flour
+    - 1/2 cup all-purpose flour
     - 2 tbsp olive oil
     - 6 cloves garlic, minced
     - Large pinch dry thyme, crumbled

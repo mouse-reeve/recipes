@@ -1,25 +1,20 @@
 {
+  "title": "Hazelnut Shortbread",
+  "quantity": "2 dozen cookies",
+  "preptime": "30 minutes",
   "totaltime": "1 1/2 hours",
   "made": [
     "2018-04-22T11:45:19.912167"
   ],
+  "notes": "",
   "ingredients": [
     "1 cup raw {hazelnuts}",
     "3/4 cup {brown sugar}",
     "1 cup {butter}, cut into pieces",
     "1 1/2 teaspoon {vanilla extract}",
-    "2 cups all-purpose {flour}",
+    "2 cups {all-purpose flour}",
     "3 tablespoons {corn starch} or rice flour",
     "1/2 teaspoon {salt}"
-  ],
-  "notes": "",
-  "title": "Hazelnut Shortbread",
-  "source": "http://www.joyofbaking.com/printpages/HazelShortprint.html",
-  "tags": [
-    "vegan",
-    "sweets",
-    "cookies",
-    "petit four sec"
   ],
   "steps": [
     "Toast the hazelnuts at 350 degrees F for 15 minutes until fragrant.",
@@ -33,6 +28,6 @@
     "Roll out and cut the dough, and then refrigerate for 30 minutes.",
     "Preheat the oven to 350 degrees F, and bake for about 20 minutes, until very lightly browned."
   ],
-  "preptime": "30 minutes",
-  "quantity": "2 dozen cookies"
+  "source": "http://www.joyofbaking.com/printpages/HazelShortprint.html",
+  "tags": []
 }

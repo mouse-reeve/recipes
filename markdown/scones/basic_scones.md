@@ -8,7 +8,7 @@ Quantity: 12 scones
  - 67 g (1/3 cup) granulated sugar
  - 3/4 teaspoon salt
  - 1 tablespoon baking powder
- - 113 g (8 tablespoons) unsalted butter, cold
+ - 113 g (8 tablespoons) butter, cold
  - 1-2 cups inclusions, as desired
  - 2 large eggs
  - 2 teaspoons vanilla extract

@@ -1,27 +1,23 @@
 {
-  "made": [
-    "2018-04-21T10:55:44.069512"
-  ],
-  "description": "Easy DIY vegan butter",
-  "ingredients": [
-    "1 1/2 cup melted {refined coconut oil}",
-    "1/2 cup {almond milk}",
-    "1/4 cup {canola oil}",
-    "1 tsp {apple cider vinegar}",
-    "1/2 tsp {sea salt}",
-    "2 tsp {lecithin}"
-  ],
-  "title": "Vegan Butter",
-  "source": "http://luminousvegans.com/2013/11/12/homemade-vegan-butter-miyoko/",
-  "tags": [
-    "basics",
-    "vegan",
-    "toppings"
-  ],
-  "steps": [
-    "Blend ingredients until smooth and lecithin granules have dissolved.",
-    "Refrigerate until set."
-  ],
-  "preptime": "20 minutes",
-  "quantity": "1 1/2 cups"
+    "title": "Vegan Butter",
+    "preptime": "20 minutes",
+    "quantity": "1 1/2 cups",
+    "made": [
+        "2018-04-21T10:55:44.069512"
+    ],
+    "description": "Easy DIY vegan butter",
+    "ingredients": [
+        "1 1/2 cup melted {refined coconut oil}",
+        "1/2 cup {almond milk}",
+        "1/4 cup {canola oil}",
+        "1 tsp {apple cider vinegar}",
+        "1/2 tsp {sea salt}",
+        "2 tsp {lecithin}"
+    ],
+    "steps": [
+        "Blend ingredients until smooth and lecithin granules have dissolved.",
+        "Refrigerate until set."
+    ],
+    "source": "http://luminousvegans.com/2013/11/12/homemade-vegan-butter-miyoko/",
+    "tags": ["vegan"]
 }

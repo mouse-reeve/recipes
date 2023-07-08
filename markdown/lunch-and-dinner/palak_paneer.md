@@ -9,7 +9,7 @@
  - 1 1/2 tsp cumin seed
  - 1 inch of ginger, minced
  - 4 cloves of garlic, minced
- - 1 serrano or jalapeño pepper
+ - 1 serrano pepper or jalapeño
  - 1-2 tbsp tomato paste
  - 1 cup vegetable broth
  - 2 tsp curry powder

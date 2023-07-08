@@ -5,7 +5,7 @@ Quantity: 4 yolks
 
 ### Ingredients
  - 510 g (1 3/4 cup) salt
- - 255 g (1 1/4 cup) sugar
+ - 255 g (1 1/4 cup) granulated sugar
  - 4 egg yolks
 
 ### Steps

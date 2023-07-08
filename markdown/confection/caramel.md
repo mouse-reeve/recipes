@@ -2,7 +2,7 @@
 Quantity: 64 1 inch caramel squares  
 
 ### Ingredients
- - 1 1/2 cups heavy whipping cream
+ - 1 1/2 cups heavy cream
  - 1 cup granulated sugar
  - 2/3 cup packed light brown sugar
  - 1/3 cup corn syrup

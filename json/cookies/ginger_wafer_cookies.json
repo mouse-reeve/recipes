@@ -8,13 +8,13 @@
         "1/3 cup {molasses}",
         "1 {egg} yolk",
         "1 tsp {vanilla extract}",
-        "1 3/4 cup {flour}",
-        "1 tbsp {ground ginger}",
+        "1 3/4 cup {all-purpose flour}",
+        "1 tbsp ground {ginger}",
         "1 tsp {cinnamon}",
         "1/2 tsp {baking powder}",
         "1/2 tsp {salt}",
-        "1/4 tsp {ground cloves}",
-        "Turbino sugar"
+        "1/4 tsp ground {cloves}",
+        "{Turbinado sugar}"
     ],
     "steps": [
         "Cream the butter and sugar until fluffy.",
@@ -29,5 +29,5 @@
         "Repeat with the remaining dough."
     ],
     "source": "http://www.redbookmag.com/food-recipes/recipes/a31954/ginger-wafer-crisps-recipe-rbk1210/",
-    "tags": ["cookies", "petit four sec"]
+    "tags": []
 }

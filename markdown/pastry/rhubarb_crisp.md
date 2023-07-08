@@ -5,7 +5,7 @@ Substitute vegan butter and you've got a vegan crisp.
 ### Ingredients
  - 6 tbsp cold butter, cut into pieces, plus a little more to grease the pan
  - 2 1/2 - 3 lbs rhubarb, cut into 1 to 1/2 inch pieces
- - 1/4 cup white sugar
+ - 1/4 cup granulated sugar
  - 1 tbsp lemon juice
  - 1 tsp lemon zest
  - 3/4 cup brown sugar

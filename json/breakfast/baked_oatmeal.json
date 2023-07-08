@@ -9,7 +9,7 @@
         "1/2 cup packed {brown sugar}",
         "2 teaspoons {baking powder}",
         "1 teaspoon {salt}",
-        "1 teaspoon {ground cinnamon}",
+        "1 teaspoon ground {cinnamon}",
         "A pinch {ground nutmeg}",
         "2 large {eggs}",
         "1 cup {whole milk}",
@@ -21,5 +21,5 @@
         "Bake for 40-45 minutes, until set"
     ],
     "source": "https://www.tasteofhome.com/recipes/baked-oatmeal/",
-    "tags": [""]
+    "tags": []
 }

@@ -1,5 +1,4 @@
 ## Recipe: Quick Jam
-Not proper preserves I guess.  
 
 
 ### Ingredients

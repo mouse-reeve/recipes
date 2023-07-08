@@ -13,7 +13,7 @@ Quantity: 4 servings
  - 1 tablespoon ground cumin
  - 1 tablespoon smoked paprika
  - 1 28 oz can fire roasted diced tomatoes
- - 1/2 cup broth
+ - 1/2 cup vegetable broth
  - 1 cup cooked chickpeas
  - 1 tablespoon maple syrup or sugar
  - 2 tablespoons harissa paste

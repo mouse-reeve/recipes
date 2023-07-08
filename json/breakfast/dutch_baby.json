@@ -1,16 +1,13 @@
 {
-  "made": [
-    "2017-11-04T10:49:48.876359"
-  ],
+  "title": "Dutch Baby",
+  "notes": "",
+  "quantity": "",
   "ingredients": [
     "3 tbsp {butter}",
-    "3/4 cups {four}",
+    "3/4 cups {all-purpose flour}",
     "3/4 cups {milk}",
     "3 {eggs}"
   ],
-  "notes": "",
-  "title": "Dutch Baby",
-  "source": "My dad",
   "steps": [
     "Put the butter in a pie pan and place in the oven while it preheats to 375 degrees F.",
     "Whisk together the eggs, milk, and flour, and when the oven reaches 375, pull the pie pan out of the oven, pour the batter into the hot pan, and return to the oven.",
@@ -18,8 +15,7 @@
     "Serve with lemon slices and honey"
   ],
   "tags": [
-    "breakfast",
     "family recipe"
   ],
-  "quantity": ""
+  "source": "Dad"
 }

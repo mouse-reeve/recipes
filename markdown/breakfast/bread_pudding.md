@@ -11,7 +11,7 @@ Quantity: An 8x8 baking pan or 5 individual cocottes
  - 150 g lacto-fermented fruit, pureed
  - 1/2 tsp ground cinnamon
  - Zest of 1 lemon
- - 80 g fresh or frozen fruit
+ - 80 g fresh or frozen fruit, in bite-sized chunks
  - 12 oz stale challah, cut into cubes
  - Sliced almonds and powdered sugar for garnish
 

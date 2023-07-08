@@ -7,7 +7,7 @@
  - 2 tablespoons soy sauce
  - 2 tablespoons Shaoxing rice vinegar
  - 2 teaspoons sesame oil
- - 1 tsp Chinese five spice powder
+ - 1 tsp Chinese five spice
  - 1/2 tsp freshly ground white pepper
  - 6 cloves of garlic, peeled
  - a small piece of beet, for color

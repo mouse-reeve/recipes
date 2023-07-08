@@ -7,7 +7,7 @@
  - 60 grams garlic and/or ginger
  - 2% salt by weight
  - 1/4 cup vinegar
- - 2 teaspoons sugar
+ - 2 teaspoons granulated sugar
 
 ### Steps
  - Wearing gloves, stem and deseed the chilis, making sure to retain the pith.

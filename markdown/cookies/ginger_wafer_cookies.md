@@ -7,13 +7,13 @@ Quantity: 3 dozen cookies
  - 1/3 cup molasses
  - 1 egg yolk
  - 1 tsp vanilla extract
- - 1 3/4 cup flour
+ - 1 3/4 cup all-purpose flour
  - 1 tbsp ground ginger
  - 1 tsp cinnamon
  - 1/2 tsp baking powder
  - 1/2 tsp salt
  - 1/4 tsp ground cloves
- - Turbino sugar
+ - Turbinado sugar
 
 ### Steps
  - Cream the butter and sugar until fluffy.

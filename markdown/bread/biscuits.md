@@ -5,7 +5,7 @@ I recommend folding some chunks of Miyoko's Creamery "Rustic Alpine" vegan chees
 ### Ingredients
  - 1 cup almond milk
  - 1 tbsp apple cider vinegar
- - 2 cups flour
+ - 2 cups all-purpose flour
  - 1 tbsp baking powder
  - 1/2 tsp baking soda
  - 3/4 tsp sea salt

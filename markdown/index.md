@@ -50,8 +50,6 @@
 
     - [Japanese Cheesecake](cake/japanese_cheesecake.md)
 
-    - [Pistachio Tea Loaf](cake/pistachio_tea_loaf.md)
-
 
 ## cheese
 
@@ -147,7 +145,7 @@
 
     - [Short Crust Pastry](pastry/short_crust.md)
 
-    - [Fermented plum custard tarts](pastry/fermented_plum_custard.md)
+    - [Fermented fruit custard tarts](pastry/fermented_plum_custard.md)
 
     - [Rhubarb Crisp](pastry/rhubarb_crisp.md)
 

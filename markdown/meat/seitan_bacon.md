@@ -11,7 +11,7 @@
  - 1 tsp black pepper
  - 2 tsp salt
  - 3 cloves garlic
- - 1 1/2 cup wheat gluten
+ - 1 1/2 cup vital wheat gluten
 
 ### Steps
  - In a food processor, combine all the ingredients except the gluten, and blend until very smooth.

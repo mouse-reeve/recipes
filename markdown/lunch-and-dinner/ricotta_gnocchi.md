@@ -8,7 +8,7 @@
  - 1/4 tsp ground nutmeg
  - 1/4 tsp salt
  - 1/4 tsp black pepper
- - 1 1/4 cups flour
+ - 1 1/4 cups all-purpose flour
 
 ### Steps
  - Stir together all ingredients except the flour until fully combined.

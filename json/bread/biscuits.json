@@ -4,7 +4,7 @@
     "ingredients": [
         "1 cup {almond milk}",
         "1 tbsp {apple cider vinegar}",
-        "2 cups {flour}",
+        "2 cups {all-purpose flour}",
         "1 tbsp {baking powder}",
         "1/2 tsp {baking soda}",
         "3/4 tsp {sea salt}",
@@ -21,5 +21,5 @@
         "Bake for 10-15 minutes, until fluffy and golden brown."
     ],
     "source": "http://minimalistbaker.com/the-best-damn-vegan-biscuits/",
-    "tags": ["vegan", "biscuit"]
+    "tags": ["vegan"]
 }

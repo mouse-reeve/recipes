@@ -11,12 +11,12 @@
  - 2 lbs russet potatoes, cubed
  - 1/4 tsp ground pepper
  - 1 tbsp fresh thyme, plus more for garnish
- - 4 cups both
+ - 4 cups vegetable broth
 
 ### Steps
  - Heat the oil in a large soup pot, and sauté the leeks and onion with a pinch of salt until soft, about 10 minutes.
  - In the mean time, puree the cashews and water in a food processor until very creamy.
- - Add the potatoes, salt, pepper, thyme, and both to the pot and bring to boil.
+ - Add the potatoes, salt, pepper, thyme, and broth to the pot and bring to boil.
  - Simmer, uncovered, for about 15 minutes, until the potatoes are soft.
  - Puree with an immersion blender until the soup is creamy, and then stir in the cashew cream.
 
