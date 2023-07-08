@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>{{ recipe.title }}</title>
+    <title>{% if recipe %}{{ recipe.title }}{% else %}Recipes{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <style>
@@ -38,7 +38,7 @@
 
 <body>
 <header>
-    Recipes
+    <a href="/">Recipes</a>
 </header>
 
 <div class="container">
@@ -51,7 +51,7 @@
             <ul>
                 {% for file in index[dir] %}
                 <li>
-                    <a href="{{ file }}">{{ index[dir][file] }}</a>
+                    <a href="/{{ file }}">{{ index[dir][file] }}</a>
                 </li>
                 {% endfor %}
             </ul>

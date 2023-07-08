@@ -75,7 +75,8 @@ def get_file_index(output_format):
         with open(item, "r", encoding="utf-8") as recipe_file:
             json_data = json.load(recipe_file)
             title = json_data["title"]
-        file_link = os.path.join("../../", get_output_path(item, output_format))
+        link_path = "/".join(item.split("/")[1:])
+        file_link = re.sub(r"json$", output_format, link_path)
         index[subdir][file_link] = title
     return index
 
@@ -96,6 +97,19 @@ def write_file(file_index, input_path, output_path, output_format):
         output_file.write(
             template.render(recipe=recipe_data, current_dir=subdir, index=file_index)
         )
+
+
+def write_index_file(file_index, output_format):
+    """Create the file index"""
+    output_path = get_output_path("json/index.json", output_format)
+    # Compile the Jinja template
+    template = ENV.get_template(f"{output_format}/index.{output_format}")
+    subdir = os.path.dirname(output_path).split("/")[-1]
+
+    # Write the output file
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as output_file:
+        output_file.write(template.render(current_dir=subdir, index=file_index))
 
 
 if __name__ == "__main__":
@@ -126,6 +140,9 @@ if __name__ == "__main__":
     sys.stdout.write(f"Writing {len(files)} file(s):\n")
     for version in formats:
         all_files_index = get_file_index(version)
+
+        write_index_file(all_files_index, version)
+
         for file in files:
             sys.stdout.write(".")
             output_filename = get_output_path(file, version)
