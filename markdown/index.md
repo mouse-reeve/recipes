@@ -120,6 +120,8 @@
 
 ## pantry
 
+    - [Balsamic Roasted Tomatoes](pantry/balsamic_roasted_tomatoes.md)
+
     - [Marzipan](pantry/marzipan.md)
 
     - [Vegan Butter](pantry/vegan_butter.md)
@@ -185,12 +187,5 @@
     - [Quick Jam](spreads/quick_jam.md)
 
     - [Lemon Curd](spreads/lemon_curd.md)
-
-
-## tea-sandwiches
-
-    - [Balsamic Roasted Tomatoes](tea-sandwiches/balsamic_roasted_tomatoes.md)
-
-    - [Finger Sandwiches](tea-sandwiches/finger_sandwiches.md)
 
 
