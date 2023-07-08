@@ -1,0 +1,72 @@
+<html lang="en">
+<head>
+    <title>{{ recipe.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        header, footer, main, nav {
+            padding: 1em;
+            margin: 0;
+        }
+        header {
+            font-weight: bold;
+            background-color: #eee;
+        }
+        .container {
+            display: flex;
+        }
+        @media (max-width: 800px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+        nav {
+            flex: 1;
+        }
+        main {
+            flex: 4;
+        }
+        dt {
+            float: left;
+            padding-right: 1em;
+        }
+        .quantity {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+<header>
+    Recipes
+</header>
+
+<div class="container">
+    <nav class="sidebar">
+        {% for dir in index | sort %}
+        <details{% if dir == current_dir %} open{% endif %}>
+            <summary>
+                {{ dir }}
+            </summary>
+            <ul>
+                {% for file in index[dir] %}
+                <li>
+                    <a href="{{ file }}">{{ index[dir][file] }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </details>
+        {% endfor %}
+    </nav>
+
+    <main>
+        {% block body %}{% endblock %}
+    </main>
+</div>
+
+<footer>
+    </p>Thank's</p>
+</footer>
+</body>
+</html>
+

@@ -8,10 +8,13 @@ import re
 import sys
 from collections import defaultdict
 
-import jinja2
+from jinja2 import FileSystemLoader
+from jinja2.environment import Environment
 
 
 FILES_PATH = "json/**/*.json"
+ENV = Environment()
+ENV.loader = FileSystemLoader("templates/")
 
 
 def ingredient_display(value):
@@ -51,8 +54,8 @@ def ingredient_data(value):
         ]
 
 
-jinja2.filters.FILTERS["ingredient_display"] = ingredient_display
-jinja2.filters.FILTERS["ingredient_data"] = ingredient_data
+ENV.filters["ingredient_display"] = ingredient_display
+ENV.filters["ingredient_data"] = ingredient_data
 
 
 def get_output_path(input_path, output_format):
@@ -84,10 +87,7 @@ def write_file(file_index, input_path, output_path, output_format):
         recipe_data = json.load(json_file)
 
     # Compile the Jinja template
-    with open(
-        f"templates/{output_format}/recipe.{output_format}", "r", encoding="utf-8"
-    ) as json_file:
-        template = jinja2.Template(json_file.read())
+    template = ENV.get_template(f"{output_format}/recipe.{output_format}")
     subdir = os.path.dirname(output_path).split("/")[-1]
 
     # Write the output file

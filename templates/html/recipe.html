@@ -1,72 +1,11 @@
+{% extends "/html/layout.html" %}
 {% macro ingredient(entry) %}
 <li class="ingredient">
     {% for part in entry|ingredient_data %}{% for subpart in part %}<span{% if subpart.type == "quantity" %} class="quantity" data-quantity="{{ subpart.value }}"{% endif %}>{{ subpart.text }}</span>{% endfor %}{% endfor %}
 </li>
 {% endmacro %}
 
-<html lang="en">
-<head>
-    <title>{{ recipe.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <style>
-        header, footer, main, nav {
-            padding: 1em;
-            margin: 0;
-        }
-        header {
-            font-weight: bold;
-            background-color: #eee;
-        }
-        .container {
-            display: flex;
-        }
-        @media (max-width: 800px) {
-            .container {
-                flex-direction: column;
-            }
-        }
-        nav {
-            flex: 1;
-        }
-        main {
-            flex: 4;
-        }
-        dt {
-            float: left;
-            padding-right: 1em;
-        }
-        .quantity {
-            font-weight: bold;
-        }
-    </style>
-</head>
-
-<body>
-
-<header>
-    Recipes
-</header>
-
-<div class="container">
-    <nav class="sidebar">
-        {% for dir in index | sort %}
-        <details{% if dir == current_dir %} open{% endif %}>
-            <summary>
-                {{ dir }}
-            </summary>
-            <ul>
-                {% for file in index[dir] %}
-                <li>
-                    <a href="{{ file }}">{{ index[dir][file] }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-        </details>
-        {% endfor %}
-    </nav>
-
-    <main>
+{% block body %}
         <article>
             <h1>
                 {{ recipe.title }}
@@ -164,10 +103,6 @@
     </main>
 </div>
 
-<footer>
-    </p>Thank's</p>
-</footer>
-
 <script>
     let Recipe = new (class {
         constructor() {
@@ -188,6 +123,4 @@
         }
     })()
 </script>
-</body>
-</html>
-
+{% endblock %}
