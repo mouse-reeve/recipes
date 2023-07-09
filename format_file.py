@@ -66,42 +66,8 @@ def write_file(file_index, input_path, output_path, output_format):
         )
 
 
-def get_index_data(output_format):
-    """collate by tags and ingredients"""
-    file_list = glob.glob(FILES_PATH)
-    tags = defaultdict(lambda: {})
-    # ingredients = defaultdict(lambda: {})
-    for item in file_list:
-        with open(item, "r", encoding="utf-8") as recipe_file:
-            json_data = json.load(recipe_file)
-            title = json_data["title"]
-            recipe_tags = json_data["tags"]
-        link_path = get_link_path(item, output_format)
-
-        # extract tags
-        for tag in recipe_tags:
-            if not tag:
-                continue
-            tags[tag][link_path] = title
-
-        # extract ingredients
-    #        if isinstance(json_data["ingredients"][0], str):
-    #            ingredients_str = " ".join(json_data["ingredients"])
-    #        else:
-    #            ingredients_list = json_data["ingredients"][0].values()
-    #            ingredients_str = " ".join(" ".join(v) for v in ingredients_list)
-    #
-    #        for ingredient in re.findall(r"\{[^\}]*\}", ingredients_str):
-    #            ingredients[ingredient.lower()][link_path] = title
-
-    return {"tags": tags}
-
-
 def write_index_file(file_index, output_format):
     """Create the file index"""
-    # get special index data
-    data = get_index_data(output_format)
-
     output_path = get_output_path("json/index.json", output_format)
     # Compile the Jinja template
     template = ENV.get_template(f"{output_format}/index.{output_format}")
@@ -111,7 +77,7 @@ def write_index_file(file_index, output_format):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as output_file:
         output_file.write(
-            template.render(indices=data, current_dir=subdir, index=file_index)
+            template.render(current_dir=subdir, index=file_index)
         )
 
 

@@ -2,42 +2,8 @@
 
 {% block body %}
 
-{#
 <article>
-    <h2>Ingredients</h2>
-    {% for ingredient in indices.ingredients | sort %}
-    <details>
-        <summary>
-            {{ ingredient | ingredient_display }}
-        </summary>
-        <ul>
-            {% for file in indices.ingredients[ingredient] | sort %}
-            <li>
-                <a href="/{{ file }}">{{ indices.ingredients[ingredient][file] }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </details>
-    {% endfor %}
-</article>
-#}
-
-<article>
-    <h2>Tags</h2>
-    {% for tag in indices.tags | sort %}
-    <details>
-        <summary>
-            {{ tag }}
-        </summary>
-        <ul>
-            {% for file in indices.tags[tag] | sort %}
-            <li>
-                <a href="/{{ file }}">{{ indices.tags[tag][file] }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </details>
-    {% endfor %}
+    <p>These sure are some recipes!</p>
 </article>
 
 {% endblock %}
