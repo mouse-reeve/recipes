@@ -90,6 +90,8 @@
 
     - [Ricotta Gnocchi](lunch-and-dinner/ricotta_gnocchi.md)
 
+    - [Baked Orzo](lunch-and-dinner/baked_orzo.md)
+
     - [Chickpeas](lunch-and-dinner/chickpeas.md)
 
     - [Palak Paneer](lunch-and-dinner/palak_paneer.md)
