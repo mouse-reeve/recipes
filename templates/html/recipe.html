@@ -119,7 +119,7 @@
 
         scaleIngredient(ingredient, scale) {
             const currentValue = ingredient.dataset.quantity;
-            ingredient.setHTML(currentValue * scale);
+            ingredient.innerHTML = currentValue * scale;
         }
     })()
 </script>
