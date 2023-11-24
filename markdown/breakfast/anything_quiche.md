@@ -4,8 +4,9 @@ Quantity: 1 quiche
 ### Ingredients
  - 1 batch of pie crust
  - 6 eggs
- - 1 cup cream
- - Salt to taste
+ - 255 g (1 cup) half and half
+ - 1/2 tsp salt (to taste)
+ - A few turns of freshly ground black pepper
  - Whatever you want to put in it -- veggies, cheese, spices, go wild
 
 ### Steps

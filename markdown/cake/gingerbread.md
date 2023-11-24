@@ -5,17 +5,17 @@ Quantity: 1 9x9 cake
  - 113 g (1/2 cup) softened butter
  - 200 g (1 cup) granulated sugar
  - 255 g (3/4 cup) molasses
- - 2 tbsp grated lemon zest
- - 3 tbsp grated fresh ginger
+ - 2 teaspoons grated lemon zest
+ - 3 tablespoons grated fresh ginger
  - 2 eggs
  - 240 g (2 cups) all-purpose flour
- - 12 g (2 tsp) baking soda
- - 1/2 tsp salt
- - 1 1/2 tsp ground ginger
- - 1 tsp ground cinnamon
- - 1/2 tsp mustard powder
- - 1/4 tsp ground clove
- - 1/4 tsp ground allspice
+ - 12 g (2 teaspoon) baking soda
+ - 1/2 teaspoon salt
+ - 1 1/2 teaspoon ground ginger
+ - 1 teaspoon ground cinnamon
+ - 1/2 teaspoon mustard powder
+ - 1/4 teaspoon ground clove
+ - 1/4 teaspoon ground allspice
  - 1/4 cup yogurt
  - 3/4 cup boiling water
 

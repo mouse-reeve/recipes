@@ -8,6 +8,7 @@ Quantity: 24 cookies
  - 3/4 cup butter
  - 3/4 cup granulated sugar
  - 3 tablespoons honey
+ - 3/4 cup tahini
  - 1/4 cup toasted sesame seeds
 
 ### Steps

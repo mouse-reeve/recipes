@@ -149,6 +149,8 @@
 
     - [Short Crust Pastry](pastry/short_crust.md)
 
+    - [Masala Pumpkin Pie](pastry/pumpkin_pie.md)
+
     - [Fermented fruit custard tarts](pastry/fermented_plum_custard.md)
 
     - [Rhubarb Crisp](pastry/rhubarb_crisp.md)
