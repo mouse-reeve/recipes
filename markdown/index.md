@@ -10,6 +10,8 @@
 
 ## bread
 
+    - [Bagels](bread/bagels.md)
+
     - [Lemon olive fennel brioche](bread/lemon_olive_fennel_brioche.md)
 
     - [Brown Irish Soda Bread (Vegan)](bread/vegan_soda_bread.md)
