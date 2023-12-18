@@ -1,0 +1,20 @@
+## Recipe: Toffee
+If using as candy rather than an inclusion, add 170 g (1 cup) chopped nuts at hard ball stage (265 degrees F.)  
+Quantity: One half sheet pan  
+
+### Ingredients
+ - 230 g (1 cup) unsalted butter, cubed
+ - 120 g (1/2 cup) warm water
+ - 200 g (1 cup) granulated sugar
+ - 1 teaspoon salt
+ - 1 teaspoon light corn syrup
+
+### Steps
+ - Prepare a half sheet with silpat or parchment paper.
+ - Melt the butter in a 3 quart saucepan.
+ - Add the remaining ingredients and bring to a boil, stirring constantly until the sugar is dissolved.
+ - Stir occassionally until the mixture boils, brushing the sides of the pan with water to prevent crystalization.
+ - Stop stirring and let the mixture get to soft crack stage, 290 degrees F.
+ - Remove from heat and pour into prepared pan.
+
+> Source: https://sallysbakingaddiction.com/toffee-recipe/

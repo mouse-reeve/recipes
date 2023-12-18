@@ -16,8 +16,8 @@ Quantity: 1 9x9 cake
  - 1/2 teaspoon mustard powder
  - 1/4 teaspoon ground clove
  - 1/4 teaspoon ground allspice
- - 1/4 cup yogurt
- - 3/4 cup boiling water
+ - 55 g (1/4 cup) yogurt
+ - 175 g (3/4 cup) boiling water
 
 ### Steps
  - Preheat oven to 350 degrees F.

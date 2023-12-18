@@ -66,6 +66,8 @@
 
     - [Caramel](confection/caramel.md)
 
+    - [Toffee](confection/toffee.md)
+
 
 ## cookies
 
